@@ -1,0 +1,13 @@
+sculpin_content_types:
+    posts:
+        enabled: false
+    portfolio:
+        type: path
+        path: _portfolio
+        singular_name: portfolio
+        layout: portfolio
+        enabled: true
+        permalink: portfolio/:folder:basename
+        taxonomies:
+            - tags
+            - categories

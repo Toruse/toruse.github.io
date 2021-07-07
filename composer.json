@@ -1,0 +1,22 @@
+{
+    "name": "toruse/portfolio",
+    "description": "Portfolio",
+    "type": "sculpin-skeleton",
+    "license": "MIT",
+    "require": {
+        "sculpin/sculpin": "^3.1"
+    },
+    "scripts": {
+        "publish": [
+            "./publish.sh"
+        ],
+        "sculpin-watch": [
+            "Composer\\Config::disableProcessTimeout",
+            "sculpin generate --watch --server"
+        ],
+        "yarn-watch": [
+            "Composer\\Config::disableProcessTimeout",
+            "yarn encore dev --watch"
+        ]
+    }
+}

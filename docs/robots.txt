@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /portfolio/tags/
+Disallow: /portfolio/categories/
+
+Sitemap: /sitemap.xml

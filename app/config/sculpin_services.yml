@@ -1,0 +1,6 @@
+services:
+    sculpin_content_types.types.portfolio.collection.sorter:
+        class: Sculpin\Contrib\ProxySourceCollection\Sorter\MetaSorter
+        arguments:
+            - sort
+            - asc
