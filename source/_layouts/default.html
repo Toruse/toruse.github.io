@@ -35,6 +35,17 @@
         {% endblock %}
         {% block head_scripts %}
         {% endblock %}
+        {% if site.google_analytics_tracking_id %}
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics_tracking_id}}"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', '{{site.google_analytics_tracking_id}}');
+        </script>
+        {% endif %}
     </head>
     <body>
         <header>
@@ -57,18 +68,6 @@
         <script src="{{ site.url }}/build/app.js"></script>
         {% block scripts %}
         {% endblock %}
-
-        {% if site.google_analytics_tracking_id %}
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics_tracking_id}}"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', '{{site.google_analytics_tracking_id}}');
-        </script>
-        {% endif %}
 
         {% block scripts_after %}
         {% endblock %}
