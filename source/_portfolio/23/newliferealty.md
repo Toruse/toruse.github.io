@@ -9,7 +9,7 @@ date: 07.08.2015 08:57
 sort: 23
 ---
 
-![NewLifeRealty](../../assets/img/work/salenlrealty.jpg)
+![NewLifeRealty](/assets/img/work/salenlrealty.jpg)
 
 **NewLifeRealty** - сайт по продаже недвижимости.
 

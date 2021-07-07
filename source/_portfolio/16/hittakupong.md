@@ -9,7 +9,7 @@ date: 05.08.2015 05:20
 sort: 16
 ---
 
-![Hittakupong](../../assets/img/work/hittakupong.jpg)
+![Hittakupong](/assets/img/work/hittakupong.jpg)
 
 **Hittakupong** - интернет сервис по продаже скидочных купонов.
 

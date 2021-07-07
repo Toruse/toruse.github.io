@@ -9,7 +9,7 @@ date: 01.12.2019 02:03
 sort: 51
 ---
 
-![Infinity Lashes](../../assets/img/work/infinity_lashes.jpg)
+![Infinity Lashes](/assets/img/work/infinity_lashes.jpg)
 
 **Infinity Lashes** - интернет магазин для студии по профессиональному наращиванию ресниц.
 

@@ -9,7 +9,7 @@ date: 28.05.2021 21:24
 sort: 58
 ---
 
-![Atompark.com](../../assets/img/work/atompark.png)
+![Atompark.com](/assets/img/work/atompark.png)
 
 **Atompark.com** - сервис по продвижению программного обеспечения и сервисов для email и смс маркетинга.
 

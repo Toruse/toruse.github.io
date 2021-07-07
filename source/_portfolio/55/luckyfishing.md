@@ -9,7 +9,7 @@ date: 03.12.2019 02:53
 sort: 55
 ---
 
-![LuckyFishing](../../assets/img/work/luckyfishing.jpg)
+![LuckyFishing](/assets/img/work/luckyfishing.jpg)
 
 **LuckyFishing** - сайт-агрегатор для баз отдыха, водоёмов, рыболовецких магазинов.
 

@@ -9,7 +9,7 @@ date: 23.11.2019 00:27
 sort: 44
 ---
 
-![Приложение RGames](../../assets/img/work/rgames.jpg)
+![Приложение RGames](/assets/img/work/rgames.jpg)
 
 **Приложение RGames** - нативное графическое приложения для настольных операционных систем.
 

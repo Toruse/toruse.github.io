@@ -9,7 +9,7 @@ date: 01.02.2016 06:02
 sort: 34
 ---
 
-![Jurist4You](../../assets/img/work/jurist4you.jpg)
+![Jurist4You](/assets/img/work/jurist4you.jpg)
 
 **Jurist4You** - сайт по предоставлению юридических и посреднических услуг нерезидентам Литвы и ЕС, жителям России, 
 Украины, Беларуси, Армении, Грузии.

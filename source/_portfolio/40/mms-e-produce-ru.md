@@ -9,7 +9,7 @@ date: 03.06.2017 21:51
 sort: 40
 ---
 
-![Mms.e-produce.ru](../../assets/img/work/mms_e-produce_ru.jpg)
+![Mms.e-produce.ru](/assets/img/work/mms_e-produce_ru.jpg)
 
 **Mms.e-produce.ru** - сайт по розыгрышу новогодних подарков.
 

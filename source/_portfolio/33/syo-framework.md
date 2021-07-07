@@ -9,7 +9,7 @@ date: 29.11.2019 20:38
 sort: 33
 ---
 
-![Syo Framework](../../assets/img/work/syo.jpg)
+![Syo Framework](/assets/img/work/syo.jpg)
 
 **Syo** - фреймворк с открытым кодом, предназначенный для разработки веб приложений на основе архитектурной модели MVC.
 

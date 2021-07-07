@@ -9,7 +9,7 @@ date: 27.05.2021 23:45
 sort: 57
 ---
 
-![ePochta.ru](../../assets/img/work/epochta.png)
+![ePochta.ru](/assets/img/work/epochta.png)
 
 **ePochta.ru** - сервис по продвижению программного обеспечения и сервисов для email и смс маркетинга.
 

@@ -9,7 +9,7 @@ date: 25.11.2019 23:57
 sort: 46
 ---
 
-![Kredito Organizacijos](../../assets/img/work/kreditoorganizacijos.jpg)
+![Kredito Organizacijos](/assets/img/work/kreditoorganizacijos.jpg)
 
 Сайт визитка для кредитной организации.
 

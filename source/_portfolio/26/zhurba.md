@@ -9,7 +9,7 @@ date: 09.08.2015 00:39
 sort: 26
 ---
 
-![Журба](../../assets/img/work/zhurba.jpg)
+![Журба](/assets/img/work/zhurba.jpg)
 
 **Журба** - сайт магазина ритуальных услуг.
 

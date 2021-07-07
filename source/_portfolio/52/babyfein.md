@@ -9,7 +9,7 @@ date: 02.12.2019 18:28
 sort: 52
 ---
 
-![Babyfein](../../assets/img/work/babyfein.jpg)
+![Babyfein](/assets/img/work/babyfein.jpg)
 
 **Babyfein** - сервис предоставляющий информацию о составе продуктов питания для беременных женщин.
 

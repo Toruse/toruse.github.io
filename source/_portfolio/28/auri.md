@@ -9,7 +9,7 @@ date: 27.08.2015 05:07
 sort: 28
 ---
 
-![Auri](../../assets/img/work/auri.jpg)
+![Auri](/assets/img/work/auri.jpg)
 
 **Auri** - интернет-портал виртуальных вещей.
 

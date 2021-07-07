@@ -9,7 +9,7 @@ date: 05.03.2015 06:00
 sort: 8
 ---
 
-![DomDaDom](../../assets/img/work/domdadom.jpg)
+![DomDaDom](/assets/img/work/domdadom.jpg)
 
 **DomDaDom** - интернет-магазин по ремонту, дизайну и продаже мебели.
 

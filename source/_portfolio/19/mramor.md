@@ -9,7 +9,7 @@ date: 06.08.2015 08:01
 sort: 19
 ---
 
-![Мрамор](../../assets/img/work/marble.jpg)
+![Мрамор](/assets/img/work/marble.jpg)
 
 **Мрамор** - сайт склада мрамора в Киеве.
 

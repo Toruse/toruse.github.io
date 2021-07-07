@@ -9,7 +9,7 @@ date: 01.09.2015 22:51
 sort: 32
 ---
 
-![Плагин Cross-Link для WordPress](../../assets/img/work/wordpress-plugin.jpg)
+![Плагин Cross-Link для WordPress](/assets/img/work/wordpress-plugin.jpg)
 
 **Cross-Link** - плагин для внутренней перелинковки статей.
 

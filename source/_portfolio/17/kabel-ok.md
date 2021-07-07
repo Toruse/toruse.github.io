@@ -9,7 +9,7 @@ date: 05.08.2015 06:48
 sort: 17
 ---
 
-![Kabel-OK](../../assets/img/work/kabel-ok.jpg)
+![Kabel-OK](/assets/img/work/kabel-ok.jpg)
 
 **Kabel-OK** - сайт производителя кабельных каналов и других комплектующих для станкостроения и промышленных отраслей.
 

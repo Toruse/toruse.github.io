@@ -9,7 +9,7 @@ date: 10.03.2014 22:40
 sort: 2
 ---
 
-![Hobby-Mania](../../assets/img/work/saithm.jpg)
+![Hobby-Mania](/assets/img/work/saithm.jpg)
 
 **Hobby-Mania** - интернет магазин по продаже игрушек.
 

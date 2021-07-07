@@ -9,7 +9,7 @@ date: 30.06.2015 04:42
 sort: 14
 ---
 
-![City Look](../../assets/img/work/citylook.jpg)
+![City Look](/assets/img/work/citylook.jpg)
 
 **City Look** - интернет-магазин одежды, обуви и аксессуаров.
 

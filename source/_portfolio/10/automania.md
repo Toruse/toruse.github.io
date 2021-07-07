@@ -9,7 +9,7 @@ date: 26.06.2015 05:46
 sort: 10
 ---
 
-![AutoMania](../../assets/img/work/automania.jpg)
+![AutoMania](/assets/img/work/automania.jpg)
 
 **AutoMania** - интернет-магазин по продаже запчастей.
 

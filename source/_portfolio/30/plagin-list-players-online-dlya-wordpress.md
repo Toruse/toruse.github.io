@@ -9,7 +9,7 @@ date: 31.08.2015 05:31
 sort: 30
 ---
 
-![Плагин List Players Online для WordPress](../../assets/img/work/inf.jpg)
+![Плагин List Players Online для WordPress](/assets/img/work/inf.jpg)
 
 **List Players Online** - плагин для вывода online игроков на сайт.
 

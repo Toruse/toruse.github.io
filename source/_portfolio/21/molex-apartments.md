@@ -9,7 +9,7 @@ date: 07.08.2015 06:57s
 sort: 21
 ---
 
-![Molex apartments](../../assets/img/work/molexapart.jpg)
+![Molex apartments](/assets/img/work/molexapart.jpg)
 
 **Molex apartments** - сайт по аренде апартаментов.
 

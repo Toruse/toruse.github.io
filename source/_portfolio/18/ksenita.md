@@ -9,7 +9,7 @@ date: 06.08.2015 05:13
 sort: 18
 ---
 
-![Ксенита](../../assets/img/work/ksenita_revolife.jpg)
+![Ксенита](/assets/img/work/ksenita_revolife.jpg)
 
 **Ксенита** - сайт портфолио визажиста.
 

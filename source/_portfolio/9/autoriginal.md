@@ -9,7 +9,7 @@ date: 23.06.2015 04:52
 sort: 9
 ---
 
-![Autoriginal](../../assets/img/work/autoriginal.jpg)
+![Autoriginal](/assets/img/work/autoriginal.jpg)
 
 **Autoriginal** - интернет-магазин автозапчастей.
 

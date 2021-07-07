@@ -9,7 +9,7 @@ date: 11.03.2014 00:43
 sort: 5
 ---
 
-![Otchebuchka](../../assets/img/work/verstkaof.jpg)
+![Otchebuchka](/assets/img/work/verstkaof.jpg)
 
 Верстка фотоальбома для проекта Otchebuchka.
 

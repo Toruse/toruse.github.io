@@ -9,7 +9,7 @@ date: 02.12.2019 23:28
 sort: 54
 ---
 
-![eBuildCRM](../../assets/img/work/ebuildcrm.jpg)
+![eBuildCRM](/assets/img/work/ebuildcrm.jpg)
 
 **eBuildCRM** - система для управления заказами строительной компании, и планирование их выполнения.
 

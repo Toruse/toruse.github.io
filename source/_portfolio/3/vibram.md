@@ -9,7 +9,7 @@ date: 11.03.2014 00:44
 sort: 3
 ---
 
-![Vibram](../../assets/img/work/verstkavk.jpg)
+![Vibram](/assets/img/work/verstkavk.jpg)
 
 **Vibram** - интернет магазин по продаже обуви Vibram Five Fingers.
 

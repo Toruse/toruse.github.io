@@ -9,7 +9,7 @@ date: 31.08.2015 23:11
 sort: 31
 ---
 
-![Плагин IT-Tour для WordPress](../../assets/img/work/ittour.jpg)
+![Плагин IT-Tour для WordPress](/assets/img/work/ittour.jpg)
 
 **Плагин IT-Tour** - позволяет выполнить поиск туров с сервиса IT-tour.
 

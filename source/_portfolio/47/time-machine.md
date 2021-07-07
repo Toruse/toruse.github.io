@@ -9,7 +9,7 @@ date: 27.11.2019 21:04
 sort: 47
 ---
 
-![Time Machine](../../assets/img/work/time-machine.jpg)
+![Time Machine](/assets/img/work/time-machine.jpg)
 
 **Time Machine** - система управления персоналом организации.
 

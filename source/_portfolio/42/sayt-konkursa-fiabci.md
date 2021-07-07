@@ -9,7 +9,7 @@ date: 24.11.2019 16:07
 sort: 42
 ---
 
-![Сайт конкурса FIABCI](../../assets/img/work/konkursfiabsi.jpg)
+![Сайт конкурса FIABCI](/assets/img/work/konkursfiabsi.jpg)
 
 **Конкурс FIABCI** - один из самых престижных конкурсов в области недвижимости.
 

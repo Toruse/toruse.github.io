@@ -9,7 +9,7 @@ date: 29.11.2019 18:44
 sort: 48
 ---
 
-![UTB](../../assets/img/work/utb_ua.jpg)
+![UTB](/assets/img/work/utb_ua.jpg)
 
 **UTB** - украинская транспортная онлайн-биржа для перевозки грузов.
 

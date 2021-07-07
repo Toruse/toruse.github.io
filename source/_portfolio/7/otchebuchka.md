@@ -9,7 +9,7 @@ date: 11.03.2014 00:43
 sort: 7
 ---
 
-![Otchebuchka](../../assets/img/work/verstkaoch.jpg)
+![Otchebuchka](/assets/img/work/verstkaoch.jpg)
 
 Верстка главной страницы для проекта Otchebuchka.
 

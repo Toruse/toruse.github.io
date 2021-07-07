@@ -9,7 +9,7 @@ date: 25.05.2017 00:27
 sort: 37
 ---
 
-![Парсер сайта Rekvizitai.vz.lt](../../assets/img/work/rekvizitai_vz_lt.jpg)
+![Парсер сайта Rekvizitai.vz.lt](/assets/img/work/rekvizitai_vz_lt.jpg)
 
 **Парсер** для выборки данных о компаниях предоставляющие строительные и ремонтные услуги.
 

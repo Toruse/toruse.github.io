@@ -9,7 +9,7 @@ date: 29.08.2015 22:43
 sort: 29
 ---
 
-![Corsar](../../assets/img/work/corsar.jpg)
+![Corsar](/assets/img/work/corsar.jpg)
 
 **Corsar** - интернет-магазин товаров для туризма и активного отдыха.
 

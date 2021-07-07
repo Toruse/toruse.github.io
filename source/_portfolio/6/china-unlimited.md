@@ -9,7 +9,7 @@ date: 10.03.2014 22:39
 sort: 6
 ---
 
-![China-Unlimited](../../assets/img/work/china.jpg)
+![China-Unlimited](/assets/img/work/china.jpg)
 
 **China-Unlimited** - сайт визитка компании по доставке товаров из Китая.
 

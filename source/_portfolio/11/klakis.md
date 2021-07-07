@@ -9,7 +9,7 @@ date: 27.06.2015 07:23
 sort: 11
 ---
 
-![Klakis](../../assets/img/work/klakis.jpg)
+![Klakis](/assets/img/work/klakis.jpg)
 
 **Klakis** - интернет-магазин по продаже игрушек сделанные своими руками.
 

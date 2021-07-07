@@ -9,7 +9,7 @@ date: 09.08.2015 00:27
 sort: 25
 ---
 
-![Yuppi](../../assets/img/work/yuppi.jpg)
+![Yuppi](/assets/img/work/yuppi.jpg)
 
 **Yuppi** - интернет-магазин брендовой обуви из Польши и США.
 

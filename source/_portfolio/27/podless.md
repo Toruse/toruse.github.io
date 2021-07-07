@@ -9,7 +9,7 @@ date: 09.08.2015 00:59
 sort: 27
 ---
 
-![Podless](../../assets/img/work/podless.jpg)
+![Podless](/assets/img/work/podless.jpg)
 
 **Podless** - сайт тренинга по эффективной коммуникации.
 

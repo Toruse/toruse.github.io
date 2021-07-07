@@ -9,7 +9,7 @@ date: 25.11.2019 21:13
 sort: 45
 ---
 
-![ILoveAsia](../../assets/img/work/iloveasia_travel.jpg)
+![ILoveAsia](/assets/img/work/iloveasia_travel.jpg)
 
 **ILoveAsia** - проект объединяющий экспертов по Азии, которые предлагают активные путешествия.
 

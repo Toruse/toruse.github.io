@@ -9,7 +9,7 @@ date: 11.03.2014 00:43
 sort: 4
 ---
 
-![Otchebuchka](../../assets/img/work/saitot.jpg)
+![Otchebuchka](/assets/img/work/saitot.jpg)
 
 **Otchebuchka** - литературный интернет портал для начинающих и профессиональных писателей.
 

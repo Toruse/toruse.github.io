@@ -9,7 +9,7 @@ date: 29.06.2015 09:04
 sort: 13
 ---
 
-![Brise und Welle](../../assets/img/work/brise.jpg)
+![Brise und Welle](/assets/img/work/brise.jpg)
 
 **Brise und Welle** - сайт косметологической студии.
 

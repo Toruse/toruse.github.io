@@ -9,7 +9,7 @@ date: 01.06.2017 22:31
 sort: 38
 ---
 
-![Парсер сайта Skelbiu.lt](../../assets/img/work/skelbiu_lt.jpg)
+![Парсер сайта Skelbiu.lt](/assets/img/work/skelbiu_lt.jpg)
 
 **Парсер** для выборки телефонов, e-mail компаний предоставляющие строительные и ремонтные услуги.
 

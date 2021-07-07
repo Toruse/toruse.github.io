@@ -9,7 +9,7 @@ date: 02.12.2019 21:07
 sort: 53
 ---
 
-![Kompetenzcenter](../../assets/img/work/kompetenzcenter.jpg)
+![Kompetenzcenter](/assets/img/work/kompetenzcenter.jpg)
 
 Плагин для записи на консультацию в центр компетенции.
 
