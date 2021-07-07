@@ -39,32 +39,34 @@ use:
 
     <div class="col-md-9">
     {% for portfolio in data.portfolio %}
-        <div class="card mb-4 js-card-filter">
-            <div class="card-header">
-                <h2 class="responsive-font-size"><a href="{{ site.url }}{{ portfolio.url }}">{{ portfolio.tag_title }}</a></h2>
+        {% if portfolio.disable == false %}
+            <div class="card mb-4 js-card-filter">
+                <div class="card-header">
+                    <h2 class="responsive-font-size"><a href="{{ site.url }}{{ portfolio.url }}">{{ portfolio.tag_title }}</a></h2>
+                </div>
+                <div class="card-body port-content">
+                    {{ portfolio.blocks.content|split('<hr />')|first|raw }}
+                </div>
+                <div class="card-footer text-muted">
+                    {% if portfolio.meta.categories %}
+                    <p class="categories">
+                        Компания:
+                        {% for categorie in portfolio.meta.categories %}
+                        <span class="font-italic">{{ categorie }}</span>{% if not loop.last %}, {% endif %}
+                        {% endfor %}
+                    </p>
+                    {% endif %}
+                    {% if portfolio.meta.tags %}
+                    <p class="tags">
+                        Технологии:
+                        {% for tag in portfolio.meta.tags %}
+                        <span class="font-italic">{{ tag }}</span>{% if not loop.last %}, {% endif %}
+                        {% endfor %}
+                    </p>
+                    {% endif %}
+                </div>
             </div>
-            <div class="card-body port-content">
-                {{ portfolio.blocks.content|split('<hr />')|first|raw }}
-            </div>
-            <div class="card-footer text-muted">
-                {% if portfolio.meta.categories %}
-                <p class="categories">
-                    Компания:
-                    {% for categorie in portfolio.meta.categories %}
-                    <span class="font-italic">{{ categorie }}</span>{% if not loop.last %}, {% endif %}
-                    {% endfor %}
-                </p>
-                {% endif %}
-                {% if portfolio.meta.tags %}
-                <p class="tags">
-                    Технологии:
-                    {% for tag in portfolio.meta.tags %}
-                    <span class="font-italic">{{ tag }}</span>{% if not loop.last %}, {% endif %}
-                    {% endfor %}
-                </p>
-                {% endif %}
-            </div>
-        </div>
+        {% endif %}
     {% endfor %}
     </div>
 </div>
