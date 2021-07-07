@@ -3,7 +3,6 @@ permalink: none
 ---
 
 User-agent: *
-Disallow: /portfolio/tags/
-Disallow: /portfolio/categories/
+Disallow: /
 
 Sitemap: {{ site.url }}/sitemap.xml
