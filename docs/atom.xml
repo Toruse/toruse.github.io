@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title><![CDATA[Portfolio]]></title>
-    <link href="/atom.xml" rel="self"/>
-    <link href="/"/>
-    <updated>2021-07-07T23:04:13+03:00</updated>
-    <id>/</id>
+    <link href="https://toruse.github.io/atom.xml" rel="self"/>
+    <link href="https://toruse.github.io/"/>
+    <updated>2021-12-30T18:49:46+03:00</updated>
+    <id>https://toruse.github.io/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
             <title type="html"><![CDATA[massmailsoftware.com]]></title>
-            <link href="/portfolio/59/massmailsoftware"/>
+            <link href="https://toruse.github.io/portfolio/59/massmailsoftware"/>
             <updated>2021-05-28T21:32:00+03:00</updated>
-            <id>/portfolio/59/massmailsoftware</id>
+            <id>https://toruse.github.io/portfolio/59/massmailsoftware</id>
             <content type="html"><![CDATA[<p><img src="/assets/img/work/massmailsoftware.png" alt="Massmailsoftware.com" /></p>
 
 <p><strong>Massmailsoftware.com</strong> - сервис по продвижению программного обеспечения и сервисов для email и смс маркетинга.</p>
@@ -26,9 +26,9 @@
         </entry>
             <entry>
             <title type="html"><![CDATA[atompark.com]]></title>
-            <link href="/portfolio/58/atompark"/>
+            <link href="https://toruse.github.io/portfolio/58/atompark"/>
             <updated>2021-05-28T21:24:00+03:00</updated>
-            <id>/portfolio/58/atompark</id>
+            <id>https://toruse.github.io/portfolio/58/atompark</id>
             <content type="html"><![CDATA[<p><img src="/assets/img/work/atompark.png" alt="Atompark.com" /></p>
 
 <p><strong>Atompark.com</strong> - сервис по продвижению программного обеспечения и сервисов для email и смс маркетинга.</p>
@@ -44,9 +44,9 @@
         </entry>
             <entry>
             <title type="html"><![CDATA[epochta.ru]]></title>
-            <link href="/portfolio/57/epochta"/>
+            <link href="https://toruse.github.io/portfolio/57/epochta"/>
             <updated>2021-05-27T23:45:00+03:00</updated>
-            <id>/portfolio/57/epochta</id>
+            <id>https://toruse.github.io/portfolio/57/epochta</id>
             <content type="html"><![CDATA[<p><img src="/assets/img/work/epochta.png" alt="ePochta.ru" /></p>
 
 <p><strong>ePochta.ru</strong> - сервис по продвижению программного обеспечения и сервисов для email и смс маркетинга.</p>
@@ -62,9 +62,9 @@
         </entry>
             <entry>
             <title type="html"><![CDATA[AtomPark Member Area]]></title>
-            <link href="/portfolio/56/atompark-member-area"/>
+            <link href="https://toruse.github.io/portfolio/56/atompark-member-area"/>
             <updated>2021-05-27T23:45:00+03:00</updated>
-            <id>/portfolio/56/atompark-member-area</id>
+            <id>https://toruse.github.io/portfolio/56/atompark-member-area</id>
             <content type="html"><![CDATA[<p><img src="/assets/img/work/apma.png" alt="Личный кабинет Atompark" /></p>
 
 <p><strong>AtomPark</strong> - компания по разработке и продвижению программного обеспечения и сервисов для email и смс маркетинга.</p>
@@ -80,9 +80,9 @@
         </entry>
             <entry>
             <title type="html"><![CDATA[LuckyFishing]]></title>
-            <link href="/portfolio/55/luckyfishing"/>
+            <link href="https://toruse.github.io/portfolio/55/luckyfishing"/>
             <updated>2019-12-03T02:53:00+03:00</updated>
-            <id>/portfolio/55/luckyfishing</id>
+            <id>https://toruse.github.io/portfolio/55/luckyfishing</id>
             <content type="html"><![CDATA[<p><img src="/assets/img/work/luckyfishing.jpg" alt="LuckyFishing" /></p>
 
 <p><strong>LuckyFishing</strong> - сайт-агрегатор для баз отдыха, водоёмов, рыболовецких магазинов.</p>
@@ -119,9 +119,9 @@
         </entry>
             <entry>
             <title type="html"><![CDATA[eBuildCRM]]></title>
-            <link href="/portfolio/54/ebuildcrm"/>
+            <link href="https://toruse.github.io/portfolio/54/ebuildcrm"/>
             <updated>2019-12-02T23:28:00+03:00</updated>
-            <id>/portfolio/54/ebuildcrm</id>
+            <id>https://toruse.github.io/portfolio/54/ebuildcrm</id>
             <content type="html"><![CDATA[<p><img src="/assets/img/work/ebuildcrm.jpg" alt="eBuildCRM" /></p>
 
 <p><strong>eBuildCRM</strong> - система для управления заказами строительной компании, и планирование их выполнения.</p>
@@ -169,9 +169,9 @@
         </entry>
             <entry>
             <title type="html"><![CDATA[Kompetenzcenter]]></title>
-            <link href="/portfolio/53/kompetenzcenter"/>
+            <link href="https://toruse.github.io/portfolio/53/kompetenzcenter"/>
             <updated>2019-12-02T21:07:00+03:00</updated>
-            <id>/portfolio/53/kompetenzcenter</id>
+            <id>https://toruse.github.io/portfolio/53/kompetenzcenter</id>
             <content type="html"><![CDATA[<p><img src="/assets/img/work/kompetenzcenter.jpg" alt="Kompetenzcenter" /></p>
 
 <p>Плагин для записи на консультацию в центр компетенции.</p>
@@ -215,9 +215,9 @@
         </entry>
             <entry>
             <title type="html"><![CDATA[Babyfein]]></title>
-            <link href="/portfolio/52/babyfein"/>
+            <link href="https://toruse.github.io/portfolio/52/babyfein"/>
             <updated>2019-12-02T18:28:00+03:00</updated>
-            <id>/portfolio/52/babyfein</id>
+            <id>https://toruse.github.io/portfolio/52/babyfein</id>
             <content type="html"><![CDATA[<p><img src="/assets/img/work/babyfein.jpg" alt="Babyfein" /></p>
 
 <p><strong>Babyfein</strong> - сервис предоставляющий информацию о составе продуктов питания для беременных женщин.</p>
@@ -254,9 +254,9 @@
         </entry>
             <entry>
             <title type="html"><![CDATA[Infinity Lashes]]></title>
-            <link href="/portfolio/51/infinity-lashes"/>
+            <link href="https://toruse.github.io/portfolio/51/infinity-lashes"/>
             <updated>2019-12-01T02:03:00+03:00</updated>
-            <id>/portfolio/51/infinity-lashes</id>
+            <id>https://toruse.github.io/portfolio/51/infinity-lashes</id>
             <content type="html"><![CDATA[<p><img src="/assets/img/work/infinity_lashes.jpg" alt="Infinity Lashes" /></p>
 
 <p><strong>Infinity Lashes</strong> - интернет магазин для студии по профессиональному наращиванию ресниц.</p>
@@ -306,9 +306,9 @@
         </entry>
             <entry>
             <title type="html"><![CDATA[Zachet!]]></title>
-            <link href="/portfolio/50/zachet"/>
+            <link href="https://toruse.github.io/portfolio/50/zachet"/>
             <updated>2019-12-01T01:39:00+03:00</updated>
-            <id>/portfolio/50/zachet</id>
+            <id>https://toruse.github.io/portfolio/50/zachet</id>
             <content type="html"><![CDATA[<p><img src="/assets/img/work/zachet.jpg" alt="Зачет!" /></p>
 
 <p><strong>Зачет!</strong> - сервис предоставляющий помощь в выполнении любых видов студенческих работ.</p>

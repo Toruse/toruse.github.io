@@ -1,0 +1,45 @@
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    background: url("../img/background.jpg") #9ccded no-repeat;
+    background-position: left top;
+    background-size: 100% auto;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    min-height: 960px;
+}
+
+body > main.container {
+    padding: 75px 0 0 0;
+}
+
+.a-disable-menu:hover {
+    color: #007bff;
+}
+
+.port-content img {
+    max-width: 100%;
+    height: auto;
+}
+
+.port-content p:first-child {
+    text-align: center;
+}
+
+.responsive-font-size {
+}
+
+.display-none {
+    display: none;
+}
+
+.border-marked {
+    border-left: 5px solid #28a745 !important;
+}
+
+@media only screen and (max-device-width : 768px) {
+    .responsive-font-size {
+        font-size: 1.5rem;
+    }
+}
