@@ -3,9 +3,27 @@
     <title><![CDATA[Portfolio]]></title>
     <link href="https://toruse.github.io/atom.xml" rel="self"/>
     <link href="https://toruse.github.io/"/>
-    <updated>2021-12-30T18:49:46+03:00</updated>
+    <updated>2022-01-18T23:53:59+03:00</updated>
     <id>https://toruse.github.io/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[notificore.com]]></title>
+            <link href="https://toruse.github.io/portfolio/60/notificore"/>
+            <updated>2021-08-19T22:10:00+03:00</updated>
+            <id>https://toruse.github.io/portfolio/60/notificore</id>
+            <content type="html"><![CDATA[<p><img src="/assets/img/work/notificore.png" alt="Notificore.com" /></p>
+
+<p><strong>Notificore.com</strong> - коммуникационная маркетинговая платформа для малого и среднего бизнеса.</p>
+
+<hr />
+
+<p>Место работы</p>
+
+<ul>
+<li>Компания <em>AtomPark Software</em></li>
+</ul>
+]]></content>
+        </entry>
             <entry>
             <title type="html"><![CDATA[massmailsoftware.com]]></title>
             <link href="https://toruse.github.io/portfolio/59/massmailsoftware"/>
@@ -301,38 +319,6 @@
 
 <ul>
 <li>PHP, Yii 2, MySql, phpMyAdmin, JavaScript, jQuery, HTML, CSS, Sofort API, Google MAP API, PhpStorm, Git, GitHub.</li>
-</ul>
-]]></content>
-        </entry>
-            <entry>
-            <title type="html"><![CDATA[Zachet!]]></title>
-            <link href="https://toruse.github.io/portfolio/50/zachet"/>
-            <updated>2019-12-01T01:39:00+03:00</updated>
-            <id>https://toruse.github.io/portfolio/50/zachet</id>
-            <content type="html"><![CDATA[<p><img src="/assets/img/work/zachet.jpg" alt="Зачет!" /></p>
-
-<p><strong>Зачет!</strong> - сервис предоставляющий помощь в выполнении любых видов студенческих работ.</p>
-
-<hr />
-
-<p>Место работы</p>
-
-<ul>
-<li>Компания <em>Belka-z</em></li>
-</ul>
-
-<p>Проделанная работа</p>
-
-<ul>
-<li>Создан раздел "Виды заданий" и подключены к нему отзывы.</li>
-<li>В админ панели добавлен BREAD(CRUD) для работы с шаблонами писем.</li>
-<li>В админ панель добавлена раздел для работы со связями учебных заведений, факультетов и предметов.</li>
-</ul>
-
-<p>Использовались технологии / инструменты</p>
-
-<ul>
-<li>PHP, Laravel, Voyager, MySql, PhpStorm</li>
 </ul>
 ]]></content>
         </entry>
