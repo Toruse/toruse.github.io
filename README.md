@@ -1,6 +1,6 @@
-![logo](/build/portfolio/76x76.png)
+![logo](https://toruse.github.io/build/portfolio/76x76.png)
 
-#Portfolio
+##Portfolio
 
 Подборка проектов в которых было принято участие или выполнялась определённая работа по ним.
 
