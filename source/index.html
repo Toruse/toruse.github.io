@@ -6,15 +6,18 @@ use:
     - portfolio_categories
     - portfolio_tags
 ---
-
+<div class="row mx-0">
+    <div class="col-md-12 d-none d-md-block js-list-applied-filters">
+        <div class="badge-filter display-none" data-title="{text}">
+            {text} <span class="text-danger">&times;</span>
+        </div>
+    </div>
+</div>
 <div class="row mx-0">
     <div class="col-sm-3 d-none d-md-block">
         <div class="card mb-3">
             <div class="card-header">
                 <strong>Компании</strong>
-                <button type="button" class="close text-danger display-none js-clear-filter-categories" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
             </div>
             <div class="list-group list-group-flush">
                 {% for category,portfolio in data.portfolio_categories %}
@@ -25,9 +28,6 @@ use:
         <div class="card mb-3">
             <div class="card-header">
                 <strong>Технологии</strong>
-                <button type="button" class="close text-danger display-none js-clear-filter-tags" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
             </div>
             <div class="list-group list-group-flush">
                 {% for tag,portfolio in data.portfolio_tags %}

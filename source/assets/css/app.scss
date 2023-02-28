@@ -31,11 +31,29 @@ body > main.container {
 }
 
 .display-none {
-    display: none;
+    display: none !important;
 }
 
 .border-marked {
     border-left: 5px solid #28a745 !important;
+}
+
+.badge-filter {
+    display: inline-block;
+    padding: 0.2em 0.2em;
+    font-size: 95%;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    color: #212529;
+    background-color: #f8f9fa;
+    border-radius: 10rem;
+    padding-right: 0.7em;
+    padding-left: 0.7em;
+    margin-bottom: 1em;
+    margin-right: 0.3em;
+    cursor: pointer;
 }
 
 @media only screen and (max-device-width : 768px) {

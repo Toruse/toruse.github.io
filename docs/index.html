@@ -52,13 +52,17 @@
         </header>
         <main role="main" class="container">
             <div class="row mx-0">
+    <div class="col-md-12 d-none d-md-block js-list-applied-filters">
+        <div class="badge-filter display-none" data-title="{text}">
+            {text} <span class="text-danger">&times;</span>
+        </div>
+    </div>
+</div>
+<div class="row mx-0">
     <div class="col-sm-3 d-none d-md-block">
         <div class="card mb-3">
             <div class="card-header">
                 <strong>Компании</strong>
-                <button type="button" class="close text-danger display-none js-clear-filter-categories" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
             </div>
             <div class="list-group list-group-flush">
                                     <a class="list-group-item list-group-item-action js-on-click-filter-categories" href="#" title="AtomPark Software">AtomPark Software</a>
@@ -76,9 +80,6 @@
         <div class="card mb-3">
             <div class="card-header">
                 <strong>Технологии</strong>
-                <button type="button" class="close text-danger display-none js-clear-filter-tags" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
             </div>
             <div class="list-group list-group-flush">
                                     <a class="list-group-item list-group-item-action js-on-click-filter-tags" href="#" title="PHP">PHP</a>
@@ -1362,7 +1363,7 @@
 </div>
         </main>
         <footer class="container text-right">
-            <span class="text-muted">&copy; 2022 Portfolio</span>
+            <span class="text-muted">&copy; 2023 Portfolio</span>
         </footer>
 
         <script src="https://toruse.github.io/build/app.js"></script>

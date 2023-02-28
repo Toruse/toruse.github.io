@@ -4,48 +4,60 @@ require('jquery')
 require('bootstrap')
 
 $(function() {
-    $(".js-on-click-filter-categories").click(function(e) {
-        e.preventDefault();
-        var filterText = $(this).attr('title');
-        $(".js-on-click-filter-categories").removeClass('border-marked');
-        $(this).addClass('border-marked');
-        var listCard = $(".js-card-filter");
-        listCard.hide();
-        listCard.find("p.categories span:contains('"+filterText+"')").closest('.js-card-filter').show();
-        $(".js-clear-filter-categories").show();
+    function badgeFilterOnClick() {
+        let filterText = $(this).attr('data-title');
+        $('.js-on-click-filter-categories[title="' + filterText + '"]').removeClass('border-marked');
+        $('.js-on-click-filter-tags[title="' + filterText + '"]').removeClass('border-marked');
+        $(this).remove();
+
+        renderCardSetFilter();
+    }
+
+    function renderAddFilter(el) {
+        let filterText = $(el).attr('title');
+        if ($(el).hasClass('border-marked')) {
+            $(el).removeClass('border-marked');
+            listFilters.find('.badge-filter[data-title="' + filterText + '"]').remove();
+        } else {
+            $(el).addClass('border-marked');
+            if (!listFilters.find('.badge-filter[data-title="' + filterText + '"]').length) {
+                listFilters.append(templateFilter.split('{text}').join(filterText));
+                $(document).on('click', '.badge-filter[data-title="' + filterText + '"]', badgeFilterOnClick);
+            }
+        }
+
+        renderCardSetFilter();
+    }
+
+    function renderCardSetFilter() {
+        let listCard = $(".js-card-filter");
+        if (listFilters.find(".badge-filter").length) {
+            listCard.hide();
+            listFilters.find(".badge-filter").each(function () {
+                listCard.find("p.categories span:contains('" + $(this).attr('data-title') + "')").closest('.js-card-filter').show();
+                listCard.find("p.tags span:contains('" + $(this).attr('data-title') + "')").closest('.js-card-filter').show();
+            });
+        } else {
+            listCard.show();
+        }
+
         $("html, body").animate({ scrollTop: 0 }, "slow");
-        $(".js-clear-filter-tags").hide();
-        $(".js-on-click-filter-tags").removeClass('border-marked');
-    });
+    }
 
-    $(".js-on-click-filter-tags").click(function(e) {
-        e.preventDefault();
-        var filterText = $(this).attr('title');
-        $(".js-on-click-filter-tags").removeClass('border-marked');
-        $(this).addClass('border-marked');
-        var listCard = $(".js-card-filter");
-        listCard.hide();
-        listCard.find("p.tags span:contains('"+filterText+"')").closest('.js-card-filter').show();
-        $(".js-clear-filter-tags").show();
-        $("html, body").animate({ scrollTop: 0 }, "slow");
-        $(".js-clear-filter-categories").hide();
-        $(".js-on-click-filter-categories").removeClass('border-marked');
-    });
+    var listFilters = $(".js-list-applied-filters");
+    if (listFilters.length) {
+        listFilters.find(".badge-filter").removeClass('display-none');
+        var templateFilter = listFilters.html();
+        listFilters.find(".badge-filter").remove();
 
-    $(".js-clear-filter-categories").click(function(e) {
-        e.preventDefault();
-        var listCard = $(".js-card-filter");
-        listCard.show();
-        $(".js-clear-filter-categories").hide();
-        $(".js-on-click-filter-categories").removeClass('border-marked');
-    });
+        $(".js-on-click-filter-categories").click(function(e) {
+            e.preventDefault();
+            renderAddFilter(this);
+        });
 
-    $(".js-clear-filter-tags").click(function(e) {
-        e.preventDefault();
-        var listCard = $(".js-card-filter");
-        listCard.show();
-        $(".js-clear-filter-tags").hide();
-        $(".js-on-click-filter-tags").removeClass('border-marked');
-    });
-
+        $(".js-on-click-filter-tags").click(function(e) {
+            e.preventDefault();
+            renderAddFilter(this);
+        });
+    }
 });
