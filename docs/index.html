@@ -53,14 +53,14 @@
         <main role="main" class="container">
             <div class="row mx-0">
     <div class="col-md-12 d-none d-md-block js-list-applied-filters">
-        <div class="badge-filter display-none" data-title="{text}">
+        <div class="badge-filter display-none" data-group="{group}" data-title="{text}">
             {text} <span class="text-danger">&times;</span>
         </div>
     </div>
 </div>
 <div class="row mx-0">
     <div class="col-sm-3 d-none d-md-block">
-        <div class="card mb-3">
+        <div class="card mb-3" data-filter-group="categories">
             <div class="card-header">
                 <strong>Компании</strong>
             </div>
@@ -77,7 +77,7 @@
                                     <a class="list-group-item list-group-item-action js-on-click-filter-categories" href="#" title="China-Unlimited">China-Unlimited</a>
                             </div>
         </div>
-        <div class="card mb-3">
+        <div class="card mb-3" data-filter-group="tags">
             <div class="card-header">
                 <strong>Технологии</strong>
             </div>
