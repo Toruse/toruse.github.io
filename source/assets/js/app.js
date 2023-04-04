@@ -1,14 +1,11 @@
 require('../css/app.scss');
 
-require('jquery')
-require('bootstrap')
-
-$(function() {
+document.addEventListener("DOMContentLoaded", function() {
     function badgeFilterOnClick() {
-        let filterText = $(this).attr('data-title');
-        let filterGroup = $(this).attr('data-group');
-        $('.js-on-click-filter-' + filterGroup + '[title="' + filterText + '"]').removeClass('border-marked');
-        $(this).remove();
+        let filterText = this.getAttribute('data-title');
+        let filterGroup = this.getAttribute('data-group');
+        document.querySelector('.js-on-click-filter-' + filterGroup + '[title="' + filterText + '"]').classList.remove('border-marked');
+        this.remove();
         if (listSetFilters[filterGroup].indexOf(filterText) !== -1) {
             listSetFilters[filterGroup].splice(listSetFilters[filterGroup].indexOf(filterText), 1);
         }
@@ -17,73 +14,82 @@ $(function() {
     }
 
     function renderAddFilter(el) {
-        let filterText = $(el).attr('title');
-        let filterGroup = $(el).closest('div[data-filter-group]').attr('data-filter-group');
-        if ($(el).hasClass('border-marked')) {
-            $(el).removeClass('border-marked');
+        let filterText = el.getAttribute('title');
+        let filterGroup = el.closest('div[data-filter-group]').getAttribute('data-filter-group');
+
+        if (el.classList.contains('border-marked')) {
+            el.classList.remove('border-marked');
             if (listSetFilters[filterGroup].indexOf(filterText) !== -1) {
                 listSetFilters[filterGroup].splice(listSetFilters[filterGroup].indexOf(filterText), 1);
             }
-            listFilters.find('.badge-filter[data-group="' + filterGroup + '"][data-title="' + filterText + '"]').remove();
+            listFilters.querySelector('.badge-filter[data-group="' + filterGroup + '"][data-title="' + filterText + '"]').remove();
         } else {
-            $(el).addClass('border-marked');
-            if (!listFilters.find('.badge-filter[data-group="' + filterGroup + '"][data-title="' + filterText + '"]').length) {
-                listFilters.append(templateFilter.split('{text}').join(filterText).replace(/\{group\}/i, filterGroup));
+            el.classList.add('border-marked');
+            if (!listFilters.querySelector('.badge-filter[data-group="' + filterGroup + '"][data-title="' + filterText + '"]')) {
+                var tmp = document.createElement('template');
+                tmp.innerHTML = templateFilter.split('{text}').join(filterText).replace(/\{group\}/i, filterGroup);
+                listFilters.append(tmp.content);
                 listSetFilters[filterGroup].push(filterText);
-                $(document).on('click', '.badge-filter[data-group="' + filterGroup + '"][data-title="' + filterText + '"]', badgeFilterOnClick);
+                document.querySelector('.badge-filter[data-group="' + filterGroup + '"][data-title="' + filterText + '"]').addEventListener('click', badgeFilterOnClick);
             }
         }
-
         renderCardSetFilter();
     }
 
     function renderCardSetFilter() {
-        let listCard = $(".js-card-filter");
-        let badgeFilter = listFilters.find(".badge-filter")
+        let listCard = document.querySelectorAll('.js-card-filter');
+        let badgeFilter = listFilters.querySelectorAll('.badge-filter');
         if (badgeFilter.length) {
-            listCard.hide();
+            listCard.forEach(function (item) {
+                item.style.display = 'none';
+            });
             let stringFilters = {};
             for (let key in listSetFilters) {
-                let str = listSetFilters[key].join("'), p." + key + " span:contains('");
-                if (str) {
-                    stringFilters[key] = '';
-                    stringFilters[key] = "p." + key + " span:contains('" + str +"')";
+                if (listSetFilters[key].length) {
+                    stringFilters[key] = listSetFilters[key];
                 }
             }
-            listCard.each(function () {
+            listCard.forEach(function (item) {
                 let foundFilterCount = 0;
                 for (var key in stringFilters) {
-                    if ($(this).find(stringFilters[key]).length) foundFilterCount++;
+                    if (typeof Array.from(item.querySelectorAll("p." + key + " span")).find(function (el) {
+                        return stringFilters[key].indexOf(el.textContent) !== -1;
+                    }) !== 'undefined') foundFilterCount++;
                 }
                 if (foundFilterCount === Object.keys(stringFilters).length) {
-                    $(this).show();
+                    item.style.display = '';
                 }
             });
         } else {
-            listCard.show();
+            listCard.forEach(function (item) {
+                item.style.display = '';
+            });
         }
-
-        $("html, body").animate({ scrollTop: 0 }, "slow");
+        document.querySelector('html, body').scrollTop = 0;
     }
 
-    var listFilters = $(".js-list-applied-filters");
-    if (listFilters.length) {
-        listFilters.find(".badge-filter").removeClass('display-none');
-        var templateFilter = listFilters.html();
-        listFilters.find(".badge-filter").remove();
+    var listFilters = document.querySelector('.js-list-applied-filters');
+    if (listFilters) {
+        listFilters.querySelector('.badge-filter').classList.remove('display-none');
+        var templateFilter = listFilters.innerHTML;
+        listFilters.querySelector('.badge-filter').remove();
         var listSetFilters = {};
-        $('div[data-filter-group]').each(function () {
-            listSetFilters[$(this).attr('data-filter-group')] = [];
+        document.querySelectorAll('div[data-filter-group]').forEach(function (item) {
+            listSetFilters[item.getAttribute('data-filter-group')] = [];
         });
 
-        $(".js-on-click-filter-categories").click(function(e) {
-            e.preventDefault();
-            renderAddFilter(this);
+        document.querySelectorAll('.js-on-click-filter-categories').forEach(function (item) {
+            item.addEventListener('click',function(e) {
+                e.preventDefault();
+                renderAddFilter(this);
+            });
         });
 
-        $(".js-on-click-filter-tags").click(function(e) {
-            e.preventDefault();
-            renderAddFilter(this);
+        document.querySelectorAll('.js-on-click-filter-tags').forEach(function (item) {
+            item.addEventListener('click',function(e) {
+                e.preventDefault();
+                renderAddFilter(this);
+            });
         });
     }
 });
