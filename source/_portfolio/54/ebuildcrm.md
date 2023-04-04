@@ -7,9 +7,11 @@ categories:
 tags: [PHP, Laravel, MySql, phpMyAdmin, JavaScript, jQuery, PhpStorm, Git, GitHub]
 date: 02.12.2019 23:28
 sort: 54
+image: 
+    src: /assets/img/work/ebuildcrm.webp 
+    width: 500
+    height: 366
 ---
-
-![eBuildCRM](/assets/img/work/ebuildcrm.jpg)
 
 **eBuildCRM** - система для управления заказами строительной компании, и планирование их выполнения.
 

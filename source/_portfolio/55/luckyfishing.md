@@ -7,9 +7,11 @@ categories:
 tags: [PHP, Laravel, MySql, phpMyAdmin, JavaScript, jQuery, PhpStorm, Git, Bitbucket]
 date: 03.12.2019 02:53
 sort: 55
+image: 
+    src: /assets/img/work/luckyfishing.webp 
+    width: 500
+    height: 284
 ---
-
-![LuckyFishing](/assets/img/work/luckyfishing.jpg)
 
 **LuckyFishing** - сайт-агрегатор для баз отдыха, водоёмов, рыболовецких магазинов.
 

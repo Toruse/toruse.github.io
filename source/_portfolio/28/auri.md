@@ -7,9 +7,11 @@ categories:
 tags: [HTML, CSS, JavaScript, jQuery, CKEeditor, Photoshop]
 date: 27.08.2015 05:07
 sort: 28
+image: 
+    src: /assets/img/work/auri.webp 
+    width: 500
+    height: 283
 ---
-
-![Auri](/assets/img/work/auri.jpg)
 
 **Auri** - интернет-портал виртуальных вещей.
 

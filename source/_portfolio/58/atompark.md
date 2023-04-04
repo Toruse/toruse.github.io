@@ -7,9 +7,11 @@ categories:
 tags: [PHP]
 date: 28.05.2021 21:24
 sort: 58
+image: 
+    src: /assets/img/work/atompark.webp 
+    width: 500
+    height: 467
 ---
-
-![Atompark.com](/assets/img/work/atompark.png)
 
 **Atompark.com** - сервис по продвижению программного обеспечения и сервисов для email и смс маркетинга.
 

@@ -7,9 +7,11 @@ categories:
 tags: [PHP, Yii 2, MySql, phpMyAdmin, JavaScript, jQuery, HTML, CSS, Sofort API, Google MAP API, PhpStorm, Git, GitHub]
 date: 01.12.2019 02:03
 sort: 51
+image: 
+    src: /assets/img/work/infinity_lashes.webp 
+    width: 500
+    height: 283
 ---
-
-![Infinity Lashes](/assets/img/work/infinity_lashes.jpg)
 
 **Infinity Lashes** - интернет магазин для студии по профессиональному наращиванию ресниц.
 

@@ -7,9 +7,11 @@ categories:
 tags: [Google Chrome, JavaScript, Markdown, GitBook, GitHub]
 date: 29.11.2019 19:46
 sort: 49
+image: 
+    src: /assets/img/work/creating_google_chrome_extensions.webp 
+    width: 330
+    height: 500
 ---
-
-![Creating Google Chrome Extensions](/assets/img/work/creating_google_chrome_extensions.jpg)
 
 **Creating Google Chrome Extensions** - перевод книги.
 

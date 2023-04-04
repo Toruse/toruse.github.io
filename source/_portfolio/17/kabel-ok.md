@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, jQuery, Smarty, Git, NetBeans]
 date: 05.08.2015 06:48
 sort: 17
+image: 
+    src: /assets/img/work/kabel-ok.webp 
+    width: 500
+    height: 429
 ---
-
-![Kabel-OK](/assets/img/work/kabel-ok.jpg)
 
 **Kabel-OK** - сайт производителя кабельных каналов и других комплектующих для станкостроения и промышленных отраслей.
 

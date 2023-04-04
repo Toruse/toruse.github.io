@@ -7,9 +7,11 @@ categories:
 tags: [Joomla 2.5, ChronoForms, HTML, JavaScript, CSS, PHP, PhpStorm, OpenServer]
 date: 04.06.2017 17:36
 sort: 41
+image: 
+    src: /assets/img/work/mbfn_ru.webp 
+    width: 500
+    height: 399
 ---
-
-![Мбфн.рф](/assets/img/work/mbfn_ru.jpg)
 
 **МБФН** - Международный Бизнес Форум Недвижимости 2017 года, выставка недвижимости.
 

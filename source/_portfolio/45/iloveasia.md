@@ -7,9 +7,11 @@ categories:
 tags: [PHP, Yii 2, MySql, PhpStorm]
 date: 25.11.2019 21:13
 sort: 45
+image: 
+    src: /assets/img/work/iloveasia_travel.webp 
+    width: 500
+    height: 488
 ---
-
-![ILoveAsia](/assets/img/work/iloveasia_travel.jpg)
 
 **ILoveAsia** - проект объединяющий экспертов по Азии, которые предлагают активные путешествия.
 

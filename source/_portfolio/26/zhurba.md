@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
 date: 09.08.2015 00:39
 sort: 26
+image: 
+    src: /assets/img/work/zhurba.webp 
+    width: 500
+    height: 284
 ---
-
-![Журба](/assets/img/work/zhurba.jpg)
 
 **Журба** - сайт магазина ритуальных услуг.
 

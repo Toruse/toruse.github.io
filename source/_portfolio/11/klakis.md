@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, PHPMailer, NetBeans, Xdebug]
 date: 27.06.2015 07:23
 sort: 11
+image: 
+    src: /assets/img/work/klakis.webp 
+    width: 500
+    height: 306
 ---
-
-![Klakis](/assets/img/work/klakis.jpg)
 
 **Klakis** - интернет-магазин по продаже игрушек сделанные своими руками.
 

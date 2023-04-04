@@ -7,9 +7,11 @@ categories:
 tags: [PHP]
 date: 28.05.2021 21:32
 sort: 59
+image: 
+    src: /assets/img/work/massmailsoftware.webp 
+    width: 500
+    height: 388
 ---
-
-![Massmailsoftware.com](/assets/img/work/massmailsoftware.png)
 
 **Massmailsoftware.com** - сервис по продвижению программного обеспечения и сервисов для email и смс маркетинга.
 

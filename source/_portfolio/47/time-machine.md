@@ -7,9 +7,11 @@ categories:
 tags: [PHP, Yii 2, MySQL, phpMyAdmin, JavaScript, jQuery, D3.js, HTML, CSS, OpenServer, PhpStorm, Bitbucket]
 date: 27.11.2019 21:04
 sort: 47
+image: 
+    src: /assets/img/work/time-machine.webp 
+    width: 500
+    height: 377
 ---
-
-![Time Machine](/assets/img/work/time-machine.jpg)
 
 **Time Machine** - система управления персоналом организации.
 

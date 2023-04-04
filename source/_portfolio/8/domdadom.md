@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, MySQL, VK API, Facebook API]
 date: 05.03.2015 06:00
 sort: 8
+image: 
+    src: /assets/img/work/domdadom.webp 
+    width: 500
+    height: 498
 ---
-
-![DomDaDom](/assets/img/work/domdadom.jpg)
 
 **DomDaDom** - интернет-магазин по ремонту, дизайну и продаже мебели.
 

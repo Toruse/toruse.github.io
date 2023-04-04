@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Плагин AddThis]
 date: 23.06.2015 04:52
 sort: 9
+image: 
+    src: /assets/img/work/autoriginal.webp 
+    width: 500
+    height: 337
 ---
-
-![Autoriginal](/assets/img/work/autoriginal.jpg)
 
 **Autoriginal** - интернет-магазин автозапчастей.
 

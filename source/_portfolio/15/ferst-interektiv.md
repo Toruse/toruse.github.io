@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, JavaScript, jQuery, rotate3Di, Smarty, Git, NetBeans]
 date: 04.07.2015 08:10
 sort: 15
+image: 
+    src: /assets/img/work/fi.webp 
+    width: 500
+    height: 284
 ---
-
-![Ферст Интеректив](/assets/img/work/fi.jpg)
 
 **Ферст Интеректив** - компания по интерактивной рекламы.
 

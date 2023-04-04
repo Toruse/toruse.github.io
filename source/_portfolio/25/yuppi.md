@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
 date: 09.08.2015 00:27
 sort: 25
+image: 
+    src: /assets/img/work/yuppi.webp 
+    width: 500
+    height: 281
 ---
-
-![Yuppi](/assets/img/work/yuppi.jpg)
 
 **Yuppi** - интернет-магазин брендовой обуви из Польши и США.
 

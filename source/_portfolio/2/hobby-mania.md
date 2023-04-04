@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Apache]
 date: 10.03.2014 22:40
 sort: 2
+image: 
+    src: /assets/img/work/saithm.webp 
+    width: 500
+    height: 418
 ---
-
-![Hobby-Mania](/assets/img/work/saithm.jpg)
 
 **Hobby-Mania** - интернет магазин по продаже игрушек.
 

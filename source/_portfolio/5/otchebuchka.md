@@ -7,9 +7,11 @@ categories:
 tags: [HTML, CSS, JavaScript, jQuery, AJAX]
 date: 11.03.2014 00:43
 sort: 5
+image: 
+    src: /assets/img/work/verstkaof.webp 
+    width: 500
+    height: 357
 ---
-
-![Otchebuchka](/assets/img/work/verstkaof.jpg)
 
 Верстка фотоальбома для проекта Otchebuchka.
 

@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
 date: 06.08.2015 08:01
 sort: 19
+image: 
+    src: /assets/img/work/marble.webp 
+    width: 500
+    height: 284
 ---
-
-![Мрамор](/assets/img/work/marble.jpg)
 
 **Мрамор** - сайт склада мрамора в Киеве.
 

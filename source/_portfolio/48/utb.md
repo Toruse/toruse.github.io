@@ -7,9 +7,11 @@ categories:
 tags: [PHP, Yii 2, MySQL, JavaScript, AngularJS 1.6, OpenServer, PhpStorm, GitHub]
 date: 29.11.2019 18:44
 sort: 48
+image: 
+    src: /assets/img/work/utb_ua.webp 
+    width: 500
+    height: 411
 ---
-
-![UTB](/assets/img/work/utb_ua.jpg)
 
 **UTB** - украинская транспортная онлайн-биржа для перевозки грузов.
 

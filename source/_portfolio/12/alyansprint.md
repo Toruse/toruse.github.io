@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
 date: 29.06.2015 08:03
 sort: 12
+image: 
+    src: /assets/img/work/aprn.webp 
+    width: 500
+    height: 281
 ---
-
-![АльянсПринт](/assets/img/work/aprn.jpg)
 
 **АльянсПринт** - сайт о картонно-навивных и пластиковых тубусов, сувенирных и подарочных упаковок в виде тубуса.
 

@@ -7,9 +7,11 @@ categories:
 tags: [WordPress, Google Analytics]
 date: 25.11.2019 23:57
 sort: 46
+image: 
+    src: /assets/img/work/kreditoorganizacijos.webp 
+    width: 500
+    height: 284
 ---
-
-![Kredito Organizacijos](/assets/img/work/kreditoorganizacijos.jpg)
 
 Сайт визитка для кредитной организации.
 

@@ -45,6 +45,11 @@ use:
                     <h2 class="responsive-font-size"><a href="{{ site.url }}{{ portfolio.url }}">{{ portfolio.tag_title }}</a></h2>
                 </div>
                 <div class="card-body port-content">
+                    {% if portfolio.image %}
+                        <p>
+                            <img src="{{ portfolio.image.src }}" alt="{{ portfolio.tag_title }}" width="{{ portfolio.image.width }}" height="{{ portfolio.image.height }}">
+                        </p>
+                    {% endif %}
                     {{ portfolio.blocks.content|split('<hr />')|first|raw }}
                 </div>
                 <div class="card-footer text-muted">

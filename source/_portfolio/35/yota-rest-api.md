@@ -7,9 +7,11 @@ categories:
 tags: [PHP, Yii 1.1, HTML, PHPMailer, SMS API, OpenServer, PhpStorm, Git, Bitbucket]
 date: 14.05.2017 19:41
 sort: 35
+image: 
+    src: /assets/img/work/Yii_Yota_Rest_Api.webp 
+    width: 500
+    height: 375
 ---
-
-![Yota REST API](/assets/img/work/Yii_Yota_Rest_Api.png)
 
 **Yota REST API** - сервис для заказа тарифного плана от мобильного оператора.
 

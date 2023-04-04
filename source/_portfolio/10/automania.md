@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, Zend Studio, Xdebug, Subversion]
 date: 26.06.2015 05:46
 sort: 10
+image: 
+    src: /assets/img/work/automania.webp 
+    width: 500
+    height: 454
 ---
-
-![AutoMania](/assets/img/work/automania.jpg)
 
 **AutoMania** - интернет-магазин по продаже запчастей.
 

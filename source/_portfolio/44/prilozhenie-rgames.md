@@ -7,9 +7,11 @@ categories:
 tags: [Electron, Node.js, PHP, JavaScript, jQuery, HTML, CSS, PhpStorm]
 date: 23.11.2019 00:27
 sort: 44
+image: 
+    src: /assets/img/work/rgames.webp 
+    width: 500
+    height: 350
 ---
-
-![Приложение RGames](/assets/img/work/rgames.jpg)
 
 **Приложение RGames** - нативное графическое приложения для настольных операционных систем.
 

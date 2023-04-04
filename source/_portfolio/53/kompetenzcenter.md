@@ -7,9 +7,11 @@ categories:
 tags: [PHP, WordPress, MySql, JavaScript, jQuery, HTML, PhpStorm, Git, Bitbucket]
 date: 02.12.2019 21:07
 sort: 53
+image: 
+    src: /assets/img/work/kompetenzcenter.webp 
+    width: 500
+    height: 278
 ---
-
-![Kompetenzcenter](/assets/img/work/kompetenzcenter.jpg)
 
 Плагин для записи на консультацию в центр компетенции.
 

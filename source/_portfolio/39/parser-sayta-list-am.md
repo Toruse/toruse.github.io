@@ -7,9 +7,11 @@ categories:
 tags: [PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm]
 date: 02.06.2017 23:29
 sort: 39
+image: 
+    src: /assets/img/work/list_am.webp 
+    width: 500
+    height: 363
 ---
-
-![Парсер сайта List.am](/assets/img/work/list_am.jpg)
 
 **Парсер** для выборки телефонов пользователей предоставляющие строительные и ремонтные услуги.
 

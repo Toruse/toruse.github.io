@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, MySQL, Google Fonts, ePochta API 3.0, Smarty, Git, NetBeans]
 date: 05.08.2015 05:20
 sort: 16
+image: 
+    src: /assets/img/work/hittakupong.webp 
+    width: 500
+    height: 284
 ---
-
-![Hittakupong](/assets/img/work/hittakupong.jpg)
 
 **Hittakupong** - интернет сервис по продаже скидочных купонов.
 

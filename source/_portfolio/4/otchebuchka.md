@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, jQuery, Flash, MySQL, AJAX, Apache]
 date: 11.03.2014 00:43
 sort: 4
+image: 
+    src: /assets/img/work/saitot.webp 
+    width: 500
+    height: 345
 ---
-
-![Otchebuchka](/assets/img/work/saitot.jpg)
 
 **Otchebuchka** - литературный интернет портал для начинающих и профессиональных писателей.
 

@@ -7,9 +7,11 @@ categories:
 tags: [PHP, phpQuery, MySQL, Git, NetBeans]
 date: 29.08.2015 22:43
 sort: 29
+image: 
+    src: /assets/img/work/corsar.webp 
+    width: 500
+    height: 284
 ---
-
-![Corsar](/assets/img/work/corsar.jpg)
 
 **Corsar** - интернет-магазин товаров для туризма и активного отдыха.
 

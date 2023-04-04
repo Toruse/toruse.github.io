@@ -7,9 +7,11 @@ categories:
 tags: [PHP, Laravel, MySql, phpMyAdmin, JavaScript, jQuery, Facebook API, Google API, PhpStorm, Git, GitHub]
 date: 02.12.2019 18:28
 sort: 52
+image: 
+    src: /assets/img/work/babyfein.webp 
+    width: 500
+    height: 210
 ---
-
-![Babyfein](/assets/img/work/babyfein.jpg)
 
 **Babyfein** - сервис предоставляющий информацию о составе продуктов питания для беременных женщин.
 

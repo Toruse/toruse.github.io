@@ -7,9 +7,11 @@ categories:
 tags: [PHP]
 date: 19.08.2021 22:10
 sort: 60
+image: 
+    src: /assets/img/work/notificore.webp 
+    width: 500
+    height: 287
 ---
-
-![Notificore.com](/assets/img/work/notificore.png)
 
 **Notificore.com** - коммуникационная маркетинговая платформа для малого и среднего бизнеса.
 

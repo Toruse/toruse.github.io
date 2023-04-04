@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
 date: 07.08.2015 08:29
 sort: 22
+image: 
+    src: /assets/img/work/optskl.webp 
+    width: 500
+    height: 284
 ---
-
-![Оптовый склад](/assets/img/work/optskl.jpg)
 
 **Оптовый склад** - сайт оптового склада строительных материалов и систем утепления заданий.
 

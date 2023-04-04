@@ -7,9 +7,11 @@ categories:
 tags: [PHP, Laravel, Voyager, MySql, PhpStorm]
 date: 01.12.2019 01:39
 sort: 50
+image: 
+    src: /assets/img/work/zachet.webp 
+    width: 500
+    height: 284
 ---
-
-![Зачет!](/assets/img/work/zachet.jpg)
 
 **Зачет!** - сервис предоставляющий помощь в выполнении любых видов студенческих работ.
 

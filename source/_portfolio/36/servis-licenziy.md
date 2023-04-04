@@ -7,9 +7,11 @@ categories:
 tags: [JavaScript, Node.js, MySql, PhpStorm, Git, Express, Sequelize, Restify, Body-parser, Command-line-args, Passport, Password-hash, Db-migrate-mysql, Mocha, Async]
 date: 13.05.2017 01:51
 sort: 36
+image: 
+    src: /assets/img/work/Node_js.webp 
+    width: 500
+    height: 306
 ---
-
-![Сервис лицензий](/assets/img/work/Node_js.png)
 
 **Сервис лицензий** - REST API-сервис для работы с лицензиями пользователей.
 

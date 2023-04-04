@@ -7,9 +7,11 @@ categories:
 tags: [PHP]
 date: 27.05.2021 23:45
 sort: 56
+image: 
+    src: /assets/img/work/apma.webp 
+    width: 500
+    height: 301
 ---
-
-![Личный кабинет Atompark](/assets/img/work/apma.png)
 
 **AtomPark** - компания по разработке и продвижению программного обеспечения и сервисов для email и смс маркетинга.
 

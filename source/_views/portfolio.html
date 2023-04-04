@@ -24,6 +24,11 @@
                         <h2 class="text-primary responsive-font-size">{{ page.tag_title }}</h2>
                     </div>
                     <div class="card-body port-content">
+                        {% if page.image %}
+                        <p>
+                            <img src="{{ page.image.src }}" alt="{{ page.tag_title }}" width="{{ page.image.width }}" height="{{ page.image.height }}">
+                        </p>
+                        {% endif %}
                         {{ page.blocks.content|raw }}
                     </div>
                     <div class="card-footer text-muted">

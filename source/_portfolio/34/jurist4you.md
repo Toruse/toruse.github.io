@@ -7,9 +7,11 @@ categories:
 tags: [WordPress, Яндекс.Метрика, Google Analytics, Яндекс.Вебмастер, Google Webmasters]
 date: 01.02.2016 06:02
 sort: 34
+image: 
+    src: /assets/img/work/jurist4you.webp 
+    width: 500
+    height: 284
 ---
-
-![Jurist4You](/assets/img/work/jurist4you.jpg)
 
 **Jurist4You** - сайт по предоставлению юридических и посреднических услуг нерезидентам Литвы и ЕС, жителям России, 
 Украины, Беларуси, Армении, Грузии.

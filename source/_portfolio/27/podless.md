@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, jQuery, Smarty, Git, NetBeans]
 date: 09.08.2015 00:59
 sort: 27
+image: 
+    src: /assets/img/work/podless.webp 
+    width: 500
+    height: 284
 ---
-
-![Podless](/assets/img/work/podless.jpg)
 
 **Podless** - сайт тренинга по эффективной коммуникации.
 

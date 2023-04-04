@@ -7,9 +7,11 @@ categories:
 tags: [PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm]
 date: 01.06.2017 22:31
 sort: 38
+image: 
+    src: /assets/img/work/skelbiu_lt.webp 
+    width: 500
+    height: 449
 ---
-
-![Парсер сайта Skelbiu.lt](/assets/img/work/skelbiu_lt.jpg)
 
 **Парсер** для выборки телефонов, e-mail компаний предоставляющие строительные и ремонтные услуги.
 

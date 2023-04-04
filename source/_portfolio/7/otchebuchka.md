@@ -7,9 +7,11 @@ categories:
 tags: [HTML, CSS, JavaScript, jQuery, Flash, Photoshop]
 date: 11.03.2014 00:43
 sort: 7
+image: 
+    src: /assets/img/work/verstkaoch.webp 
+    width: 500
+    height: 357
 ---
-
-![Otchebuchka](/assets/img/work/verstkaoch.jpg)
 
 Верстка главной страницы для проекта Otchebuchka.
 

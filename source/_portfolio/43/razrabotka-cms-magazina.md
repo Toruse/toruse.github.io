@@ -7,9 +7,11 @@ categories:
 tags: [Yii 2, phpQuery, PHP, VK API, jQuery, JavaScript, HTML, CSS, 1С Предприятие, OpenServer, PhpStorm, Git, Bitbucket]
 date: 05.06.2017 19:13
 sort: 43
+image: 
+    src: /assets/img/work/shop_cms.webp 
+    width: 500
+    height: 423
 ---
-
-![Разработка CMS Магазина](/assets/img/work/shop_cms.jpg)
 
 **CMS Магазина** - веб-приложение для электронной коммерции.
 

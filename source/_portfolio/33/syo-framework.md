@@ -7,9 +7,11 @@ categories:
 tags: [PHP, MySQL, phpMyAdmin, OpenServer, PhpStorm, GitHub]
 date: 29.11.2019 20:38
 sort: 33
+image: 
+    src: /assets/img/work/syo.webp 
+    width: 500
+    height: 328
 ---
-
-![Syo Framework](/assets/img/work/syo.jpg)
 
 **Syo** - фреймворк с открытым кодом, предназначенный для разработки веб приложений на основе архитектурной модели MVC.
 

@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, CSS, JavaScript, jQuery, Flash, Photoshop, MySQL, Apache]
 date: 10.03.2014 22:37
 sort: 1
+image: 
+    src: /assets/img/work/saitnc.webp 
+    width: 500
+    height: 425
 ---
-
-![Neocube Украина](../assets/img/work/saitnc.jpg)
 
 **NEOCUBE Украина** - интернет магазин по продаже головоломки Neocube, и жвачка для рук Handgum.
 

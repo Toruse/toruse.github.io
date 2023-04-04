@@ -7,9 +7,11 @@ categories:
 tags: [PHP, SMS API, HTML, CSS, JavaScript, jQuery]
 date: 10.03.2014 22:39
 sort: 6
+image: 
+    src: /assets/img/work/china.webp 
+    width: 500
+    height: 333
 ---
-
-![China-Unlimited](/assets/img/work/china.jpg)
 
 **China-Unlimited** - сайт визитка компании по доставке товаров из Китая.
 

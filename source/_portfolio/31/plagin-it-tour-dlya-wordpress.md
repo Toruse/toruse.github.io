@@ -7,9 +7,11 @@ categories:
 tags: [PHP, HTML, JavaScript, jQuery, WordPress, PhpStorm, Git]
 date: 31.08.2015 23:11
 sort: 31
+image: 
+    src: /assets/img/work/ittour.webp 
+    width: 500
+    height: 284
 ---
-
-![Плагин IT-Tour для WordPress](/assets/img/work/ittour.jpg)
 
 **Плагин IT-Tour** - позволяет выполнить поиск туров с сервиса IT-tour.
 
