@@ -1,13 +1,13 @@
 {
-  "build/app.css": "/build/app.css",
-  "build/app.js": "/build/app.js",
+  "build/app.css": "/build/app.c476e496.css",
+  "build/app.js": "/build/app.1b2889fc.js",
   "build/images/background.jpg": "/build/images/background.73209636.jpg",
-  "build/portfolio/1024x1024.png": "/build/portfolio/1024x1024.png",
-  "build/portfolio/120x120.png": "/build/portfolio/120x120.png",
-  "build/portfolio/128x128.png": "/build/portfolio/128x128.png",
-  "build/portfolio/152x152.png": "/build/portfolio/152x152.png",
-  "build/portfolio/196x196.png": "/build/portfolio/196x196.png",
-  "build/portfolio/2048x2048.png": "/build/portfolio/2048x2048.png",
-  "build/portfolio/512x512.png": "/build/portfolio/512x512.png",
-  "build/portfolio/76x76.png": "/build/portfolio/76x76.png"
+  "build/portfolio/1024x1024.png": "/build/portfolio/1024x1024.c74f96c4.png",
+  "build/portfolio/120x120.png": "/build/portfolio/120x120.bc0f3e63.png",
+  "build/portfolio/128x128.png": "/build/portfolio/128x128.796bc04a.png",
+  "build/portfolio/152x152.png": "/build/portfolio/152x152.4705d058.png",
+  "build/portfolio/196x196.png": "/build/portfolio/196x196.e40e706e.png",
+  "build/portfolio/2048x2048.png": "/build/portfolio/2048x2048.54d6e310.png",
+  "build/portfolio/512x512.png": "/build/portfolio/512x512.60880b66.png",
+  "build/portfolio/76x76.png": "/build/portfolio/76x76.839be06f.png"
 }
