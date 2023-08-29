@@ -3,15 +3,15 @@
 {% block head_meta %}
     {% set description = 'Портфолио. Проект ' ~ page.blocks.content|split('<hr />')|first|raw|striptags|replace({"\n": "", "\r": ""}) %}
     <meta name="description" content="{{ description }}">
-    <meta property="og:locale" content="ru_RU"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:title" content="{{ page.tag_title }} &mdash; {{ site.title }}"/>
-    <meta property="og:description" content="{{ description }}"/>
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ page.tag_title }} &mdash; {{ site.title }}">
+    <meta property="og:description" content="{{ description }}">
     {% if page.image %}
-        <meta property="og:image" content="{{ site.url }}{{ page.image.src }}"/>
+        <meta property="og:image" content="{{ site.url }}{{ page.image.src }}">
     {% endif %}
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-    <meta property="og:site_name" content="{{ site.title }}"/>
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="{{ site.domain }}">

@@ -31,7 +31,7 @@
         <link rel="apple-touch-icon" sizes="1024x1024" href="{{ site.url }}/build/portfolio/1024x1024.png">
         <link rel="apple-touch-icon" sizes="2048x2048" href="{{ site.url }}/build/portfolio/2048x2048.png">
 
-        <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/atom.xml" title="{{ site.title }} activity feed" />
+        <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/atom.xml" title="{{ site.title }} activity feed">
         {% block head_styles %}
         {% endblock %}
         {% block head_scripts %}
@@ -59,7 +59,7 @@
                 </div>
             </nav>
         </header>
-        <main role="main" class="container">
+        <main class="container">
             {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
         </main>
         <footer class="container text-right">
