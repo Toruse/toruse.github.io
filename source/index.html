@@ -6,8 +6,9 @@ use:
     - portfolio_categories
     - portfolio_tags
 ---
+{% set description = 'Портфолио. Список проектов, в которых принимал участие или разрабатывал.' %}
+
 {% block head_meta %}
-    {% set description = 'Портфолио. Список проектов, в которых принимал участие или разрабатывал.' %}
     <meta name="description" content="{{ description }}">
     <meta property="og:locale" content="ru_RU">
     <meta property="og:type" content="website">
@@ -92,10 +93,53 @@ use:
                         </p>
                         {% endif %}
                     </div>
+                    <script type="application/ld+json">
+                        {
+                            "@context": "http://schema.org",
+                            "@type": "Article",
+                            "author": "Toruse",
+                            "datePublished": "{{ portfolio.date|date("Y-m-d") }}",
+                            "headline": "{{ portfolio.tag_title }}"{% if portfolio.image %},
+                            "image": {
+                                "@type": "imageObject",
+                                "url": "{{ site.url }}{{ portfolio.image.src }}",
+                                "height": "{{ portfolio.image.height }}",
+                                "width": "{{ portfolio.image.width }}"
+                            }
+                            {% endif %}
+                        }
+                    </script>
                 </div>
             {% endif %}
         {% endfor %}
         </div>
     </div>
 {% endblock content_wrapper %}
+
+{% block jsonLd %}
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "name": "{{ site.title }}",
+            "url": "{{ site.url }}"
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id":"{{ site.url }}",
+                        "name":"Портфолио"
+                    }
+                }
+            ]
+        }
+    </script>
+{% endblock jsonLd %}
 

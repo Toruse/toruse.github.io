@@ -1,7 +1,8 @@
 {% extends 'default' %}
 
+{% set description = 'Портфолио. Проект ' ~ page.blocks.content|split('<hr />')|first|raw|striptags|replace({"\n": "", "\r": ""}) %}
+
 {% block head_meta %}
-    {% set description = 'Портфолио. Проект ' ~ page.blocks.content|split('<hr />')|first|raw|striptags|replace({"\n": "", "\r": ""}) %}
     <meta name="description" content="{{ description }}">
     <meta property="og:locale" content="ru_RU">
     <meta property="og:type" content="website">
@@ -64,3 +65,50 @@
         </div>
     {% endif %}
 {% endblock content_wrapper %}
+
+{% block jsonLd %}
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "WebPage",
+            "name": "{{ page.tag_title }} &mdash; {{ site.title }}",
+            "url": "{{ site.url }}{{ page.url }}",
+            "description": "{{ description }}",
+            "breadcrumb":{
+                "@type":"BreadcrumbList",
+                "itemListElement":[
+                    {
+                        "@type":"ListItem",
+                        "position":"1",
+                        "item":{
+                            "@type":"WebSite",
+                            "@id":"{{ site.url }}",
+                            "name":"Портфолио"
+                        }
+                    },
+                    {
+                        "@type":"ListItem",
+                        "position":"2",
+                        "item":{
+                            "@type":"WebPage",
+                            "@id":"{{ site.url }}{{ page.url }}",
+                            "name":"{{ page.tag_title }}"
+                        }
+                    }
+                ]},
+            "mainEntity": {
+                "@type": "Article",
+                "@id": "{{ site.url }}{{ page.url }}",
+                "author": "Toruse",
+                "datePublished": "{{ page.date|date("Y-m-d") }}"{% if page.image %},
+                "image": {
+                    "@type": "imageObject",
+                    "url": "{{ site.url }}{{ page.image.src }}",
+                    "height": "{{ page.image.height }}",
+                    "width": "{{ page.image.width }}"
+                }
+        {% endif %}
+            }
+        }
+    </script>
+{% endblock jsonLd %}
