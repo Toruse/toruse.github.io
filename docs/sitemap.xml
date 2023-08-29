@@ -1,367 +1,367 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://toruse.github.io</loc>
-    <lastmod>2023-04-07</lastmod>
+    <loc>http://localhost:8000</loc>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/60/notificore</loc>
+    <loc>http://localhost:8000/portfolio/60/notificore</loc>
     <lastmod>2021-08-19T22:10:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/59/massmailsoftware</loc>
+    <loc>http://localhost:8000/portfolio/59/massmailsoftware</loc>
     <lastmod>2021-05-28T21:32:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/58/atompark</loc>
+    <loc>http://localhost:8000/portfolio/58/atompark</loc>
     <lastmod>2021-05-28T21:24:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/57/epochta</loc>
+    <loc>http://localhost:8000/portfolio/57/epochta</loc>
     <lastmod>2021-05-27T23:45:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/56/atompark-member-area</loc>
+    <loc>http://localhost:8000/portfolio/56/atompark-member-area</loc>
     <lastmod>2021-05-27T23:45:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/55/luckyfishing</loc>
+    <loc>http://localhost:8000/portfolio/55/luckyfishing</loc>
     <lastmod>2019-12-03T02:53:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/54/ebuildcrm</loc>
+    <loc>http://localhost:8000/portfolio/54/ebuildcrm</loc>
     <lastmod>2019-12-02T23:28:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/53/kompetenzcenter</loc>
+    <loc>http://localhost:8000/portfolio/53/kompetenzcenter</loc>
     <lastmod>2019-12-02T21:07:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/52/babyfein</loc>
+    <loc>http://localhost:8000/portfolio/52/babyfein</loc>
     <lastmod>2019-12-02T18:28:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/51/infinity-lashes</loc>
+    <loc>http://localhost:8000/portfolio/51/infinity-lashes</loc>
     <lastmod>2019-12-01T02:03:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/50/zachet</loc>
+    <loc>http://localhost:8000/portfolio/50/zachet</loc>
     <lastmod>2019-12-01T01:39:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/49/creating-google-chrome-extensions</loc>
+    <loc>http://localhost:8000/portfolio/49/creating-google-chrome-extensions</loc>
     <lastmod>2019-11-29T19:46:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/48/utb</loc>
+    <loc>http://localhost:8000/portfolio/48/utb</loc>
     <lastmod>2019-11-29T18:44:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/47/time-machine</loc>
+    <loc>http://localhost:8000/portfolio/47/time-machine</loc>
     <lastmod>2019-11-27T21:04:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/46/kredito-organizacijos</loc>
+    <loc>http://localhost:8000/portfolio/46/kredito-organizacijos</loc>
     <lastmod>2019-11-25T23:57:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/45/iloveasia</loc>
+    <loc>http://localhost:8000/portfolio/45/iloveasia</loc>
     <lastmod>2019-11-25T21:13:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/44/prilozhenie-rgames</loc>
+    <loc>http://localhost:8000/portfolio/44/prilozhenie-rgames</loc>
     <lastmod>2019-11-23T00:27:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/43/razrabotka-cms-magazina</loc>
+    <loc>http://localhost:8000/portfolio/43/razrabotka-cms-magazina</loc>
     <lastmod>2017-06-05T19:13:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/42/sayt-konkursa-fiabci</loc>
+    <loc>http://localhost:8000/portfolio/42/sayt-konkursa-fiabci</loc>
     <lastmod>2019-11-24T16:07:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/41/mbfn-rf</loc>
+    <loc>http://localhost:8000/portfolio/41/mbfn-rf</loc>
     <lastmod>2017-06-04T17:36:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/40/mms-e-produce-ru</loc>
+    <loc>http://localhost:8000/portfolio/40/mms-e-produce-ru</loc>
     <lastmod>2017-06-03T21:51:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/39/parser-sayta-list-am</loc>
+    <loc>http://localhost:8000/portfolio/39/parser-sayta-list-am</loc>
     <lastmod>2017-06-02T23:29:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/38/parser-sayta-skelbiu-lt</loc>
+    <loc>http://localhost:8000/portfolio/38/parser-sayta-skelbiu-lt</loc>
     <lastmod>2017-06-01T22:31:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/37/parser-sayta-rekvizitai-vz-lt</loc>
+    <loc>http://localhost:8000/portfolio/37/parser-sayta-rekvizitai-vz-lt</loc>
     <lastmod>2017-05-25T00:27:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/36/servis-licenziy</loc>
+    <loc>http://localhost:8000/portfolio/36/servis-licenziy</loc>
     <lastmod>2017-05-13T01:51:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/35/yota-rest-api</loc>
+    <loc>http://localhost:8000/portfolio/35/yota-rest-api</loc>
     <lastmod>2017-05-14T19:41:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/34/jurist4you</loc>
+    <loc>http://localhost:8000/portfolio/34/jurist4you</loc>
     <lastmod>2016-02-01T06:02:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/33/syo-framework</loc>
+    <loc>http://localhost:8000/portfolio/33/syo-framework</loc>
     <lastmod>2019-11-29T20:38:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/32/plagin-cross-link-dlya-wordpress</loc>
+    <loc>http://localhost:8000/portfolio/32/plagin-cross-link-dlya-wordpress</loc>
     <lastmod>2015-09-01T22:51:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/31/plagin-it-tour-dlya-wordpress</loc>
+    <loc>http://localhost:8000/portfolio/31/plagin-it-tour-dlya-wordpress</loc>
     <lastmod>2015-08-31T23:11:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/30/plagin-list-players-online-dlya-wordpress</loc>
+    <loc>http://localhost:8000/portfolio/30/plagin-list-players-online-dlya-wordpress</loc>
     <lastmod>2015-08-31T05:31:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/29/corsar</loc>
+    <loc>http://localhost:8000/portfolio/29/corsar</loc>
     <lastmod>2015-08-29T22:43:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/28/auri</loc>
+    <loc>http://localhost:8000/portfolio/28/auri</loc>
     <lastmod>2015-08-27T05:07:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/27/podless</loc>
+    <loc>http://localhost:8000/portfolio/27/podless</loc>
     <lastmod>2015-08-09T00:59:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/26/zhurba</loc>
+    <loc>http://localhost:8000/portfolio/26/zhurba</loc>
     <lastmod>2015-08-09T00:39:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/25/yuppi</loc>
+    <loc>http://localhost:8000/portfolio/25/yuppi</loc>
     <lastmod>2015-08-09T00:27:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/24/tesoro</loc>
+    <loc>http://localhost:8000/portfolio/24/tesoro</loc>
     <lastmod>2015-08-08T22:50:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/23/newliferealty</loc>
+    <loc>http://localhost:8000/portfolio/23/newliferealty</loc>
     <lastmod>2015-08-07T08:57:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/22/optovyy-sklad</loc>
+    <loc>http://localhost:8000/portfolio/22/optovyy-sklad</loc>
     <lastmod>2015-08-07T08:29:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/21/molex-apartments</loc>
+    <loc>http://localhost:8000/portfolio/21/molex-apartments</loc>
     <lastmod>2015-08-07T15:57:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/20/mega-brand-sale</loc>
+    <loc>http://localhost:8000/portfolio/20/mega-brand-sale</loc>
     <lastmod>2015-08-07T06:49:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/19/mramor</loc>
+    <loc>http://localhost:8000/portfolio/19/mramor</loc>
     <lastmod>2015-08-06T08:01:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/18/ksenita</loc>
+    <loc>http://localhost:8000/portfolio/18/ksenita</loc>
     <lastmod>2015-08-06T05:13:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/17/kabel-ok</loc>
+    <loc>http://localhost:8000/portfolio/17/kabel-ok</loc>
     <lastmod>2015-08-05T06:48:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/16/hittakupong</loc>
+    <loc>http://localhost:8000/portfolio/16/hittakupong</loc>
     <lastmod>2015-08-05T05:20:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/15/ferst-interektiv</loc>
+    <loc>http://localhost:8000/portfolio/15/ferst-interektiv</loc>
     <lastmod>2015-07-04T08:10:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/14/city-look</loc>
+    <loc>http://localhost:8000/portfolio/14/city-look</loc>
     <lastmod>2015-06-30T04:42:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/13/brise-und-welle</loc>
+    <loc>http://localhost:8000/portfolio/13/brise-und-welle</loc>
     <lastmod>2015-06-29T09:04:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/12/alyansprint</loc>
+    <loc>http://localhost:8000/portfolio/12/alyansprint</loc>
     <lastmod>2015-06-29T08:03:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/11/klakis</loc>
+    <loc>http://localhost:8000/portfolio/11/klakis</loc>
     <lastmod>2015-06-27T07:23:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/10/automania</loc>
+    <loc>http://localhost:8000/portfolio/10/automania</loc>
     <lastmod>2015-06-26T05:46:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/9/autoriginal</loc>
+    <loc>http://localhost:8000/portfolio/9/autoriginal</loc>
     <lastmod>2015-06-23T04:52:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/8/domdadom</loc>
+    <loc>http://localhost:8000/portfolio/8/domdadom</loc>
     <lastmod>2015-03-05T06:00:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/7/otchebuchka</loc>
+    <loc>http://localhost:8000/portfolio/7/otchebuchka</loc>
     <lastmod>2014-03-11T00:43:00+04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/6/china-unlimited</loc>
+    <loc>http://localhost:8000/portfolio/6/china-unlimited</loc>
     <lastmod>2014-03-10T22:39:00+04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/5/otchebuchka</loc>
+    <loc>http://localhost:8000/portfolio/5/otchebuchka</loc>
     <lastmod>2014-03-11T00:43:00+04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/4/otchebuchka</loc>
+    <loc>http://localhost:8000/portfolio/4/otchebuchka</loc>
     <lastmod>2014-03-11T00:43:00+04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/3/vibram</loc>
+    <loc>http://localhost:8000/portfolio/3/vibram</loc>
     <lastmod>2014-03-11T00:44:00+04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/2/hobby-mania</loc>
+    <loc>http://localhost:8000/portfolio/2/hobby-mania</loc>
     <lastmod>2014-03-10T22:40:00+04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>https://toruse.github.io/portfolio/1/neocube-ukraina</loc>
+    <loc>http://localhost:8000/portfolio/1/neocube-ukraina</loc>
     <lastmod>2014-03-10T22:37:00+04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>

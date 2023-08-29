@@ -6,73 +6,87 @@ use:
     - portfolio_categories
     - portfolio_tags
 ---
-<div class="row mx-0">
-    <div class="col-md-12 d-none d-md-block js-list-applied-filters">
-        <div class="badge-filter display-none" data-group="{group}" data-title="{text}">
-            {text} <span class="text-danger">&times;</span>
-        </div>
-    </div>
-</div>
-<div class="row mx-0">
-    <div class="col-sm-3 d-none d-md-block">
-        <div class="card mb-3" data-filter-group="categories">
-            <div class="card-header">
-                <strong>Компании</strong>
-            </div>
-            <div class="list-group list-group-flush">
-                {% for category,portfolio in data.portfolio_categories %}
-                    <a class="list-group-item list-group-item-action js-on-click-filter-categories" href="#" title="{{ category }}">{{ category }}</a>
-                {% endfor %}
-            </div>
-        </div>
-        <div class="card mb-3" data-filter-group="tags">
-            <div class="card-header">
-                <strong>Технологии</strong>
-            </div>
-            <div class="list-group list-group-flush">
-                {% for tag,portfolio in data.portfolio_tags %}
-                    <a class="list-group-item list-group-item-action js-on-click-filter-tags" href="#" title="{{ tag }}">{{ tag }}</a>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
+{% block head_meta %}
+    {% set description = 'Портфолио. Список проектов, в которых принимал участие или разрабатывал.' %}
+    <meta name="description" content="{{ description }}">
+    <meta property="og:locale" content="ru_RU"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="{{ page.title }} &mdash; {{ site.title }}"/>
+    <meta property="og:description" content="{{ description }}"/>
+    <meta property="og:image" content="{{ site.url }}/assets/img/portfolio.png"/>
+    <meta property="og:url" content="{{ site.url }}"/>
+    <meta property="og:site_name" content="{{ site.title }}"/>
+{% endblock %}
 
-    <div class="col-md-9">
-    {% for portfolio in data.portfolio %}
-        {% if portfolio.disable == false %}
-            <div class="card mb-4 js-card-filter">
+{% block content_wrapper %}
+    <div class="row mx-0">
+        <div class="col-md-12 d-none d-md-block js-list-applied-filters">
+            <div class="badge-filter display-none" data-group="{group}" data-title="{text}">
+                {text} <span class="text-danger">&times;</span>
+            </div>
+        </div>
+    </div>
+    <div class="row mx-0">
+        <div class="col-sm-3 d-none d-md-block">
+            <div class="card mb-3" data-filter-group="categories">
                 <div class="card-header">
-                    <h2 class="responsive-font-size"><a href="{{ site.url }}{{ portfolio.url }}">{{ portfolio.tag_title }}</a></h2>
+                    <strong>Компании</strong>
                 </div>
-                <div class="card-body port-content">
-                    {% if portfolio.image %}
-                        <p>
-                            <img src="{{ portfolio.image.src }}" alt="{{ portfolio.tag_title }}" width="{{ portfolio.image.width }}" height="{{ portfolio.image.height }}">
-                        </p>
-                    {% endif %}
-                    {{ portfolio.blocks.content|split('<hr />')|first|raw }}
-                </div>
-                <div class="card-footer text-muted">
-                    {% if portfolio.meta.categories %}
-                    <p class="categories">
-                        Компания:
-                        {% for categorie in portfolio.meta.categories %}
-                        <span class="font-italic">{{ categorie }}</span>{% if not loop.last %}, {% endif %}
-                        {% endfor %}
-                    </p>
-                    {% endif %}
-                    {% if portfolio.meta.tags %}
-                    <p class="tags">
-                        Технологии:
-                        {% for tag in portfolio.meta.tags %}
-                        <span class="font-italic">{{ tag }}</span>{% if not loop.last %}, {% endif %}
-                        {% endfor %}
-                    </p>
-                    {% endif %}
+                <div class="list-group list-group-flush">
+                    {% for category,portfolio in data.portfolio_categories %}
+                        <a class="list-group-item list-group-item-action js-on-click-filter-categories" href="#" title="{{ category }}">{{ category }}</a>
+                    {% endfor %}
                 </div>
             </div>
-        {% endif %}
-    {% endfor %}
+            <div class="card mb-3" data-filter-group="tags">
+                <div class="card-header">
+                    <strong>Технологии</strong>
+                </div>
+                <div class="list-group list-group-flush">
+                    {% for tag,portfolio in data.portfolio_tags %}
+                        <a class="list-group-item list-group-item-action js-on-click-filter-tags" href="#" title="{{ tag }}">{{ tag }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-9">
+        {% for portfolio in data.portfolio %}
+            {% if portfolio.disable == false %}
+                <div class="card mb-4 js-card-filter">
+                    <div class="card-header">
+                        <h2 class="responsive-font-size"><a href="{{ site.url }}{{ portfolio.url }}">{{ portfolio.tag_title }}</a></h2>
+                    </div>
+                    <div class="card-body port-content">
+                        {% if portfolio.image %}
+                            <p>
+                                <img src="{{ portfolio.image.src }}" alt="{{ portfolio.tag_title }}" width="{{ portfolio.image.width }}" height="{{ portfolio.image.height }}">
+                            </p>
+                        {% endif %}
+                        {{ portfolio.blocks.content|split('<hr />')|first|raw }}
+                    </div>
+                    <div class="card-footer text-muted">
+                        {% if portfolio.meta.categories %}
+                        <p class="categories">
+                            Компания:
+                            {% for categorie in portfolio.meta.categories %}
+                            <span class="font-italic">{{ categorie }}</span>{% if not loop.last %}, {% endif %}
+                            {% endfor %}
+                        </p>
+                        {% endif %}
+                        {% if portfolio.meta.tags %}
+                        <p class="tags">
+                            Технологии:
+                            {% for tag in portfolio.meta.tags %}
+                            <span class="font-italic">{{ tag }}</span>{% if not loop.last %}, {% endif %}
+                            {% endfor %}
+                        </p>
+                        {% endif %}
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+        </div>
     </div>
-</div>
+{% endblock content_wrapper %}
 
