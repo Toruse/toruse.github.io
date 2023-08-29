@@ -1,7 +1,7 @@
 {% extends 'default' %}
 
 {% block head_meta %}
-    {% set description = 'Портфолио. Проект' ~ page.blocks.content|split('<hr />')|first|raw|striptags|replace({"\n": "", "\r": ""}) %}
+    {% set description = 'Портфолио. Проект ' ~ page.blocks.content|split('<hr />')|first|raw|striptags|replace({"\n": "", "\r": ""}) %}
     <meta name="description" content="{{ description }}">
     <meta property="og:locale" content="ru_RU"/>
     <meta property="og:type" content="website"/>
