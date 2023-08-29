@@ -16,6 +16,15 @@ use:
     <meta property="og:image" content="{{ site.url }}/assets/img/portfolio.png"/>
     <meta property="og:url" content="{{ site.url }}"/>
     <meta property="og:site_name" content="{{ site.title }}"/>
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="{{ site.domain }}">
+    <meta property="twitter:url" content="{{ site.url }}">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="{{ description }}">
+    {% if page.image %}
+        <meta name="twitter:image" content="{{ site.url }}{{ page.image.src }}">
+    {% endif %}
 {% endblock %}
 
 {% block content_wrapper %}

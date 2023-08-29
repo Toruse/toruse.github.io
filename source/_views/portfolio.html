@@ -12,6 +12,15 @@
     {% endif %}
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
     <meta property="og:site_name" content="{{ site.title }}"/>
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="{{ site.domain }}">
+    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="{{ description }}">
+    {% if page.image %}
+        <meta name="twitter:image" content="{{ site.url }}{{ page.image.src }}">
+    {% endif %}
 {% endblock %}
 
 {% block title %}
