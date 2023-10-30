@@ -1,21 +1,63 @@
 ---
-use: ["portfolio"]
+use: ["portfolioua"]
 permalink: sitemap.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>{{ site.url }}</loc>
-    <lastmod>{{ site.calculated_date | date('Y-m-d') }}</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  {% for portfolio in data.portfolio %}
-  <url>
-    <loc>{{ site.url }}{{ portfolio.url }}</loc>
-    <lastmod>{{ portfolio.date|date('c') }}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  {% endfor %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>{{ site.url }}</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="{{ site.url }}"/>
+        <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url }}/ru"/>
+        <lastmod>{{ site.calculated_date | date('Y-m-d') }}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>{{ site.url }}/en</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="{{ site.url }}"/>
+        <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url }}/ru"/>
+        <lastmod>{{ site.calculated_date | date('Y-m-d') }}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>{{ site.url }}/ru</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="{{ site.url }}"/>
+        <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url }}/ru"/>
+        <lastmod>{{ site.calculated_date | date('Y-m-d') }}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+{% for portfolio in data.portfolioua %}
+    <url>
+        <loc>{{ site.url }}{{ portfolio.url }}</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="{{ site.url }}{{ portfolio.url }}"/>
+        <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ portfolio.url }}"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url }}/ru{{ portfolio.url }}"/>
+        <lastmod>{{ portfolio.date|date('c') }}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>{{ site.url }}/en{{ portfolio.url }}</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="{{ site.url }}{{ portfolio.url }}"/>
+        <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ portfolio.url }}"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url }}/ru{{ portfolio.url }}"/>
+        <lastmod>{{ portfolio.date|date('c') }}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>{{ site.url }}/ru{{ portfolio.url }}</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="{{ site.url }}{{ portfolio.url }}"/>
+        <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ portfolio.url }}"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="{{ site.url }}/ru{{ portfolio.url }}"/>
+        <lastmod>{{ portfolio.date|date('c') }}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+{% endfor %}
 </urlset>

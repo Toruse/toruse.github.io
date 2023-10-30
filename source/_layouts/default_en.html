@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{% block title %}{{ page.title }}{% endblock %} &mdash; {{ site.title }}</title>
+        <meta charset="utf-8">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        {% block head_meta %}
+            <meta name="robots" content="noindex, follow">
+        {% endblock %}
+
+        <link rel="stylesheet" href="{{ site.url }}/build/app.8824c92a.css">
+
+        <link rel="apple-touch-startup-image" href="{{ site.url }}/build/portfolio/2048x2048.png">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="shortcut icon" sizes="76x76" href="{{ site.url }}/build/portfolio/76x76.839be06f.png">
+        <link rel="shortcut icon" sizes="120x120" href="{{ site.url }}/build/portfolio/120x120.bc0f3e63.png">
+        <link rel="shortcut icon" sizes="128x128" href="{{ site.url }}/build/portfolio/128x128.796bc04a.png">
+        <link rel="shortcut icon" sizes="152x152" href="{{ site.url }}/build/portfolio/152x152.4705d058.png">
+        <link rel="shortcut icon" sizes="196x196" href="{{ site.url }}/build/portfolio/196x196.e40e706e.png">
+        <link rel="shortcut icon" sizes="512x512" href="{{ site.url }}/build/portfolio/512x512.60880b66.png">
+        <link rel="shortcut icon" sizes="1024x1024" href="{{ site.url }}/build/portfolio/1024x1024.c74f96c4.png">
+        <link rel="shortcut icon" sizes="2048x2048" href="{{ site.url }}/build/portfolio/2048x2048.54d6e310.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}/build/portfolio/76x76.839be06f.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}/build/portfolio/120x120.bc0f3e63.png">
+        <link rel="apple-touch-icon" sizes="128x128" href="{{ site.url }}/build/portfolio/128x128.796bc04a.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}/build/portfolio/152x152.4705d058.png">
+        <link rel="apple-touch-icon" sizes="196x196" href="{{ site.url }}/build/portfolio/196x196.e40e706e.png">
+        <link rel="apple-touch-icon" sizes="512x512" href="{{ site.url }}/build/portfolio/512x512.60880b66.png">
+        <link rel="apple-touch-icon" sizes="1024x1024" href="{{ site.url }}/build/portfolio/1024x1024.c74f96c4.png">
+        <link rel="apple-touch-icon" sizes="2048x2048" href="{{ site.url }}/build/portfolio/2048x2048.54d6e310.png">
+
+        <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/atom.xml" title="{{ site.title }} activity feed">
+        {% block head_styles %}
+        {% endblock %}
+        {% block head_scripts %}
+        {% endblock %}
+        {% if site.google_analytics_tracking_id %}
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics_tracking_id}}"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', '{{site.google_analytics_tracking_id}}');
+        </script>
+        {% endif %}
+    </head>
+    <body>
+        <header>
+            <nav class="navbar navbar-expand-lg fixed-top navbar-primary bg-light">
+                <div class="container d-flex justify-content-between">
+                    <div class="px-2">
+                        <a class="navbar-brand a-disable-menu" href="{{ site.url }}/en">
+                            <img src="{{ site.url }}/assets/img/76x76.png" width="30" height="30" class="d-inline-block align-top" alt="">
+                            <strong>{{ site.title }}</strong>
+                        </a>
+                    </div>
+                    <div class="px-2">
+                        {% if page.url %}
+                            <a href="{{ site.url }}{{ pageUrl }}" class="badge badge-light">ua</a>
+                            <span class="badge badge-primary">en</span>
+                            <a href="{{ site.url }}/ru{{ pageUrl }}" class="badge badge-light">ru</a>
+                        {% else %}
+                            <a href="{{ site.url }}" class="badge badge-light">ua</a>
+                            <span class="badge badge-primary">en</span>
+                            <a href="{{ site.url }}/ru" class="badge badge-light">ru</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <main class="container">
+            {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
+        </main>
+        <footer class="container text-right">
+            <span class="text-muted">&copy; {{ "now"|date("Y") }} {{ site.title }}</span>
+        </footer>
+
+        {% block jsonLd %}
+        {% endblock %}
+
+        <script src="{{ site.url }}/build/app.1b2889fc.js"></script>
+        {% block scripts %}
+        {% endblock %}
+
+        {% block scripts_after %}
+        {% endblock %}
+    </body>
+</html>

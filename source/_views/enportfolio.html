@@ -1,0 +1,120 @@
+{% set pageUrl = page.url|replace({'/en/': '/'}) %}
+{% extends 'default_en' %}
+
+{% set description = 'Portfolio. Project ' ~ page.blocks.content|split('<hr />')|first|raw|striptags|replace({"\n": "", "\r": ""}) %}
+
+{% block head_meta %}
+    <meta name="description" content="{{ description }}">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ page.tag_title }} &mdash; {{ site.title }}">
+    <meta property="og:description" content="{{ description }}">
+    {% if page.image %}
+        <meta property="og:image" content="{{ site.url }}{{ page.image.src }}">
+    {% endif %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="{{ site.domain }}">
+    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="{{ description }}">
+    {% if page.image %}
+        <meta name="twitter:image" content="{{ site.url }}{{ page.image.src }}">
+    {% endif %}
+    <link rel="canonical" href="{{ site.url }}{{pageUrl }}" />
+    <link rel="alternate" hreflang="ua" href="{{ site.url }}{{ pageUrl }}" />
+    <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ pageUrl }}" />
+    <link rel="alternate" hreflang="ru" href="{{ site.url }}/ru{{ pageUrl }}" />
+    <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ pageUrl }}" />
+{% endblock %}
+
+{% block title %}
+    {{ page.tag_title }}
+{% endblock title %}
+
+{% block content_wrapper %}
+    {% if page.disable == false %}
+        <div class="row mx-0 d-none d-md-block">
+            <div class="col-md-12">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb bg-white">
+                        <li class="breadcrumb-item"><a href="/en">Portfolio</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">{{ page.tag_title }}</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+
+        <div class="row mx-0">
+            <div class="col-md-12">
+                <div class="card mb-4 js-card-filter">
+                    <div class="card-header">
+                        <h2 class="text-primary responsive-font-size">{{ page.tag_title }}</h2>
+                    </div>
+                    <div class="card-body port-content">
+                        {% if page.image %}
+                        <p>
+                            <img src="{{ page.image.src }}" alt="{{ page.tag_title }}" width="{{ page.image.width }}" height="{{ page.image.height }}">
+                        </p>
+                        {% endif %}
+                        {{ page.blocks.content|raw }}
+                    </div>
+                    <div class="card-footer text-muted">
+                        <p class="text-right">
+                            <a href="/en">‹ Back</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+{% endblock content_wrapper %}
+
+{% block jsonLd %}
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "WebPage",
+            "name": "{{ page.tag_title }} &mdash; {{ site.title }}",
+            "url": "{{ site.url }}{{ page.url }}",
+            "description": "{{ description }}",
+            "breadcrumb":{
+                "@type":"BreadcrumbList",
+                "itemListElement":[
+                    {
+                        "@type":"ListItem",
+                        "position":"1",
+                        "item":{
+                            "@type":"WebSite",
+                            "@id":"{{ site.url }}",
+                            "name":"Portfolio"
+                        }
+                    },
+                    {
+                        "@type":"ListItem",
+                        "position":"2",
+                        "item":{
+                            "@type":"WebPage",
+                            "@id":"{{ site.url }}{{ page.url }}",
+                            "name":"{{ page.tag_title }}"
+                        }
+                    }
+                ]},
+            "mainEntity": {
+                "@type": "Article",
+                "@id": "{{ site.url }}{{ page.url }}",
+                "author": "Toruse",
+                "datePublished": "{{ page.date|date("Y-m-d") }}"{% if page.image %},
+                "image": {
+                    "@type": "imageObject",
+                    "url": "{{ site.url }}{{ page.image.src }}",
+                    "height": "{{ page.image.height }}",
+                    "width": "{{ page.image.width }}"
+                }
+        {% endif %}
+            }
+        }
+    </script>
+{% endblock jsonLd %}

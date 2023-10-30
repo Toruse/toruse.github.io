@@ -1,13 +1,33 @@
 sculpin_content_types:
     posts:
         enabled: false
-    portfolio:
+    portfolioua:
         type: path
-        path: _portfolio
-        singular_name: portfolio
+        path: _uaportfolio
+        singular_name: portfolioua
         layout: portfolio
         enabled: true
         permalink: portfolio/:folder:basename
+        taxonomies:
+            - tags
+            - categories
+    portfolioen:
+        type: path
+        path: _enportfolio
+        singular_name: portfolioen
+        layout: enportfolio
+        enabled: true
+        permalink: en/portfolio/:folder:basename
+        taxonomies:
+            - tags
+            - categories
+    portfolioru:
+        type: path
+        path: _ruportfolio
+        singular_name: portfolioru
+        layout: ruportfolio
+        enabled: true
+        permalink: ru/portfolio/:folder:basename
         taxonomies:
             - tags
             - categories

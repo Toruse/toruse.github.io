@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="uk">
     <head>
         <title>{% block title %}{{ page.title }}{% endblock %} &mdash; {{ site.title }}</title>
         <meta charset="utf-8">
@@ -9,7 +9,7 @@
             <meta name="robots" content="noindex, follow">
         {% endblock %}
 
-        <link rel="stylesheet" href="{{ site.url }}/build/app.1b4db5c2.css">
+        <link rel="stylesheet" href="{{ site.url }}/build/app.8824c92a.css">
 
         <link rel="apple-touch-startup-image" href="{{ site.url }}/build/portfolio/2048x2048.png">
         <meta name="mobile-web-app-capable" content="yes">
@@ -51,11 +51,24 @@
     <body>
         <header>
             <nav class="navbar navbar-expand-lg fixed-top navbar-primary bg-light">
-                <div class="container justify-content-center">
-                    <a class="navbar-brand a-disable-menu" href="{{ site.url }}/">
-                        <img src="{{ site.url }}/assets/img/76x76.png" width="30" height="30" class="d-inline-block align-top" alt="">
-                        <strong>{{ site.title }}</strong>
-                    </a>
+                <div class="container d-flex justify-content-between">
+                    <div class="px-2">
+                        <a class="navbar-brand a-disable-menu" href="{{ site.url }}">
+                            <img src="{{ site.url }}/assets/img/76x76.png" width="30" height="30" class="d-inline-block align-top" alt="">
+                            <strong>{{ site.title }}</strong>
+                        </a>
+                    </div>
+                    <div class="px-2">
+                        {% if page.url %}
+                            <span class="badge badge-primary">ua</span>
+                            <a href="{{ site.url }}/en{{ pageUrl }}" class="badge badge-light">en</a>
+                            <a href="{{ site.url }}/ru{{ pageUrl }}" class="badge badge-light">ru</a>
+                        {% else %}
+                            <span class="badge badge-primary">ua</span>
+                            <a href="{{ site.url }}/en" class="badge badge-light">en</a>
+                            <a href="{{ site.url }}/ru" class="badge badge-light">ru</a>
+                        {% endif %}
+                    </div>
                 </div>
             </nav>
         </header>

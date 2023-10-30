@@ -2,11 +2,11 @@
 layout: default
 title: Home
 use:
-    - portfolio
-    - portfolio_categories
-    - portfolio_tags
+    - portfolioua
+    - portfolioua_categories
+    - portfolioua_tags
 ---
-{% set description = 'Портфолио. Список проектов, в которых принимал участие или разрабатывал.' %}
+{% set description = 'Портфоліо. Список проектів, у яких брав участь чи розробляв.' %}
 
 {% block head_meta %}
     <meta name="description" content="{{ description }}">
@@ -26,6 +26,11 @@ use:
     {% if page.image %}
         <meta name="twitter:image" content="{{ site.url }}{{ page.image.src }}">
     {% endif %}
+    <link rel="canonical" href="{{ site.url }}" />
+    <link rel="alternate" hreflang="ua" href="{{ site.url }}" />
+    <link rel="alternate" hreflang="en" href="{{ site.url }}/en" />
+    <link rel="alternate" hreflang="ru" href="{{ site.url }}/ru" />
+    <link rel="alternate" hreflang="x-default" href="{{ site.url }}" />
 {% endblock %}
 
 {% block content_wrapper %}
@@ -40,20 +45,20 @@ use:
         <div class="col-sm-3 d-none d-md-block">
             <div class="card mb-3" data-filter-group="categories">
                 <div class="card-header">
-                    <strong>Компании</strong>
+                    <strong>Компанії</strong>
                 </div>
                 <div class="list-group list-group-flush">
-                    {% for category,portfolio in data.portfolio_categories %}
+                    {% for category,portfolio in data.portfolioua_categories %}
                         <a class="list-group-item list-group-item-action js-on-click-filter-categories" href="#" title="{{ category }}">{{ category }}</a>
                     {% endfor %}
                 </div>
             </div>
             <div class="card mb-3" data-filter-group="tags">
                 <div class="card-header">
-                    <strong>Технологии</strong>
+                    <strong>Технології</strong>
                 </div>
                 <div class="list-group list-group-flush">
-                    {% for tag,portfolio in data.portfolio_tags %}
+                    {% for tag,portfolio in data.portfolioua_tags %}
                         <a class="list-group-item list-group-item-action js-on-click-filter-tags" href="#" title="{{ tag }}">{{ tag }}</a>
                     {% endfor %}
                 </div>
@@ -61,7 +66,7 @@ use:
         </div>
 
         <div class="col-md-9">
-        {% for portfolio in data.portfolio %}
+        {% for portfolio in data.portfolioua %}
             {% if portfolio.disable == false %}
                 <div class="card mb-4 js-card-filter">
                     <div class="card-header">
@@ -78,7 +83,7 @@ use:
                     <div class="card-footer text-muted">
                         {% if portfolio.meta.categories %}
                         <p class="categories">
-                            Компания:
+                            Компанія:
                             {% for categorie in portfolio.meta.categories %}
                             <span class="font-italic">{{ categorie }}</span>{% if not loop.last %}, {% endif %}
                             {% endfor %}
@@ -86,7 +91,7 @@ use:
                         {% endif %}
                         {% if portfolio.meta.tags %}
                         <p class="tags">
-                            Технологии:
+                            Технології:
                             {% for tag in portfolio.meta.tags %}
                             <span class="font-italic">{{ tag }}</span>{% if not loop.last %}, {% endif %}
                             {% endfor %}
@@ -135,7 +140,7 @@ use:
                     "position": 1,
                     "item": {
                         "@id":"{{ site.url }}",
-                        "name":"Портфолио"
+                        "name":"Портфоліо"
                     }
                 }
             ]
