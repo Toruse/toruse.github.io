@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
 title: Zachet!
-tag_title: Зачет!
+tag_title: Zachet!
 categories:
     - Belka-z
 tags: [PHP, Laravel, Voyager, MySql, PhpStorm]
@@ -13,20 +13,20 @@ image:
     height: 284
 ---
 
-**Зачет!** - сервис предоставляющий помощь в выполнении любых видов студенческих работ.
+**Zachet!** - service that provides assistance in performing any type of student work.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Проделанная работа
+Work done
 
-* Создан раздел "Виды заданий" и подключены к нему отзывы.
-* В админ панели добавлен BREAD(CRUD) для работы с шаблонами писем.
-* В админ панель добавлена раздел для работы со связями учебных заведений, факультетов и предметов.
+* A section “Types of tasks” has been created and reviews have been added to it.
+* BREAD(CRUD) has been added to the admin panel for working with letter templates.
+* A section has been added to the admin panel for working with connections between educational institutions, faculties and subjects.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, Laravel, Voyager, MySql, PhpStorm

@@ -1,9 +1,9 @@
 ---
 layout: enportfolio
-title: Parser sayta Skelbiu.lt
-tag_title: Парсер сайта Skelbiu.lt
+title: Skelbiu.lt Website Parser
+tag_title: Skelbiu.lt website parser
 categories:
-    - Фриланс
+    - Freelancing
 tags: [PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm]
 date: 01.06.2017 22:31
 sort: 38
@@ -13,21 +13,21 @@ image:
     height: 449
 ---
 
-**Парсер** для выборки телефонов, e-mail компаний предоставляющие строительные и ремонтные услуги.
+**Parser** for a sampling of phone numbers and e-mails of companies providing construction and repair services.
 
 ---
 
-Реализовано
+Implemented
 
-* Выборку телефонов, электронных почтовых ящиков строительных и ремонтных компаний.
+* Find of phone numbers and email addresses of construction and repair companies.
 
-Проделанная работа
+Work done
 
-* Написан парсер для сканирования каталога объявлений.
-* Написан парсер для сбора данных о компании из профиля объявления.
-* Написан парсер для поиска дополнительных ящиков и телефонов на веб-страницах компаний.
-* Выполнен экспорт данных в txt и xlsx файл.
+* A parser has been written to scan the ad catalog.
+* A parser has been written to collect data about the company from the ad profile.
+* A parser has been written to search for additional mailboxes and telephone numbers on company web pages.
+* Exported data to txt and xlsx file.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm.

@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
-title: Prilozhenie RGames
-tag_title: Приложение RGames
+title: RGames app
+tag_title: RGames app
 categories:
     - Belka-z
 tags: [Electron, Node.js, PHP, JavaScript, jQuery, HTML, CSS, PhpStorm]
@@ -13,29 +13,29 @@ image:
     height: 350
 ---
 
-**Приложение RGames** - нативное графическое приложения для настольных операционных систем.
+**RGames app** - native graphical application for desktop operating systems.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализованный функционал
+Implemented
 
-* Добавлена новая тема для игрового портала.
-* Разработано приложение для ОС Windows и Linux, позволяющее работать с игровым порталом.
+* Added a new theme for the game portal.
+* An application has been developed for Windows and Linux OS that allows you to work with the game portal.
 
-Проделанная работа
+Work done
 
-* На основе верстки создана тема для игрового портала.
-* Установлена и настроена тема.
-* Разработано приложения на основе технологии Electron.js.
-* Реализовано в приложении автоматическую авторизацию на портале.
-* Доработан функционал игрового портала для работы с приложением.
-* Создан инсталлятора для OC Windows, и создан установочный пакета для ОС Linux.
+* Based on the layout, a theme for the game portal was created.
+* The theme is installed and configured.
+* Developed applications based on Electron.js technology.
+* Implemented automatic authorization on the portal in the application.
+* Improved functionality of the game portal for working with the application.
+* An installer for OS Windows has been created, and an installation package for OS Linux has been created.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * Electron, Node.js, PHP, JavaScript, jQuery, HTML, CSS, PhpStorm.
 

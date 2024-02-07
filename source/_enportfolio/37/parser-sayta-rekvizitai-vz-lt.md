@@ -1,9 +1,9 @@
 ---
 layout: enportfolio
-title: Parser sayta Rekvizitai.vz.lt
-tag_title: Парсер сайта Rekvizitai.vz.lt
+title: Rekvizitai.vz.lt Website Parser
+tag_title: Rekvizitai.vz.lt website parser
 categories:
-    - Фриланс
+    - Freelancing
 tags: [PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm]
 date: 25.05.2017 00:27
 sort: 37
@@ -13,24 +13,24 @@ image:
     height: 464
 ---
 
-**Парсер** для выборки данных о компаниях предоставляющие строительные и ремонтные услуги.
+**Parser** to sample data on companies providing construction and repair services.
 
 ---
 
-Реализовано
+Implemented
 
-* Выборку телефонов, электронных почтовых ящиков и основную информации о строительных, ремонтных компаний.
-* Выполнена рассылка писем о сотрудничестве.
+* A sampling of telephone numbers, email addresses and basic information about construction and repair companies.
+* Letters of cooperation have been sent out.
 
-Проделанная работа
+Work done
 
-* Написан парсер для сканирования каталога компаний.
-* Написан парсер для выборки данных из профиля компании на сайте.
-* Написан парсер для поиска дополнительных ящиков и телефонов на веб-страницах компаний.
-* Выполнена конвертация почтовых ящиков и телефонов из графического вида в текстовый.
-* Сделан экспорт данных в txt и xlsx файл.
-* Выполнена рассылка письма о сотрудничестве.
+* A parser has been written to scan a company directory.
+* A parser has been written to retrieve data from a company profile on the website.
+* A parser has been written to search for additional mailboxes and telephone numbers on company web pages.
+* Converted mailboxes and telephones from graphical to textual.
+* Made data export to txt and xlsx file.
+* A letter of cooperation has been sent out.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm.

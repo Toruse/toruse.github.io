@@ -3,7 +3,7 @@ layout: enportfolio
 title: Vibram
 tag_title: Vibram
 categories:
-    - Фриланс
+    - Freelancing
 tags: [HTML, CSS]
 date: 11.03.2014 00:44
 sort: 3
@@ -13,16 +13,16 @@ image:
     height: 537
 ---
 
-**Vibram** - интернет магазин по продаже обуви Vibram Five Fingers.
+**Vibram** - online store selling Vibram Five Fingers shoes.
 
 ---
 
-Верстка для интернет магазина Vibram.
+Layout for the Vibram online store.
 
-Проделанная работа
+Work done
 
-* Выполнена верстка
+* Layout done
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * HTML, CSS

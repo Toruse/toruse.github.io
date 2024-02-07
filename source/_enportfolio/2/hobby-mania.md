@@ -3,7 +3,7 @@ layout: enportfolio
 title: Hobby-Mania
 tag_title: Hobby-Mania
 categories:
-    - Фриланс
+    - Freelancing
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Apache]
 date: 10.03.2014 22:40
 sort: 2
@@ -13,28 +13,28 @@ image:
     height: 418
 ---
 
-**Hobby-Mania** - интернет магазин по продаже игрушек.
+**Hobby-Mania** - online store selling toys.
 
 ---
 
-Реализованный функционал
+Implemented
 
-* Меню
-* Блок новостей
-* Реализован вывод материалов
-* Каталог товаров
-* Корзина
-* Блок &laquo;Рекомендуемый товар&raquo;
-* Показ баннеров
-* Подключена административная часть сайта для управления магазином
+* Menu
+* News block
+* Implemented output of materials
+* Catalog
+* Basket
+* Block “Recommended product”
+* Display banners
+* The administrative part of the site is connected to manage the store
 
-Проделанная работа
+Work done
 
-* Выполнена верстка
-* Разработана архитектура веб-приложения
-* Разработана структура БД, SQL-запросов, оптимизация производительности
-* Тестирование функциональности
+* Layout done
+* Web application architecture developed
+* Developed database structure, SQL queries, performance optimization
+* Functionality testing
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, jQuery, MySQL, Apache

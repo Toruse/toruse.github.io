@@ -1,10 +1,10 @@
 ---
 layout: enportfolio
-title: Razrabotka CMS Magazina
-tag_title: Разработка CMS Магазина
+title: Store CMS Development
+tag_title: Store CMS Development
 categories:
     - Belka-z
-tags: [Yii 2, phpQuery, PHP, VK API, jQuery, JavaScript, HTML, CSS, 1С Предприятие, OpenServer, PhpStorm, Git, Bitbucket]
+tags: [Yii 2, phpQuery, PHP, VK API, jQuery, JavaScript, HTML, CSS, 1С Enterprise, OpenServer, PhpStorm, Git, Bitbucket]
 date: 05.06.2017 19:13
 sort: 43
 image: 
@@ -13,34 +13,34 @@ image:
     height: 423
 ---
 
-**CMS Магазина** - веб-приложение для электронной коммерции.
+**Store CMS** - e-commerce web application.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализованный функционал
+Implemented
 
-* Корзина.
-* История покупок.
-* Интеграция сайта с 1С:Предприятием.
-* Авторизация при помощи социальных сетей.
+* Basket.
+* Purchase history.
+* Website integration with 1C:Enterprise.
+* Authorization using social networks.
 
-Проделанная работа
+Work done
 
-* Спроектирована структура таблиц для сохранения заказа.
-* Написана корзина для добавления товара.
-* Сделано оформление заказа с учетом купонов и скидок на товар.
-* В личном кабинете добавлена возможность просматривать историю покупок и состояние заказа.
-* Реализована админ панель для управления заказами.
-* Спроектирована структура таблиц для импорта данных из 1С:Предприятия, и синхронизации с каталогом интернет магазина.
-* Реализован экспорт товаров и заказов из 1С:Предприятия.
-* Реализован импорт заказов в 1С:Предприятие.
-* Сделана интеграция для регистрации в магазине при помощи социальных сетей.
+* Designed table structure for order saving.
+* A shopping cart has been created for adding products.
+* The order was placed taking into account coupons and discounts on goods.
+* In your personal account, the ability to view your purchase history and order status has been added.
+* Implemented an admin panel for order management.
+* Designed a table structure for importing data from 1C:Enterprise and synchronizing with the online store catalog.
+* Export of goods and orders from 1C:Enterprise has been implemented.
+* Import of orders into 1C:Enterprise has been implemented.
+* Integration has been made for registering in the store using social networks.
 
-Использовались технологии / инструменты
+Technologies / tools
 
-* Yii 2, phpQuery, PHP, VK API, jQuery, JavaScript, HTML, CSS, 1С:Предприятие, OpenServer, PhpStorm, Git, Bitbucket.
+* Yii 2, phpQuery, PHP, VK API, jQuery, JavaScript, HTML, CSS, 1C:Enterprise, OpenServer, PhpStorm, Git, Bitbucket.
 

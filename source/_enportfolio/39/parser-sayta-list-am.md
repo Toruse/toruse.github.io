@@ -1,9 +1,9 @@
 ---
 layout: enportfolio
-title: Parser Sayta List.am
-tag_title: Парсер сайта List.am
+title: List.am Website Parser
+tag_title: List.am website parser
 categories:
-    - Фриланс
+    - Freelancing
 tags: [PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm]
 date: 02.06.2017 23:29
 sort: 39
@@ -13,20 +13,20 @@ image:
     height: 363
 ---
 
-**Парсер** для выборки телефонов пользователей предоставляющие строительные и ремонтные услуги.
+**Parser** for a sample of phone numbers of users providing construction and repair services.
 
 ---
 
-Реализовано
+Implemented
 
-* Выборку телефонов пользователей с сайта.
+* Find users phone numbers from the site.
 
-Проделанная работа
+Work done
 
-* Написан парсер для сканирования каталога объявлений.
-* Написан парсер для получения телефона из профиля объявления.
-* Сделан экспорт данных в txt и xlsx файл.
+* A parser has been written to scan the ad catalog.
+* A parser has been written to get the phone number from the ad profile.
+* Made data export to txt and xlsx file.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm.

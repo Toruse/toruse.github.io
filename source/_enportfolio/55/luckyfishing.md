@@ -13,27 +13,27 @@ image:
     height: 284
 ---
 
-**LuckyFishing** - сайт-агрегатор для баз отдыха, водоёмов, рыболовецких магазинов.
+**LuckyFishing** - aggregator site for recreation centers, reservoirs, fishing shops.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализовано
+Implemented
 
-* Реализовано API для получения информации об объектах.
-* Создана админ панель для управления базами отдыха, водоёмами, магазинами.
+* Implemented an API for obtaining information about objects.
+* An admin panel has been created to manage recreation centers, reservoirs, and shops.
 
-Проделанная работа
+Work done
 
-* Спроектирована база данных объектов и новостей.
-* Разработано API для получения информации об объектах.
-* Создана админ панель для управления базами отдыха, водоёмами, магазинами и их свойствами.
+* Designed a database of objects and news.
+* Developed an API for obtaining information about objects.
+* An admin panel has been created to manage recreation centers, reservoirs, shops and their properties.
 
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, Laravel, MySql, phpMyAdmin, JavaScript, jQuery, PhpStorm, Git, Bitbucket
 

@@ -13,10 +13,10 @@ image:
     height: 458
 ---
 
-**ePochta.ru** - сервис по продвижению программного обеспечения и сервисов для email и смс маркетинга.
+**ePochta.ru** - service for promoting software and services for email and SMS marketing.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _AtomPark Software_
+* Company _AtomPark Software_

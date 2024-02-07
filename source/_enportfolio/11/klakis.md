@@ -3,7 +3,7 @@ layout: enportfolio
 title: Klakis
 tag_title: Klakis
 categories:
-    - Neocube Украина
+    - Neocube Ukraine
 tags: [PHP, HTML, CSS, JavaScript, PHPMailer, NetBeans, Xdebug]
 date: 27.06.2015 07:23
 sort: 11
@@ -13,23 +13,23 @@ image:
     height: 306
 ---
 
-**Klakis** - интернет-магазин по продаже игрушек сделанные своими руками.
+**Klakis** - online store selling handmade toys.
 
 ---
 
-Реализованный функционал
+Implemented
 
-* Добавлен и настроен раздел "Мастер-класс".
-* Добавлена возможность из админ-панели отключать сайт.
+* Added and configured the "Master Class" section.
+* Added the ability to disable the site from the admin panel.
 
-Проделанная работа
+Work done
 
-* Сайт установлен и адаптирован под новый хостинг.
-* Добавлена локализация сайта.
-* Создан новый раздел "Мастер-класс".
-* Исправлены баги с кодировкой.
-* Подключён PHPMailer, для корректной отправки писем с нового хостинга.
+* The site is installed and adapted for new hosting.
+* Added site localization.
+* A new section "Master Class" has been created.
+* Fixed bugs with encoding.
+* PHPMailer is connected to correctly send emails from the new hosting.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, PHPMailer, NetBeans, Xdebug.

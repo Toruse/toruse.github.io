@@ -13,19 +13,19 @@ image:
     height: 429
 ---
 
-**Kabel-OK** - сайт производителя кабельных каналов и других комплектующих для станкостроения и промышленных отраслей.
+**Kabel-OK** - website of the manufacturer of cable channels and other components for machine tools and industrial industries.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Проделанная работа
+Work done
 
-* Техническая поддержка сайта.
+* Website technical support.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, jQuery, Smarty, Git, NetBeans.
 

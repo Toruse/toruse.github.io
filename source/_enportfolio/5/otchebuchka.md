@@ -3,7 +3,7 @@ layout: enportfolio
 title: Otchebuchka
 tag_title: Otchebuchka
 categories:
-    - Фриланс
+    - Freelancing
 tags: [HTML, CSS, JavaScript, jQuery, AJAX]
 date: 11.03.2014 00:43
 sort: 5
@@ -13,17 +13,17 @@ image:
     height: 357
 ---
 
-Верстка фотоальбома для проекта Otchebuchka.
+Photo album layout for the Otchebuchka project.
 
-**Otchebuchka** - литературный интернет портал для начинающих и профессиональных писателей.
+**Otchebuchka** - literary Internet portal for beginners and professional writers.
 
 ---
 
-Проделанная работа
+Work done
 
-* Реализована фотогалерея
+* Implemented photo gallery
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * HTML, CSS, JavaScript, jQuery, AJAX
 

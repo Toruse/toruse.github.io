@@ -13,27 +13,27 @@ image:
     height: 411
 ---
 
-**UTB** - украинская транспортная онлайн-биржа для перевозки грузов.
+**UTB** - Ukrainian transport online exchange for cargo transportation.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализованный функционал
+Implemented functionality
 
-* Подключена форма регистрации и авторизации.
-* Добавлены категории грузов.
-* Сделан чат для общения заказчика с перевозчиком.
-* Техническая поддержка сервиса.
+* A registration and authorization form is included.
+* Added cargo categories.
+* A chat has been created for communication between the customer and the carrier.
+* Technical support of the service.
 
-Проделанная работа
+Work done
 
-* Подключена и настроена авторизация с уведомлениями на почту.
-* Добавлены категории грузов в базу данных и реализовано их вывод при создании заказа на перевозку.
-* Создан чат для общения заказчика с перевозчиком.
+* Authorization with email notifications is connected and configured.
+* Added cargo categories to the database and implemented their output when creating a transportation order.
+* A chat has been created for communication between the customer and the carrier.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, Yii 2, MySQL, JavaScript, AngularJS 1.6, OpenServer, PhpStorm, GitHub.

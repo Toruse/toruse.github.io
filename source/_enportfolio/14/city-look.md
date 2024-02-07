@@ -13,24 +13,24 @@ image:
     height: 284
 ---
 
-**City Look** - интернет-магазин одежды, обуви и аксессуаров.
+**City Look** - online store of clothing, shoes and accessories.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Проделанная работа
+Work done
 
-* Техническая поддержка сайта.
-* Установлен и настроен новый парсер.
-* Меню адаптировано для мобильных устройств.
-* Изменён шаблон главной страницы.
-* Исправлен шаблон фильтров.
-* Тестирование функционала.
+* Technical support of the site.
+* A new parser has been installed and configured.
+* Menu adapted for mobile devices.
+* Changed the main page template.
+* Fixed filter template.
+* Functional testing.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans.
 

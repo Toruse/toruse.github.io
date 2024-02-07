@@ -3,7 +3,7 @@ layout: enportfolio
 title: Otchebuchka
 tag_title: Otchebuchka
 categories:
-    - Фриланс
+    - Freelancing
 tags: [PHP, HTML, CSS, JavaScript, jQuery, Flash, MySQL, AJAX, Apache]
 date: 11.03.2014 00:43
 sort: 4
@@ -13,31 +13,31 @@ image:
     height: 345
 ---
 
-**Otchebuchka** - литературный интернет портал для начинающих и профессиональных писателей.
+**Otchebuchka** - literary Internet portal for beginners and professional writers.
 
 ---
 
-Реализованный функционал
+Implemented
 
-* Создан блок меню
-* Блок новостей
-* Блок &laquo;Случайный стих&raquo;
-* Присутствует подсчёт количества посетителей зашедших на страницу
-* Добавлена возможность поделиться ссылкой в социальных сетях
-* Реализован фотоальбом
-* Реализован вывод материалов
-* Есть возможность оставить отзыв о портале
-* Подключена административная часть сайта для управления порталом
+* Menu block created
+* News block
+* Block “Random verse”
+* There is a count of the number of visitors who visited the page
+* Added the ability to share a link on social networks
+* Implemented a photo album
+* Implemented output of materials
+* It is possible to leave a review about the portal
+* The administrative part of the site is connected to manage the portal
 
-Проделанная работа
+Work done
 
-* Выполнена верстка
-* Создана анимация визуальных эффектов
-* Разработана архитектура веб-приложения
-* Разработана структура БД, SQL-запросов, оптимизация производительности
-* Тестирование функциональности
+* Layout done
+* Created visual effects animation
+* Web application architecture developed
+* Developed database structure, SQL queries, performance optimization
+* Functionality testing
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, jQuery, Flash, MySQL, AJAX, Apache
 

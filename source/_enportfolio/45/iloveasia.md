@@ -13,25 +13,25 @@ image:
     height: 488
 ---
 
-**ILoveAsia** - проект объединяющий экспертов по Азии, которые предлагают активные путешествия.
+**ILoveAsia** - a project bringing together experts in Asia who offer active travel.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализовано
+Implemented
 
-* Добавлен поиск путешествий по праздникам.
-* Оптимизирована работа сайта.
-* Техническая поддержка сайта.
+* Added search for travel on holidays.
+* Website performance has been optimized.
+* Technical support of the site.
 
-Проделанная работа
+Work done
 
-* В форме поиска в поле &laquo;Время&raquo; добавлена возможность указать поиск по праздникам.
-* Настроен кэш на сайте, проиндексированы ключевые поля базы данных.
+* In the search form in the “Time” field added the ability to specify a search by holidays.
+* A cache has been configured on the site, key database fields have been indexed.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, Yii 2, MySql, PhpStorm

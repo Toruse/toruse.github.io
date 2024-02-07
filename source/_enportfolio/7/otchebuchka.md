@@ -3,7 +3,7 @@ layout: enportfolio
 title: Otchebuchka
 tag_title: Otchebuchka
 categories:
-    - Фриланс
+    - Freelancing
 tags: [HTML, CSS, JavaScript, jQuery, Flash, Photoshop]
 date: 11.03.2014 00:43
 sort: 7
@@ -13,21 +13,21 @@ image:
     height: 357
 ---
 
-Верстка главной страницы для проекта Otchebuchka.
+Layout of the main page for the Otchebuchka project.
 
-**Otchebuchka** - литературный интернет портал для начинающих и профессиональных писателей.
+**Otchebuchka** - literary Internet portal for beginners and professional writers.
 
 ---
 
-Реализованный функционал
-	
-* Облако тегов
+Implemented
 
-Проделанная работа
+* Tag Cloud
 
-* Выполнена верстка
-* Создана анимация визуальных эффектов
+Work done
 
-Использовались технологии / инструменты
+* Layout done
+* Created visual effects animation
+
+Technologies / tools
 
 * HTML, CSS, JavaScript, jQuery, Flash, Photoshop

@@ -13,19 +13,19 @@ image:
     height: 284
 ---
 
-**Mega Brand Sale** - интернет-магазин брендовой одежды и обуви.
+**Mega Brand Sale** - online store of branded clothing and shoes.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Проделанная работа
+Work done
 
-* Техническая поддержка сайта.
+* Website technical support.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, jQuery, Smarty, Git, NetBeans.
 

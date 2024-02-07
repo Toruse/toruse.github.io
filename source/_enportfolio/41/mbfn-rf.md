@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
 title: Mbfn.rf
-tag_title: Мбфн.рф
+tag_title: Mbfn.rf
 categories:
     - Belka-z
 tags: [Joomla 2.5, ChronoForms, HTML, JavaScript, CSS, PHP, PhpStorm, OpenServer]
@@ -13,28 +13,28 @@ image:
     height: 399
 ---
 
-**МБФН** - Международный Бизнес Форум Недвижимости 2017 года, выставка недвижимости.
+**MBFN** - International Real Estate Business Forum 2017, real estate exhibition.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализовано
+Implemented
 
-* Созданы новые шаблоны.
-* Техническая поддержка сайта.
+* New templates have been created.
+* Technical support of the site.
 
-Проделанная работа
+Work done
 
-* Создан шаблон для центральной страницы.
-* Создан шаблон для стандартных страниц.
-* Создан шаблон для страницы "Конкурс FIABCI".
-* Интегрированы сервисы статистики.
-* Созданы формы для регистрации участников, получения новой программы конкурса, оформление пакетов участника.
-* Выполнены доработки и обновления шаблонов.
+* Created a template for the central page.
+* Created a template for standard pages.
+* A template has been created for the "FIABCI Competition" page.
+* Statistics services are integrated.
+* Forms have been created for registering participants, receiving a new competition program, and completing participant packages.
+* Templates have been improved and updated.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * Joomla 2.5, ChronoForms, HTML, JavaScript, CSS, PHP, PhpStorm, OpenServer.

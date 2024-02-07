@@ -3,7 +3,7 @@ layout: enportfolio
 title: Syo Framework
 tag_title: Syo Framework
 categories:
-    - Саморазвитие
+    - Self-development
 tags: [PHP, MySQL, phpMyAdmin, OpenServer, PhpStorm, GitHub]
 date: 29.11.2019 20:38
 sort: 33
@@ -13,51 +13,51 @@ image:
     height: 328
 ---
 
-**Syo** - фреймворк с открытым кодом, предназначенный для разработки веб приложений на основе архитектурной модели MVC.
+**Syo** - open source framework designed for developing web applications based on the MVC architectural model.
 
 ---
 
-Цель разработки
+Purpose of development
 
-* Разрабатывался в учебных целях, чтобы понять основы архитектуры и принципы работы фреймворков. Более подробней 
-ознакомиться с работой PHP, ООП и шаблонным (паттерным) программированием.
+* Developed for educational purposes to understand the basics of architecture and how frameworks work. Learn more about 
+the work of PHP, OOP and template (pattern) programming.
 
-Разработанные компоненты
+Developed components
 
-* Роутинг
-* Контроллеры
-* Базовый шаблонизатор
-* Registry (реестр глобальных переменных)
-* Классы для работы с cookie и session
-* Валидаторы и Фильтры
-* Генератор HTML тегов и форм
-* Генератор token-ов
+* Routing
+* Controllers
+* Basic template engine
+* Registry (registry of global variables)
+* Classes for working with cookies and session
+* Validators and Filters
+* HTML tags and forms generator
+* Token generator
 * Cache
-* Логирование в файл, базу данных и на e-mail
-* Помощник для работы со строками
+* Logging to file, database and e-mail
+* Helper for working with strings
 * Widget
-* Перехваты (Hooks)
-* Mailer на основе библиотеки PHPMailer
-* ORM (объектно-реляционное отображение)
-* Конструктор запросов
-* Компонент для работы с Nested Sets деревьями в базе данных
-* Хранение констант в базе данных
-* Генератор HTML-меню на основе Nested Sets деревьев
-* EAV (Сущность-Артибут-Значени) для базы данных
-* Базовая CAPTCHA
-* Аутентификация
-* RBAC (Role Based Access Control) - Система доступа на основе ролей
-* Плагины
+* Listening (Hooks)
+* Mailer based on the PHPMailer library
+* ORM (Object Relational Mapping)
+* Query builder
+* Component for working with Nested Sets trees in the database
+* Storing constants in the database
+* HTML menu generator based on Nested Sets trees
+* EAV (Entity-Artifice-Values) for the database
+* Basic CAPTCHA
+* Authentication
+* RBAC (Role Based Access Control) - Role-based access system
+* Plugins
 
-История
+History
 
-* Разрабатывался с 2013 по 2015 год.
+* Developed from 2013 to 2015.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, MySQL, phpMyAdmin, OpenServer, PhpStorm, GitHub.
-	
-Ссылки на ресурсы
+
+Links
 
 * [GitHub: https://github.com/Toruse/Syo-framework](https://github.com/Toruse/Syo-framework)
 

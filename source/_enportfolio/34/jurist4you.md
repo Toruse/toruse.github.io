@@ -3,8 +3,8 @@ layout: enportfolio
 title: Jurist4You
 tag_title: Jurist4You
 categories:
-    - Фриланс
-tags: [WordPress, Яндекс.Метрика, Google Analytics, Яндекс.Вебмастер, Google Webmasters]
+    - Freelancing
+tags: [WordPress, Yandex.Metrica, Google Analytics, Yandex.Webmaster, Google Webmasters]
 date: 01.02.2016 06:02
 sort: 34
 image: 
@@ -13,29 +13,29 @@ image:
     height: 284
 ---
 
-**Jurist4You** - сайт по предоставлению юридических и посреднических услуг нерезидентам Литвы и ЕС, жителям России, 
-Украины, Беларуси, Армении, Грузии.
+**Jurist4You** - website for providing legal and mediation services to non-residents of Lithuania and the EU, residents of Russia,
+Ukraine, Belarus, Armenia, Georgia.
 
 ---
 
-Проделанная работа
+Work done
 
-* Установлен и настроен WordPress.
-* Установлена и настроена тема Tesseract.
-* Установлен плагин Beaver Builder Plugin.
-* Установлен плагин RusToLat.
-* Установлен плагин Contact Form 7. Созданы и настроены формы обратной связи.
-* Установлен и настроен плагин WP-Mail-SMTP, для отправки писем с форм связи.
-* Установлен плагин Easy FancyBox. Настроены соответствующие формы для отображения во всплывающем окне.
-* Установлен плагин DL Yandex Metrika, и синхронизирован с Яндекс.Метрика.
-* Установлен плагин Google Analytics Dashboard, и синхронизирован с Google Analytics.
-* Установлен плагин Simple 301 Redirects, и добавлены редиректы.
-* Установлен и настроен плагин Skype Legacy Buttons. Кнопка Skype добавлена в раздел контактов.
-* Установлен плагин Yoast SEO.
-* Установлен и настроен плагин Polylang. Добавлен английский, русский и литовский язык.
-* Администрирование сайта.
-* Для отслеживания задач установлен плагин Project Tasks.
+* WordPress installed and configured.
+* Tesseract theme installed and configured.
+* Beaver Builder Plugin installed.
+* The RusToLat plugin is installed.
+* Contact Form 7 plugin installed. Feedback forms created and configured.
+* Installed and configured the WP-Mail-SMTP plugin for sending letters from contact forms.
+* Easy FancyBox plugin installed. Configured appropriate forms to display in a pop-up window.
+* The DL Yandex Metrika plugin is installed and synchronized with Yandex.Metrika.
+* The Google Analytics Dashboard plugin is installed and synchronized with Google Analytics.
+* Installed the Simple 301 Redirects plugin and added redirects.
+* The Skype Legacy Buttons plugin is installed and configured. A Skype button has been added to the contacts section.
+* Yoast SEO plugin installed.
+* The Polylang plugin is installed and configured. Added English, Russian and Lithuanian languages.
+* Site administration.
+* The Project Tasks plugin is installed to track tasks.
 
-Использовались технологии / инструменты
+Technologies / tools
 
-* WordPress, Яндекс.Метрика, Google Analytics, Яндекс.Вебмастер, Google Webmasters.
+* WordPress, Yandex.Metrica, Google Analytics, Yandex.Webmaster, Google Webmasters.

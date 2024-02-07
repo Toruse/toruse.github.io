@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
 title: Ksenita
-tag_title: Ксенита
+tag_title: Ksenita
 categories:
     - Revolife
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
@@ -13,29 +13,29 @@ image:
     height: 255
 ---
 
-**Ксенита** - сайт портфолио визажиста.
+**Ksenita** - makeup artist portfolio website.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Реализована целевая страница (Landing Page).
-* Страницы портфолио.
-* Блог.
+* Implemented Landing Page.
+* Portfolio pages.
+* Blog.
 
-Проделанная работа
+Work done
 
-* Подключена вёрстка к CMS Revolife.
-* Добавлен и настроен модуль портфолио.
-* Добавлен и настроен модуль блога.
-* Настроен сallback.
-* Тестирование функционала.
+* Layout is connected to CMS Revolife.
+* Added and configured the portfolio module.
+* Added and configured the blog module.
+* Callback configured.
+* Functional testing.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans.
 

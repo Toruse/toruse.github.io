@@ -4,7 +4,7 @@ title: Autoriginal
 tag_title: Autoriginal
 categories:
     - Beatom
-tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Плагин AddThis]
+tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Plugin AddThis]
 date: 23.06.2015 04:52
 sort: 9
 image: 
@@ -13,26 +13,26 @@ image:
     height: 337
 ---
 
-**Autoriginal** - интернет-магазин автозапчастей.
+**Autoriginal** - online auto parts store.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Beatom_
+* Company _Beatom_
 
-Реализованный функционал
+Implemented
 
-* Динамический поиск.
-* Добавлен сервис социальных сетей.
+* Dynamic search.
+* Added social networking service.
 
-Проделанная работа
+Work done
 
-* Добавлена динамическая загрузка категорий запчастей при работе с поиском.
-* Сделана динамическая загрузка страниц при поиске авто деталей.
-* Подключён сервис обмена ссылками в социальных сетях AddThis.
-* Тестирование функциональности.
+* Added dynamic loading of spare parts categories when working with search.
+* Added dynamic loading of pages when searching for auto parts.
+* Link exchange service on social networks AddThis is connected.
+* Functionality testing.
 
-Использовались технологии / инструменты
+Technologies / tools
 
-* PHP, HTML, CSS, JavaScript, jQuery, MySQL, Плагин AddThis.
+* PHP, HTML, CSS, JavaScript, jQuery, MySQL, Plugin AddThis.

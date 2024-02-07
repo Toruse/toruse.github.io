@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
-title: Plagin Cross-Link dlya Wordpress
-tag_title: Плагин Cross-Link для WordPress
+title: Cross-Link Plugin for WordPress
+tag_title: Cross-Link plugin for WordPress
 categories:
     - Revolife
 tags: [PHP, HTML, JavaScript, jQuery, WordPress, PhpStorm, Git]
@@ -13,25 +13,25 @@ image:
     height: 357
 ---
 
-**Cross-Link** - плагин для внутренней перелинковки статей.
+**Cross-Link** - plugin for internal linking of articles.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Выводит ссылки на статьи в документе.
+* Displays links to articles in the document.
 
-Проделанная работа
+Work done
 
-* Реализована генерация списка ссылок на статьи.
-* Подключён интерфейс для настройки плагина.
-* Добавлен shortcode для вывода списка ссылок в документ.
-* Тестирование плагина.
+* Implemented generation of a list of links to articles.
+* An interface for configuring the plugin has been added.
+* Added shortcode for displaying a list of links in a document.
+* Testing the plugin.
 
-Использовались технологии / инструменты
+Technologies / tools
 
-* PHP, HTML, JavaScript, jQuery, WordPress, PhpStorm, Git.s
+* PHP, HTML, JavaScript, jQuery, WordPress, PhpStorm, Git.

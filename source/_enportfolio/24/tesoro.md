@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
 title: Tesoro
-tag_title: Тесоро
+tag_title: Tesoro
 categories:
     - Revolife
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
@@ -13,26 +13,26 @@ image:
     height: 284
 ---
 
-**Тесоро** - сайт оптового склада строительных материалов.
+**Tesoro** - website for a wholesale warehouse of building materials.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Реализована целевая страница (Landing Page).
-* Витрина "Товаров".
+* Implemented Landing Page.
+* Showcase "Products".
 
-Проделанная работа
+Work done
 
-* Подключена вёрстка к CMS Revolife.
-* Добавлен и настроен модуль витрин.
-* Настроен сallback.
-* Тестирование функционала.
+* Layout is connected to CMS Revolife.
+* Added and configured the showcase module.
+* Callback configured.
+* Functional testing.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans.

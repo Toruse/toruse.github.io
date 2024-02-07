@@ -13,19 +13,19 @@ image:
     height: 284
 ---
 
-**Molex apartments** - сайт по аренде апартаментов.
+**Molex apartments** - apartment rental website.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Проделанная работа
+Work done
 
-* Техническая поддержка сайта.
+* Website technical support.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, jQuery, Smarty, Git, NetBeans.
 

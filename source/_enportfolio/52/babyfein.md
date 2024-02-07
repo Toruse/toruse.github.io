@@ -13,26 +13,28 @@ image:
     height: 210
 ---
 
-**Babyfein** - сервис предоставляющий информацию о составе продуктов питания для беременных женщин.
+**Babyfein** - service providing information on the composition of food products for pregnant women.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализовано
+Implemented
 
-* Реализовано API для получения информации о продукте.
-* Создана админ панель для управления продуктами.
+* Implemented an API for obtaining product information.
+* An admin panel has been created to manage products.
 
-Проделанная работа
+Work done
 
-* Спроектирована база данных.
-* Разработано API, которое позволяет авторизированным пользователям получить информацию о продукте, добавить новый EAN-номер, и синхронизовать данные с базой.
-* Создана админ панель для управления полученными новыми EAN-номерами, продуктами и их свойствами (производитель, ингредиенты, характеристики).
+* Database designed.
+* An API has been developed that allows authorized users to obtain information about the product, add a new EAN number, 
+and synchronize data with the database.
+* An admin panel has been created to manage received new EAN numbers, products and their properties (manufacturer, 
+ingredients, characteristics).
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, Laravel, MySql, phpMyAdmin, JavaScript, jQuery, Facebook API, Google API, PhpStorm, Git, GitHub
 

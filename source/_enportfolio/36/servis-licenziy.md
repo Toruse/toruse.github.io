@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
-title: Servis Licenziy
-tag_title: Сервис лицензий
+title: License Service
+tag_title: License service
 categories:
     - Vilijavis
 tags: [JavaScript, Node.js, MySql, PhpStorm, Git, Express, Sequelize, Restify, Body-parser, Command-line-args, Passport, Password-hash, Db-migrate-mysql, Mocha, Async]
@@ -13,30 +13,30 @@ image:
     height: 306
 ---
 
-**Сервис лицензий** - REST API-сервис для работы с лицензиями пользователей.
+**License service** - REST API service for working with user licenses.
 
 ---
 
-Работодатель
+Place of work
 
-* Компания _Vilijavis_
+* Company _Vilijavis_
 
-Реализованный функционал
+Implemented
 
-* Создан сервис для получения данных о лицензиях и их пользователях.
-* Добавлена возможность работы с данными менеджеров отвечающие за выдачу лицензий.
-* Написана утилита для работы с сервисом из командной строки.
+* A service has been created to obtain data about licenses and their users.
+* Added the ability to work with data from managers responsible for issuing licenses.
+* A utility has been written to work with the service from the command line.
 
-Проделанная работа
+Work done
 
-* Спроектирована база данных.
-* Написаны миграции.
-* Разработано REST API для пользователя, для лицензий, для менеджеров.
-* Написана утилита для работы с сервисом.
-* Написаны тесты для проверки работы REST API-сервиса.
+* Database designed.
+* Written migrations.
+* Developed REST API for the user, for licenses, for managers.
+* A utility has been written to work with the service.
+* Written tests to check the operation of the REST API service.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * JavaScript, Node.js, MySql, PhpStorm, Git. 
-* Используемые пакеты: Express, Sequelize, Restify, Body-parser, Command-line-args, Passport, Password-hash, Db-migrate-mysql, Mocha, Async.
+* Packages used: Express, Sequelize, Restify, Body-parser, Command-line-args, Passport, Password-hash, Db-migrate-mysql, Mocha, Async.
 

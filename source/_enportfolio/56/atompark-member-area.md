@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
 title: AtomPark Member Area
-tag_title: Личный кабинет Atompark
+tag_title: Atompark personal account
 categories:
     - AtomPark Software
 tags: [PHP]
@@ -13,11 +13,11 @@ image:
     height: 301
 ---
 
-**AtomPark** - компания по разработке и продвижению программного обеспечения и сервисов для email и смс маркетинга.
+**AtomPark** - company for the development and promotion of software and services for email and SMS marketing.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _AtomPark Software_
+* Company _AtomPark Software_
 

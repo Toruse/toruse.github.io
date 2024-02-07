@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
-title: Plagin List Players Online dlya Wordpress
-tag_title: Плагин List Players Online для WordPress
+title: List Players Online Plugin for WordPress
+tag_title: List Players Online Plugin for WordPress
 categories:
     - Revolife
 tags: [PHP, HTML, JavaScript, jQuery, WordPress, PhpStorm, Git]
@@ -13,30 +13,30 @@ image:
     height: 284
 ---
 
-**List Players Online** - плагин для вывода online игроков на сайт.
+**List Players Online** - plugin for displaying online players to the site.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Активные игроки выводятся на сайт.
+* Active players are displayed on the site.
 
-Проделанная работа
+Work done
 
-* Реализована обработка запроса от игрового клуба.
-* Сделано сохранение, обновление и создание новых игроков.
-* Зарегистрирован новый тип поста.
-* Подключён интерфейс для настройки плагина.
-* Создан action для вывода списка игроков в шаблон.
-* Добавлен shortcode для вывода списка игроков на странице блога.
-* Создан фильтр для получения списка игроков виде массива.
-* В шаблоне плагина реализовано обновление списка активных игроков.
-* Тестирование плагина.
+* Implemented processing of requests from the gaming club.
+* Made saving, updating and creating new players.
+* A new post type has been registered.
+* An interface for configuring the plugin has been added.
+* Created an action to display a list of players in a template.
+* Added shortcode to display a list of players on the blog page.
+* A filter has been created to obtain a list of players in the form of an array.
+* Update of the list of active players is implemented in the plugin template.
+* Testing the plugin.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, JavaScript, jQuery, WordPress, PhpStorm, Git.

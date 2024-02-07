@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
-title: Plagin It-tour dlya Wordpress
-tag_title: Плагин IT-Tour для WordPress
+title: IT-Tour Plugin for WordPress
+tag_title: IT-Tour plugin for WordPress
 categories:
     - Revolife
 tags: [PHP, HTML, JavaScript, jQuery, WordPress, PhpStorm, Git]
@@ -13,27 +13,27 @@ image:
     height: 284
 ---
 
-**Плагин IT-Tour** - позволяет выполнить поиск туров с сервиса IT-tour.
+**IT-Tour plugin** - allows you to search for tours from the IT-tour service.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Добавляет возможно выполнить поиск туров на сайте под управлением CMS WordPress.
+* Adds the ability to search for tours on a website running CMS WordPress.
 
-Проделанная работа
+Work done
 
-* Перенесён модуль RevoLife получения данных с сервиса на CMS WordPress.
-* Зарегистрирован новый тип поста.
-* Реализовано добавление новых туров в базу данных.
-* Подключён интерфейс для настройки плагина.
-* Добавлен shortcode для вывода интерфейса поиска туров.
-* Тестирование плагина.
+* The RevoLife module for receiving data from the service has been moved to CMS WordPress.
+* A new post type has been registered.
+* Addition of new tours to the database has been implemented.
+* An interface for configuring the plugin has been added.
+* Added shortcode to display the tour search interface.
+* Testing the plugin.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, JavaScript, jQuery, WordPress, PhpStorm, Git.

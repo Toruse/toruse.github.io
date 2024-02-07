@@ -13,31 +13,32 @@ image:
     height: 278
 ---
 
-Плагин для записи на консультацию в центр компетенции.
+Plugin for registering for a consultation at the competence center.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализовано
+Implemented
 
-* Разработан плагин для записи на консультацию.
-* Техническая поддержка сайта.
+* A plugin has been developed for booking a consultation.
+* Technical support of the site.
 
-Проделанная работа
+Work done
 
-* Создан форма для указания данных и выбора свободного времени для консультации.
-* Добавлен новый тип записи для учета записанных на приём и указания результата консультации.
-* Реализована блокировка дней и времени занятые консультацией.
-* Создан раздел настроек для плагина, в котором можно указать типы консультаций, поля для заполнения, время приема, дни и время закрытые для приема.
+* A form has been created to indicate data and select free time for consultation.
+* Added a new record type for recording appointments and indicating the result of the consultation.
+* Implemented blocking of days and times occupied by consultation.
+* A settings section has been created for the plugin, in which you can specify the types of consultations, fields to 
+fill out, appointment times, days and times closed for appointments.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, WordPress, MySql, JavaScript, jQuery, HTML, PhpStorm, Git, Bitbucket
 
-Ссылки на ресурсы
+Links
 
 * _GitHub_: [https://github.com/Toruse/calendar-consultations](https://github.com/Toruse/calendar-consultations)
 

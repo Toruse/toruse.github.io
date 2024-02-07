@@ -13,19 +13,19 @@ image:
     height: 284
 ---
 
-**Podless** - сайт тренинга по эффективной коммуникации.
+**Podless** - training website on effective communication.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Проделанная работа
+Work done
 
-* Техническая поддержка сайта.
+* Technical support of the site.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, jQuery, Smarty, Git, NetBeans.
 

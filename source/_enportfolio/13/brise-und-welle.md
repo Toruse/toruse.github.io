@@ -13,18 +13,18 @@ image:
     height: 284
 ---
 
-**Brise und Welle** - сайт косметологической студии.
+**Brise und Welle** - cosmetology studio website.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Проделанная работа
+Work done
 
-* Техническая поддержка сайта.
+* Technical support of the site.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, Smarty, Git, NetBeans.

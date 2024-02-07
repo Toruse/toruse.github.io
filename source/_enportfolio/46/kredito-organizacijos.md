@@ -3,7 +3,7 @@ layout: enportfolio
 title: Kredito Organizacijos
 tag_title: Kredito Organizacijos
 categories:
-    - Фриланс
+    - Freelancing
 tags: [WordPress, Google Analytics]
 date: 25.11.2019 23:57
 sort: 46
@@ -13,21 +13,21 @@ image:
     height: 284
 ---
 
-Сайт визитка для кредитной организации.
+Business card website for a credit institution.
 
 ---
 
-Проделанная работа
+Work done
 
-* Установлен и настроен WordPress.
-* Установлена и настроена тема.
-* Установлен плагин RusToLat.
-* Установлен плагин Contact Form 7. Созданы и настроены формы обратной связи.
-* Подключен сервис Google Analytics.
-* Установлен плагин Simple 301 Redirects.
-* Установлен плагин Yoast SEO.
-* Установлен и настроен плагин Polylang. Добавлен английский, русский и литовский язык.
+* WordPress installed and configured.
+* The theme is installed and configured.
+* The RusToLat plugin is installed.
+* Contact Form 7 plugin installed. Feedback forms created and configured.
+* Google Analytics service is connected.
+* Simple 301 Redirects plugin installed.
+* Yoast SEO plugin installed.
+* The Polylang plugin is installed and configured. Added English, Russian and Lithuanian languages.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * WordPress, Google Analytics.

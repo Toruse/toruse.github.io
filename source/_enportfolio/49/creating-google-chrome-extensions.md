@@ -3,7 +3,7 @@ layout: enportfolio
 title: Creating Google Chrome Extensions
 tag_title: Creating Google Chrome Extensions
 categories:
-    - Саморазвитие
+    - Self-development
 tags: [Google Chrome, JavaScript, Markdown, GitBook, GitHub]
 date: 29.11.2019 19:46
 sort: 49
@@ -13,25 +13,25 @@ image:
     height: 500
 ---
 
-**Creating Google Chrome Extensions** - перевод книги.
+**Creating Google Chrome Extensions** - book translation.
 
 ---
 
-Реализованно
+Implemented
 
-* Книга переведена с английского на русский язык.
+* The book has been translated from English into Russian.
 
-Проделанная работа
+Work done
 
-* Выполнен перевод книги.
-* Сделана редакция книги.
-* Выполнен релиз книги.
+* The book has been translated.
+* The book has been edited.
+* The book has been released.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * Google Chrome, JavaScript, Markdown, GitBook, GitHub.
 
-Ссылки на ресурсы
+Links
 
 * _GitHub_: [https://github.com/Toruse/Creating-Google-Chrome-Extensions](https://github.com/Toruse/Creating-Google-Chrome-Extensions)
-* _Содержание книги_: [https://github.com/Toruse/Creating-Google-Chrome-Extensions/blob/master/SUMMARY.md](https://github.com/Toruse/Creating-Google-Chrome-Extensions/blob/master/SUMMARY.md)
+* _Contents_: [https://github.com/Toruse/Creating-Google-Chrome-Extensions/blob/master/SUMMARY.md](https://github.com/Toruse/Creating-Google-Chrome-Extensions/blob/master/SUMMARY.md)

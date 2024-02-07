@@ -13,28 +13,28 @@ image:
     height: 454
 ---
 
-**AutoMania** - интернет-магазин по продаже запчастей.
+**AutoMania** - online store for selling spare parts.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _MstarProject_
+* Company _MstarProject_
 
-Реализованный функционал
+Implemented
 
-* Реализована корзина как на сайте rozetka.com.ua.
-* Добавлен звездочный рейтинг.
+* The shopping cart has been implemented as on the site rozetka.com.ua.
+* Added star rating.
 
-Проделанная работа
+Work done
 
-* Переделана логика работы корзины в CMS.
-* Изменена вёрстка для новой корзины.
-* Добавлен вывод рейтинга и форма для голосования в карточке товара.
-* Реализован подсчёт рейтинга и сохранения его в базу данных.
-* Мелкие правки по сайту.
-* Тестирование функциональности.
+* The logic of the shopping cart in the CMS has been redesigned.
+* The layout for the new cart has been changed.
+* Added rating output and voting form in the product card.
+* Implemented rating calculation and saving it to the database.
+* Minor edits on the site.
+* Functionality testing.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, Zend Studio, Xdebug, Subversion.

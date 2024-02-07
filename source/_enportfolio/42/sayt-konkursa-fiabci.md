@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
-title: Sayt konkursa FIABCI
-tag_title: Сайт конкурса FIABCI
+title: FIABCI competition website
+tag_title: FIABCI competition website
 categories:
     - Belka-z
 tags: [PHP, Yii 2, HTML, JavaScript, jQuery, Fancybox, PhpStorm, OpenServer]
@@ -13,25 +13,25 @@ image:
     height: 277
 ---
 
-**Конкурс FIABCI** - один из самых престижных конкурсов в области недвижимости.
+**FIABCI Competition** - one of the most prestigious competitions in the field of real estate.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализовано
+Implemented
 
-* Реализована фотогалерея.
-* Техническая поддержка сайта.
+* Implemented a photo gallery.
+* Technical support of the site.
 
-Проделанная работа
+Work done
 
-* Добавлена возможность создавать и редактировать фотогалереи через панель администрирования.
-* Сделан вывод фотогалереи в разделе "Пресс-центр".
+* Added the ability to create and edit photo galleries through the administration panel.
+* The photo gallery has been added in the “Press Center” section.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, Yii 2, HTML, JavaScript, jQuery, Fancybox, PhpStorm, OpenServer.
 

@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
 title: Zhurba
-tag_title: Журба
+tag_title: Zhurba
 categories:
     - Revolife
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
@@ -13,29 +13,29 @@ image:
     height: 284
 ---
 
-**Журба** - сайт магазина ритуальных услуг.
+**Zhurba** - funeral service store website.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Реализована целевая страница (Landing Page).
-* Каталог товаров.
-* Витрина "Каталог".
+* Implemented Landing Page.
+* Catalog.
+* Showcase "Catalog".
 
-Проделанная работа
+Work done
 
-* Подключена вёрстка к CMS Revolife.
-* Добавлен и настроен модуль витрин.
-* Добавлен и настроен модуль интернет-магазин.
-* Подключена страница товаров.
-* Настроен сallback.
-* Тестирование функционала.
+* Layout is connected to CMS Revolife.
+* Added and configured the storefront module.
+* Added and configured the online store module.
+* Products page is connected.
+* Callback configured.
+* Functional testing.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans.

@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
-title: Mramor
-tag_title: Мрамор
+title: Marble
+tag_title: Marble
 categories:
     - Revolife
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
@@ -13,33 +13,33 @@ image:
     height: 284
 ---
 
-**Мрамор** - сайт склада мрамора в Киеве.
+**Marble** - marble warehouse website in Kyiv.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Реализована целевая страница (Landing Page).
-* Каталог товаров.
-* Портал.
-* Галерея.
+* Implemented Landing Page.
+* Product catalog.
+* Portal.
+* Gallery.
 
-Проделанная работа
+Work done
 
-* Подключена вёрстка к CMS Revolife.
-* Добавлен и настроен модуль интернет-магазин.
-* Добавлен и настроен модуль Портал.
-* Добавлен и настроен модуль текстовой страницы с галереей.
-* Настроен сallback.
-* Добавлено inline редактирование текстовых блоков.
-* Тестирование функционала.
-* Техническая поддержка сайта.
+* Layout is connected to CMS Revolife.
+* Added and configured the online store module.
+* Added and configured the Portal module.
+* Added and configured a text page module with a gallery.
+* Callback configured.
+* Added inline editing of text blocks.
+* Functional testing.
+* Technical support of the site.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans.
 

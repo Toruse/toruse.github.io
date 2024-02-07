@@ -13,27 +13,27 @@ image:
     height: 281
 ---
 
-**Yuppi** - интернет-магазин брендовой обуви из Польши и США.
+**Yuppi** - online store of branded shoes from Poland and the USA.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Реализована целевая страница (Landing Page).
-* Каталог товаров.
+* Implemented Landing Page.
+* Product catalog.
 
-Проделанная работа
+Work done
 
-* Подключена вёрстка к CMS Revolife.
-* Добавлен и настроен модуль интернет-магазин.
-* Подключён и настроен импорт товара из парсера.
-* Тестирование функционала.
+* Layout is connected to CMS Revolife.
+* Added and configured the online store module.
+* Product import from the parser is connected and configured.
+* Functional testing.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans.
 

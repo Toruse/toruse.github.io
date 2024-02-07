@@ -40,4 +40,5 @@ image:
 * PHP, Yii 1.1, HTML, PHPMailer, SMS API, OpenServer, PhpStorm, Git, Bitbucket.
 
 Ссылки на ресурсы
+
 * [GitHub: https://github.com/Toruse/yota-rest-api](https://github.com/Toruse/yota-rest-api)

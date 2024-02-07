@@ -13,21 +13,21 @@ image:
     height: 333
 ---
 
-**China-Unlimited** - сайт визитка компании по доставке товаров из Китая.
+**China-Unlimited** - website business card of a company delivering goods from China.
 
 ---
 
-Реализованный функционал
+Implemented
 
-* Реализован вывод материалов
-* Кнопка &laquo;Перезвонить мне&raquo;
+* Implemented output of materials
+* "Call me back" button
 
-Проделанная работа
+Work done
 
-* Разработан дизайн
-* Выполнена верстка
+* Design developed
+* Layout done
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, SMS API, HTML, CSS, JavaScript, jQuery
 

@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
-title: Ferst Interektiv
-tag_title: Ферст Интеректив
+title: First Interactive
+tag_title: First Interactive
 categories:
     - Revolife
 tags: [PHP, HTML, JavaScript, jQuery, rotate3Di, Smarty, Git, NetBeans]
@@ -13,19 +13,19 @@ image:
     height: 284
 ---
 
-**Ферст Интеректив** - компания по интерактивной рекламы.
+**First Interactive** - interactive advertising company.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Проделанная работа
+Work done
 
-* Техническая поддержка сайта.
-* На вкладки добавлена 3D анимация.
+* Technical support of the site.
+* 3D animation has been added to the tabs.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, JavaScript, jQuery, rotate3Di, Smarty, Git, NetBeans.

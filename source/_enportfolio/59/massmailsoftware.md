@@ -13,10 +13,10 @@ image:
     height: 388
 ---
 
-**Massmailsoftware.com** - сервис по продвижению программного обеспечения и сервисов для email и смс маркетинга.
+**Massmailsoftware.com** - service for promoting software and services for email and SMS marketing.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _AtomPark Software_
+* Company _AtomPark Software_

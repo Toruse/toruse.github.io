@@ -13,24 +13,24 @@ image:
     height: 284
 ---
 
-**Corsar** - интернет-магазин товаров для туризма и активного отдыха.
+**Corsar** - online store of goods for tourism and active recreation.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Реализован парсинг товара с интернет-магазина Motakuji.
+* Parsing of goods from the Motakuji online store has been implemented.
 
-Проделанная работа
+Work done
 
-* Разработан парсинг для получения каталога с сайте, и парсинг страниц товара.
-* Реализован алгоритм добавления товара в базу данных.
-* Создан интерфейс для работы с парсингом.
+* Parsing has been developed to obtain a catalog from the site, and parsing product pages.
+* Implemented an algorithm for adding products to the database.
+* An interface has been created for working with parsing.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, phpQuery, MySQL, Git, NetBeans.

@@ -13,32 +13,32 @@ image:
     height: 284
 ---
 
-**Hittakupong** - интернет сервис по продаже скидочных купонов.
+**Hittakupong** - internet service for selling discount coupons.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Добавлено автоматическое подтверждение заказа.
-* Добавлена функция отправить купон другу.
-* Подключена возможность купить купон через платёжную систему PayPal.
-* Разработан интерфейс заказ купона через SMS.
-* Реализована функция "Стать партнёром".
+* Added automatic order confirmation.
+* Added the function to send a coupon to a friend.
+* The ability to buy a coupon through the PayPal payment system has been enabled.
+* An interface for ordering a coupon via SMS has been developed.
+* The "Become a partner" function has been implemented.
 
-Проделанная работа
+Work done
 
-* Добавлена фильтрация и сортировка в таблице заказанных купонов.
-* Добавлена возможность выбора количество купонов при заказе.
-* Переверстана шапка сайта.
-* Реализованы классы и интерфейс для работы с сервисом SMS-рассылки.
-* Подключена кнопка PayPal.
-* Настроена отправка уведомлений на почту.
-* Сверстаны письма для отправки уведомление о заказе на сайте.
+* Added filtering and sorting in the table of ordered coupons.
+* Added the ability to select the number of coupons when ordering.
+* The site header has been redesigned.
+* Implemented classes and interface for working with the SMS messaging service.
+* PayPal button connected.
+* Configured to send notifications by email.
+* Designed letters for sending notifications about orders on the website.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, MySQL, Google Fonts, ePochta API 3.0, Smarty, Git, NetBeans.

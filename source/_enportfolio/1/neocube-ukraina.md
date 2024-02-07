@@ -1,9 +1,9 @@
 ---
 layout: enportfolio
-title: Neocube Ukraina
-tag_title: Neocube Украина
+title: Neocube Ukraine
+tag_title: Neocube Ukraine
 categories:
-    - Neocube Украина
+    - Neocube Ukraine
 tags: [PHP, HTML, CSS, JavaScript, jQuery, Flash, Photoshop, MySQL, Apache]
 date: 10.03.2014 22:37
 sort: 1
@@ -13,31 +13,31 @@ image:
     height: 425
 ---
 
-**NEOCUBE Украина** - интернет магазин по продаже головоломки Neocube, и жвачка для рук Handgum.
+**NEOCUBE Ukraine** - online store selling Neocube puzzles and Handgum chewing gum.
 
 ---
 
-Реализованный функционал
+Implemented
 
-* Меню
-* Блок новостей
-* Фотоальбом
-* Реализован вывод материалов
-* Каталог товаров
-* Корзина
-* Показ баннеров
-* Статистка посещений сайта
-* Подключена административная часть сайта для управления магазином
+* Menu
+* News block
+* Photo album
+* Implemented output of materials
+* Catalog
+* Basket
+* Display banners
+* Site visit statistics
+* The administrative part of the site is connected to manage the store
 
-Проделанная работа
+Work done
 
-* Выполнена верстка
-* Создана анимация визуальных эффектов
-* Разработана архитектура веб-приложения
-* Разработана структура БД, SQL-запросов, оптимизация производительности
-* Тестирование функциональности
-* Администрирование магазина
+* Layout done
+* Created visual effects animation
+* Web application architecture developed
+* Developed database structure, SQL queries, performance optimization
+* Functionality testing
+* Store administration
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, jQuery, Flash, Photoshop, MySQL, Apache

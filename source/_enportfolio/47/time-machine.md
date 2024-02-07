@@ -13,42 +13,42 @@ image:
     height: 377
 ---
 
-**Time Machine** - система управления персоналом организации.
+**Time Machine** - organization personnel management system.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализованный функционал
+Implemented
 
-* Схема организации.
-* Раздел расписания.
-* Система назначения задач.
-* Система уведомлений.
-* Механизм обучения персонала.
-* Механизм найма.
-* Система предупреждений персонала о нарушениях.
-* Проекты решения.
-* Статистика продуктивности.
-* Шифрование данных в системе.
+* Organization diagram.
+* Schedule section.
+* Task assignment system.
+* Notification system.
+* Staff training mechanism.
+* Hiring mechanism.
+* Personnel warning system about violations.
+* Project solutions.
+* Productivity statistics.
+* Encryption of data in the system.
 
-Проделанная работа
+Work done
 
-* Спроектирована база данных. Подключена возможность шифровать данные и проверка их целостность.
-* Создан функционал управление структурой организации, который позволяет создавать и изменить отделы, департаменты, добавить нового сотрудника.
-* Разработан раздел для просмотра задач виде расписания: на час, на день, на неделю, на месяц.
-* Создан раздел по управлению задачами и планами к задачам. Так же встроена возможность переназначить, перенаправить, и отследить весь путь передачи задачи по отделам до её выполнения.
-* Добавлена система сообщений и уведомлений для общения между персоналом, а также получать информацию о состоянии системы, выполняемых задач, пунктов плана, поручений.
-* Разработан функционал для найма, обучения и переобучения человека.
-* Разработана система для предупреждения персонала о нарушении, а в дальнейшем и увольнении персонала.
-* Создана система проект решений, приказов для указания персоналу как действовать в случае невыполнения задач и поручений.
-* Добавлен функционал для работы с документами.
-* Разработан раздел статистики для отслеживания продуктивности персонала, отдела, департамента и организации в целом.
-* Написана система кронов для работы системы в фоновом режиме.
+* Database designed. The ability to encrypt data and check its integrity is enabled.
+* A functionality has been created for managing the structure of an organization, which allows you to create and change divisions, departments, and add a new employee.
+* A section has been developed for viewing tasks in the form of a schedule: for an hour, for a day, for a week, for a month.
+* A section has been created for managing tasks and plans for tasks. There is also a built-in ability to reassign, redirect, and track the entire path of transferring a task across departments until it is completed.
+* Added a system of messages and notifications for communication between staff, as well as to receive information about the status of the system, tasks being performed, plan items, and assignments.
+* Developed functionality for hiring, training and retraining a person.
+* A system has been developed to warn personnel about violations, and subsequently to dismiss personnel.
+* A system of draft decisions and orders has been created to indicate to personnel how to act in the event of failure to complete tasks and instructions.
+* Added functionality for working with documents.
+* A statistics section has been developed to track the productivity of personnel, divisions, departments and the organization as a whole.
+* A crown system has been written to allow the system to run in the background.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, Yii 2, MySQL, phpMyAdmin, JavaScript, jQuery, D3.js, HTML, CSS, OpenServer, PhpStorm, Bitbucket.
 

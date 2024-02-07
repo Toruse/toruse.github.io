@@ -13,30 +13,30 @@ image:
     height: 498
 ---
 
-**DomDaDom** - интернет-магазин по ремонту, дизайну и продаже мебели.
+**DomDaDom** - online store for repair, design and sale of furniture.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Beatom_
+* Company _Beatom_
 
-Реализованный функционал
+Implemented
 
-* Добавлены виды для отображения элементов в каталоге
-* Авторизация при помощи социальных сетей
-* Внедрена фильтрация в каталоге
-* Сортировка
-* Новая админка
+* Added views for displaying items in the catalog
+* Authorization using social networks
+* Filtering has been implemented in the catalog
+* Sorting
+* New admin panel
 
-Проделанная работа
+Work done
 
-* Подключена вёрстка
-* Разработана структура БД и SQL-запросы для фильтров
-* Подключено и внедрено API для авторизации
-* Установлена и сконфигурирована админка компании Beatom
-* Тестирование функциональности
+* Layout connected
+* Developed database structure and SQL queries for filters
+* Connected and implemented API for authorization
+* Installed and configured the Beatom admin panel
+* Functionality testing
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, MySQL, VK API, Facebook API

@@ -3,7 +3,7 @@ layout: enportfolio
 title: Auri
 tag_title: Auri
 categories:
-    - Фриланс
+    - Freelancing
 tags: [HTML, CSS, JavaScript, jQuery, CKEeditor, Photoshop]
 date: 27.08.2015 05:07
 sort: 28
@@ -13,16 +13,16 @@ image:
     height: 283
 ---
 
-**Auri** - интернет-портал виртуальных вещей.
+**Auri** - internet portal of virtual things.
 
 ---
 
-Проделанная работа
+Work done
 
-* Выполнена верстка главной страницы.
-* Добавлены и настроены визуальные эффекты.
-* Подключён WYSIWYG-редактор CKEeditor.
+* The main page layout has been completed.
+* Added and adjusted visual effects.
+* WYSIWYG editor CKEeditor is connected.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * HTML, CSS, JavaScript, jQuery, CKEeditor, Photoshop

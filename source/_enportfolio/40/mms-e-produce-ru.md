@@ -4,7 +4,7 @@ title: Mms.e-produce.ru
 tag_title: Mms.e-produce.ru
 categories:
     - Belka-z
-tags: [JavaScript, API Яндекс.Карт, PHP, Yii 1.1, PhpStorm]
+tags: [JavaScript, API Yandex.Maps, PHP, Yii 1.1, PhpStorm]
 date: 03.06.2017 21:51
 sort: 40
 image: 
@@ -13,22 +13,22 @@ image:
     height: 283
 ---
 
-**Mms.e-produce.ru** - сайт по розыгрышу новогодних подарков.
+**Mms.e-produce.ru** - New Year's gift giveaway site.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализованный функционал
+Implemented
 
-* Поиск места проживания участника акции осуществляется при помощи сервиса Yandex Карты.
+* Searching for the place of residence of a participant in the action is carried out using the Yandex Maps service.
 
-Проделанная работа
+Work done
 
-* В форме регистрации и указание контактных данных добавлена возможность ввести место проживания при помощи списка получаемый из Yandex Карты.
+* In the registration form and indicating contact information, the ability to enter your place of residence has been added using the list received from Yandex Maps.
 
-Использовались технологии / инструменты
+Technologies / tools
 
-* JavaScript, API Яндекс.Карт, PHP, Yii 1.1, PhpStorm.
+* JavaScript, API Yandex.Maps, PHP, Yii 1.1, PhpStorm.

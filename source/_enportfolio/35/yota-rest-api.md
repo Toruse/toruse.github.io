@@ -13,31 +13,32 @@ image:
     height: 375
 ---
 
-**Yota REST API** - сервис для заказа тарифного плана от мобильного оператора.
+**Yota REST API** - service for ordering a tariff plan from a mobile operator.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Belka-z_
+* Company _Belka-z_
 
-Реализованный функционал
+Implemented
 
-* Реализовано получение информации о тарифах для смартфона, для планшета и для модема.
-* Подключена отправка сообщения с информацией о выбранном тарифном плане на электронный почтовый ящик, и на телефон 
-виде SMS-уведомления.
+* Implemented obtaining information about tariffs for smartphones, tablets and modems.
+* Sending a message with information about the selected tariff plan to an electronic mailbox and to a telephone is 
+enabled in the form of an SMS notification.
 
-Проделанная работа
+Work done
 
-* Спроектирована база данных.
-* Разработана REST API для получения данных о тарифах.
-* Подключена отправка сообщения о выбранном тарифном плане на почту.
-* Настроена отправка SMS сообщения о выбранном пакете.
-* Подключена админ панель.
+* Database designed.
+* Developed REST API to receive tariff data.
+* Sending a message about the selected tariff plan by email is enabled.
+* Configured to send SMS messages about the selected package.
+* Admin panel is connected.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, Yii 1.1, HTML, PHPMailer, SMS API, OpenServer, PhpStorm, Git, Bitbucket.
 
-Ссылки на ресурсы
+Links
+
 * [GitHub: https://github.com/Toruse/yota-rest-api](https://github.com/Toruse/yota-rest-api)

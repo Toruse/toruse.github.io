@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
-title: AlyansPrint
-tag_title: АльянсПринт
+title: AlliancePrint
+tag_title: AlliancePrint
 categories:
     - Revolife
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
@@ -13,30 +13,32 @@ image:
     height: 281
 ---
 
-**АльянсПринт** - сайт о картонно-навивных и пластиковых тубусов, сувенирных и подарочных упаковок в виде тубуса.
+**AlliancePrint** - site about cardboard-wound and plastic tubes, souvenir and gift packaging in the form of a tube.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Реализована целевая страница (Landing Page).
-* Витрина "Магазин".
-* Каталог товаров.
-* Страница товара.
-* Блог.
+* Implemented Landing Page.
+* Showcase "Store".
+* Catalog.
+* Product page.
+* Blog.
 
-Проделанная работа
-* Подключена вёрстка к CMS Revolife.
-* Сконфигурированы витрины.
-* Добавлен и настроен модуль интернет-магазин.
-* Добавлен и настроен модуль блога.
-* Настроен сallback.
-* Тестирование функционала.
+Work done
 
-Использовались технологии / инструменты
+* Layout is connected to CMS Revolife.
+* Storefronts configured.
+* Added and configured the online store module.
+* Added and configured the blog module.
+* Callback configured.
+* Functional testing.
+
+Technologies / tools
+
 * PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans.
 

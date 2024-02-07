@@ -1,7 +1,7 @@
 ---
 layout: enportfolio
-title: Optovyy Sklad
-tag_title: Оптовый склад
+title: Wholesale warehouse
+tag_title: Wholesale warehouse
 categories:
     - Revolife
 tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
@@ -13,29 +13,29 @@ image:
     height: 284
 ---
 
-**Оптовый склад** - сайт оптового склада строительных материалов и систем утепления заданий.
+**Wholesale warehouse** - website for a wholesale warehouse of building materials and insulation systems.
 
 ---
 
-Место работы
+Place of work
 
-* Компания _Revolife_
+* Company _Revolife_
 
-Реализованный функционал
+Implemented
 
-* Реализована целевая страница (Landing Page).
-* Витрина "Утеплитель".
-* Витрина "Кровля".
+* Implemented Landing Page.
+* Showcase "Insulation".
+* Showcase "Roof".
 
-Проделанная работа
+Work done
 
-* Подключена вёрстка к CMS Revolife.
-* Добавлен и настроен модуль витрин.
-* Настроен сallback.
-* Тестирование функционала.
-* Техническая поддержка сайта.
+* Layout is connected to CMS Revolife.
+* Added and configured the storefront module.
+* Callback configured.
+* Functional testing.
+* Technical support of the site.
 
-Использовались технологии / инструменты
+Technologies / tools
 
 * PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans.
 
