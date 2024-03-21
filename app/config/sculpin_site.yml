@@ -2,4 +2,5 @@ title: Portfolio
 subtitle: Portfolio
 google_analytics_tracking_id: G-H5P31QC6DE
 domain: toruse.github.io
-url: https://toruse.github.io
+#url: https://toruse.github.io
+url: http://localhost:8000

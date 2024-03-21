@@ -1,1648 +1,1648 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://toruse.github.io</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru"/>
-        <lastmod>2024-02-07</lastmod>
+        <loc>http://localhost:8000</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru"/>
+        <lastmod>2024-03-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru"/>
-        <lastmod>2024-02-07</lastmod>
+        <loc>http://localhost:8000/en</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru"/>
+        <lastmod>2024-03-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru"/>
-        <lastmod>2024-02-07</lastmod>
+        <loc>http://localhost:8000/ru</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru"/>
+        <lastmod>2024-03-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/60/notificore</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/60/notificore"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/60/notificore"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/60/notificore"/>
+        <loc>http://localhost:8000/portfolio/60/notificore</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/60/notificore"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/60/notificore"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/60/notificore"/>
         <lastmod>2021-08-19T22:10:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/60/notificore</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/60/notificore"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/60/notificore"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/60/notificore"/>
+        <loc>http://localhost:8000/en/portfolio/60/notificore</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/60/notificore"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/60/notificore"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/60/notificore"/>
         <lastmod>2021-08-19T22:10:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/60/notificore</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/60/notificore"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/60/notificore"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/60/notificore"/>
+        <loc>http://localhost:8000/ru/portfolio/60/notificore</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/60/notificore"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/60/notificore"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/60/notificore"/>
         <lastmod>2021-08-19T22:10:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/59/massmailsoftware</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/59/massmailsoftware"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/59/massmailsoftware"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/59/massmailsoftware"/>
+        <loc>http://localhost:8000/portfolio/59/massmailsoftware</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/59/massmailsoftware"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/59/massmailsoftware"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/59/massmailsoftware"/>
         <lastmod>2021-05-28T21:32:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/59/massmailsoftware</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/59/massmailsoftware"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/59/massmailsoftware"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/59/massmailsoftware"/>
+        <loc>http://localhost:8000/en/portfolio/59/massmailsoftware</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/59/massmailsoftware"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/59/massmailsoftware"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/59/massmailsoftware"/>
         <lastmod>2021-05-28T21:32:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/59/massmailsoftware</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/59/massmailsoftware"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/59/massmailsoftware"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/59/massmailsoftware"/>
+        <loc>http://localhost:8000/ru/portfolio/59/massmailsoftware</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/59/massmailsoftware"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/59/massmailsoftware"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/59/massmailsoftware"/>
         <lastmod>2021-05-28T21:32:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/58/atompark</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/58/atompark"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/58/atompark"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/58/atompark"/>
+        <loc>http://localhost:8000/portfolio/58/atompark</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/58/atompark"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/58/atompark"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/58/atompark"/>
         <lastmod>2021-05-28T21:24:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/58/atompark</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/58/atompark"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/58/atompark"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/58/atompark"/>
+        <loc>http://localhost:8000/en/portfolio/58/atompark</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/58/atompark"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/58/atompark"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/58/atompark"/>
         <lastmod>2021-05-28T21:24:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/58/atompark</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/58/atompark"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/58/atompark"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/58/atompark"/>
+        <loc>http://localhost:8000/ru/portfolio/58/atompark</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/58/atompark"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/58/atompark"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/58/atompark"/>
         <lastmod>2021-05-28T21:24:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/57/epochta</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/57/epochta"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/57/epochta"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/57/epochta"/>
+        <loc>http://localhost:8000/portfolio/57/epochta</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/57/epochta"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/57/epochta"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/57/epochta"/>
         <lastmod>2021-05-27T23:45:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/57/epochta</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/57/epochta"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/57/epochta"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/57/epochta"/>
+        <loc>http://localhost:8000/en/portfolio/57/epochta</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/57/epochta"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/57/epochta"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/57/epochta"/>
         <lastmod>2021-05-27T23:45:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/57/epochta</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/57/epochta"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/57/epochta"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/57/epochta"/>
+        <loc>http://localhost:8000/ru/portfolio/57/epochta</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/57/epochta"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/57/epochta"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/57/epochta"/>
         <lastmod>2021-05-27T23:45:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/56/atompark-member-area</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/56/atompark-member-area"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/56/atompark-member-area"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/56/atompark-member-area"/>
+        <loc>http://localhost:8000/portfolio/56/atompark-member-area</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/56/atompark-member-area"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/56/atompark-member-area"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/56/atompark-member-area"/>
         <lastmod>2021-05-27T23:45:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/56/atompark-member-area</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/56/atompark-member-area"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/56/atompark-member-area"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/56/atompark-member-area"/>
+        <loc>http://localhost:8000/en/portfolio/56/atompark-member-area</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/56/atompark-member-area"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/56/atompark-member-area"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/56/atompark-member-area"/>
         <lastmod>2021-05-27T23:45:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/56/atompark-member-area</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/56/atompark-member-area"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/56/atompark-member-area"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/56/atompark-member-area"/>
+        <loc>http://localhost:8000/ru/portfolio/56/atompark-member-area</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/56/atompark-member-area"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/56/atompark-member-area"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/56/atompark-member-area"/>
         <lastmod>2021-05-27T23:45:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/55/luckyfishing</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/55/luckyfishing"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/55/luckyfishing"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/55/luckyfishing"/>
+        <loc>http://localhost:8000/portfolio/55/luckyfishing</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/55/luckyfishing"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/55/luckyfishing"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/55/luckyfishing"/>
         <lastmod>2019-12-03T02:53:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/55/luckyfishing</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/55/luckyfishing"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/55/luckyfishing"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/55/luckyfishing"/>
+        <loc>http://localhost:8000/en/portfolio/55/luckyfishing</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/55/luckyfishing"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/55/luckyfishing"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/55/luckyfishing"/>
         <lastmod>2019-12-03T02:53:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/55/luckyfishing</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/55/luckyfishing"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/55/luckyfishing"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/55/luckyfishing"/>
+        <loc>http://localhost:8000/ru/portfolio/55/luckyfishing</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/55/luckyfishing"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/55/luckyfishing"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/55/luckyfishing"/>
         <lastmod>2019-12-03T02:53:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/54/ebuildcrm</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/54/ebuildcrm"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/54/ebuildcrm"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/54/ebuildcrm"/>
+        <loc>http://localhost:8000/portfolio/54/ebuildcrm</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/54/ebuildcrm"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/54/ebuildcrm"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/54/ebuildcrm"/>
         <lastmod>2019-12-02T23:28:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/54/ebuildcrm</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/54/ebuildcrm"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/54/ebuildcrm"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/54/ebuildcrm"/>
+        <loc>http://localhost:8000/en/portfolio/54/ebuildcrm</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/54/ebuildcrm"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/54/ebuildcrm"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/54/ebuildcrm"/>
         <lastmod>2019-12-02T23:28:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/54/ebuildcrm</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/54/ebuildcrm"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/54/ebuildcrm"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/54/ebuildcrm"/>
+        <loc>http://localhost:8000/ru/portfolio/54/ebuildcrm</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/54/ebuildcrm"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/54/ebuildcrm"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/54/ebuildcrm"/>
         <lastmod>2019-12-02T23:28:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/53/kompetenzcenter</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/53/kompetenzcenter"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/53/kompetenzcenter"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/53/kompetenzcenter"/>
+        <loc>http://localhost:8000/portfolio/53/kompetenzcenter</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/53/kompetenzcenter"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/53/kompetenzcenter"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/53/kompetenzcenter"/>
         <lastmod>2019-12-02T21:07:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/53/kompetenzcenter</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/53/kompetenzcenter"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/53/kompetenzcenter"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/53/kompetenzcenter"/>
+        <loc>http://localhost:8000/en/portfolio/53/kompetenzcenter</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/53/kompetenzcenter"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/53/kompetenzcenter"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/53/kompetenzcenter"/>
         <lastmod>2019-12-02T21:07:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/53/kompetenzcenter</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/53/kompetenzcenter"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/53/kompetenzcenter"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/53/kompetenzcenter"/>
+        <loc>http://localhost:8000/ru/portfolio/53/kompetenzcenter</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/53/kompetenzcenter"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/53/kompetenzcenter"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/53/kompetenzcenter"/>
         <lastmod>2019-12-02T21:07:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/52/babyfein</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/52/babyfein"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/52/babyfein"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/52/babyfein"/>
+        <loc>http://localhost:8000/portfolio/52/babyfein</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/52/babyfein"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/52/babyfein"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/52/babyfein"/>
         <lastmod>2019-12-02T18:28:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/52/babyfein</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/52/babyfein"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/52/babyfein"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/52/babyfein"/>
+        <loc>http://localhost:8000/en/portfolio/52/babyfein</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/52/babyfein"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/52/babyfein"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/52/babyfein"/>
         <lastmod>2019-12-02T18:28:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/52/babyfein</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/52/babyfein"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/52/babyfein"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/52/babyfein"/>
+        <loc>http://localhost:8000/ru/portfolio/52/babyfein</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/52/babyfein"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/52/babyfein"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/52/babyfein"/>
         <lastmod>2019-12-02T18:28:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/51/infinity-lashes</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/51/infinity-lashes"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/51/infinity-lashes"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/51/infinity-lashes"/>
+        <loc>http://localhost:8000/portfolio/51/infinity-lashes</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/51/infinity-lashes"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/51/infinity-lashes"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/51/infinity-lashes"/>
         <lastmod>2019-12-01T02:03:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/51/infinity-lashes</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/51/infinity-lashes"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/51/infinity-lashes"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/51/infinity-lashes"/>
+        <loc>http://localhost:8000/en/portfolio/51/infinity-lashes</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/51/infinity-lashes"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/51/infinity-lashes"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/51/infinity-lashes"/>
         <lastmod>2019-12-01T02:03:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/51/infinity-lashes</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/51/infinity-lashes"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/51/infinity-lashes"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/51/infinity-lashes"/>
+        <loc>http://localhost:8000/ru/portfolio/51/infinity-lashes</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/51/infinity-lashes"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/51/infinity-lashes"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/51/infinity-lashes"/>
         <lastmod>2019-12-01T02:03:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/50/zachet</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/50/zachet"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/50/zachet"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/50/zachet"/>
+        <loc>http://localhost:8000/portfolio/50/zachet</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/50/zachet"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/50/zachet"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/50/zachet"/>
         <lastmod>2019-12-01T01:39:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/50/zachet</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/50/zachet"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/50/zachet"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/50/zachet"/>
+        <loc>http://localhost:8000/en/portfolio/50/zachet</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/50/zachet"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/50/zachet"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/50/zachet"/>
         <lastmod>2019-12-01T01:39:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/50/zachet</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/50/zachet"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/50/zachet"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/50/zachet"/>
+        <loc>http://localhost:8000/ru/portfolio/50/zachet</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/50/zachet"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/50/zachet"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/50/zachet"/>
         <lastmod>2019-12-01T01:39:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/33/syo-framework</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/33/syo-framework"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/33/syo-framework"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/33/syo-framework"/>
+        <loc>http://localhost:8000/portfolio/33/syo-framework</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/33/syo-framework"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/33/syo-framework"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/33/syo-framework"/>
         <lastmod>2019-11-29T20:38:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/33/syo-framework</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/33/syo-framework"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/33/syo-framework"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/33/syo-framework"/>
+        <loc>http://localhost:8000/en/portfolio/33/syo-framework</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/33/syo-framework"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/33/syo-framework"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/33/syo-framework"/>
         <lastmod>2019-11-29T20:38:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/33/syo-framework</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/33/syo-framework"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/33/syo-framework"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/33/syo-framework"/>
+        <loc>http://localhost:8000/ru/portfolio/33/syo-framework</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/33/syo-framework"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/33/syo-framework"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/33/syo-framework"/>
         <lastmod>2019-11-29T20:38:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/49/creating-google-chrome-extensions</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/49/creating-google-chrome-extensions"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/49/creating-google-chrome-extensions"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/49/creating-google-chrome-extensions"/>
+        <loc>http://localhost:8000/portfolio/49/creating-google-chrome-extensions</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/49/creating-google-chrome-extensions"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/49/creating-google-chrome-extensions"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/49/creating-google-chrome-extensions"/>
         <lastmod>2019-11-29T19:46:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/49/creating-google-chrome-extensions</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/49/creating-google-chrome-extensions"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/49/creating-google-chrome-extensions"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/49/creating-google-chrome-extensions"/>
+        <loc>http://localhost:8000/en/portfolio/49/creating-google-chrome-extensions</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/49/creating-google-chrome-extensions"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/49/creating-google-chrome-extensions"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/49/creating-google-chrome-extensions"/>
         <lastmod>2019-11-29T19:46:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/49/creating-google-chrome-extensions</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/49/creating-google-chrome-extensions"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/49/creating-google-chrome-extensions"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/49/creating-google-chrome-extensions"/>
+        <loc>http://localhost:8000/ru/portfolio/49/creating-google-chrome-extensions</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/49/creating-google-chrome-extensions"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/49/creating-google-chrome-extensions"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/49/creating-google-chrome-extensions"/>
         <lastmod>2019-11-29T19:46:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/48/utb</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/48/utb"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/48/utb"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/48/utb"/>
+        <loc>http://localhost:8000/portfolio/48/utb</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/48/utb"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/48/utb"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/48/utb"/>
         <lastmod>2019-11-29T18:44:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/48/utb</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/48/utb"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/48/utb"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/48/utb"/>
+        <loc>http://localhost:8000/en/portfolio/48/utb</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/48/utb"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/48/utb"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/48/utb"/>
         <lastmod>2019-11-29T18:44:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/48/utb</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/48/utb"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/48/utb"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/48/utb"/>
+        <loc>http://localhost:8000/ru/portfolio/48/utb</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/48/utb"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/48/utb"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/48/utb"/>
         <lastmod>2019-11-29T18:44:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/47/time-machine</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/47/time-machine"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/47/time-machine"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/47/time-machine"/>
+        <loc>http://localhost:8000/portfolio/47/time-machine</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/47/time-machine"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/47/time-machine"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/47/time-machine"/>
         <lastmod>2019-11-27T21:04:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/47/time-machine</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/47/time-machine"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/47/time-machine"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/47/time-machine"/>
+        <loc>http://localhost:8000/en/portfolio/47/time-machine</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/47/time-machine"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/47/time-machine"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/47/time-machine"/>
         <lastmod>2019-11-27T21:04:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/47/time-machine</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/47/time-machine"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/47/time-machine"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/47/time-machine"/>
+        <loc>http://localhost:8000/ru/portfolio/47/time-machine</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/47/time-machine"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/47/time-machine"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/47/time-machine"/>
         <lastmod>2019-11-27T21:04:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/46/kredito-organizacijos</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/46/kredito-organizacijos"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/46/kredito-organizacijos"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/46/kredito-organizacijos"/>
+        <loc>http://localhost:8000/portfolio/46/kredito-organizacijos</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/46/kredito-organizacijos"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/46/kredito-organizacijos"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/46/kredito-organizacijos"/>
         <lastmod>2019-11-25T23:57:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/46/kredito-organizacijos</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/46/kredito-organizacijos"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/46/kredito-organizacijos"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/46/kredito-organizacijos"/>
+        <loc>http://localhost:8000/en/portfolio/46/kredito-organizacijos</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/46/kredito-organizacijos"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/46/kredito-organizacijos"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/46/kredito-organizacijos"/>
         <lastmod>2019-11-25T23:57:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/46/kredito-organizacijos</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/46/kredito-organizacijos"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/46/kredito-organizacijos"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/46/kredito-organizacijos"/>
+        <loc>http://localhost:8000/ru/portfolio/46/kredito-organizacijos</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/46/kredito-organizacijos"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/46/kredito-organizacijos"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/46/kredito-organizacijos"/>
         <lastmod>2019-11-25T23:57:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/45/iloveasia</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/45/iloveasia"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/45/iloveasia"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/45/iloveasia"/>
+        <loc>http://localhost:8000/portfolio/45/iloveasia</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/45/iloveasia"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/45/iloveasia"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/45/iloveasia"/>
         <lastmod>2019-11-25T21:13:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/45/iloveasia</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/45/iloveasia"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/45/iloveasia"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/45/iloveasia"/>
+        <loc>http://localhost:8000/en/portfolio/45/iloveasia</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/45/iloveasia"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/45/iloveasia"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/45/iloveasia"/>
         <lastmod>2019-11-25T21:13:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/45/iloveasia</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/45/iloveasia"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/45/iloveasia"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/45/iloveasia"/>
+        <loc>http://localhost:8000/ru/portfolio/45/iloveasia</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/45/iloveasia"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/45/iloveasia"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/45/iloveasia"/>
         <lastmod>2019-11-25T21:13:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/42/sayt-konkursa-fiabci</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/42/sayt-konkursa-fiabci"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/42/sayt-konkursa-fiabci"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/42/sayt-konkursa-fiabci"/>
+        <loc>http://localhost:8000/portfolio/42/sayt-konkursa-fiabci</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/42/sayt-konkursa-fiabci"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/42/sayt-konkursa-fiabci"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/42/sayt-konkursa-fiabci"/>
         <lastmod>2019-11-24T16:07:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/42/sayt-konkursa-fiabci</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/42/sayt-konkursa-fiabci"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/42/sayt-konkursa-fiabci"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/42/sayt-konkursa-fiabci"/>
+        <loc>http://localhost:8000/en/portfolio/42/sayt-konkursa-fiabci</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/42/sayt-konkursa-fiabci"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/42/sayt-konkursa-fiabci"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/42/sayt-konkursa-fiabci"/>
         <lastmod>2019-11-24T16:07:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/42/sayt-konkursa-fiabci</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/42/sayt-konkursa-fiabci"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/42/sayt-konkursa-fiabci"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/42/sayt-konkursa-fiabci"/>
+        <loc>http://localhost:8000/ru/portfolio/42/sayt-konkursa-fiabci</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/42/sayt-konkursa-fiabci"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/42/sayt-konkursa-fiabci"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/42/sayt-konkursa-fiabci"/>
         <lastmod>2019-11-24T16:07:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/44/prilozhenie-rgames</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/44/prilozhenie-rgames"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/44/prilozhenie-rgames"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/44/prilozhenie-rgames"/>
+        <loc>http://localhost:8000/portfolio/44/prilozhenie-rgames</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/44/prilozhenie-rgames"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/44/prilozhenie-rgames"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/44/prilozhenie-rgames"/>
         <lastmod>2019-11-23T00:27:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/44/prilozhenie-rgames</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/44/prilozhenie-rgames"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/44/prilozhenie-rgames"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/44/prilozhenie-rgames"/>
+        <loc>http://localhost:8000/en/portfolio/44/prilozhenie-rgames</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/44/prilozhenie-rgames"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/44/prilozhenie-rgames"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/44/prilozhenie-rgames"/>
         <lastmod>2019-11-23T00:27:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/44/prilozhenie-rgames</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/44/prilozhenie-rgames"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/44/prilozhenie-rgames"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/44/prilozhenie-rgames"/>
+        <loc>http://localhost:8000/ru/portfolio/44/prilozhenie-rgames</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/44/prilozhenie-rgames"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/44/prilozhenie-rgames"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/44/prilozhenie-rgames"/>
         <lastmod>2019-11-23T00:27:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/43/razrabotka-cms-magazina</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/43/razrabotka-cms-magazina"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/43/razrabotka-cms-magazina"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/43/razrabotka-cms-magazina"/>
+        <loc>http://localhost:8000/portfolio/43/razrabotka-cms-magazina</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/43/razrabotka-cms-magazina"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/43/razrabotka-cms-magazina"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/43/razrabotka-cms-magazina"/>
         <lastmod>2017-06-05T19:13:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/43/razrabotka-cms-magazina</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/43/razrabotka-cms-magazina"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/43/razrabotka-cms-magazina"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/43/razrabotka-cms-magazina"/>
+        <loc>http://localhost:8000/en/portfolio/43/razrabotka-cms-magazina</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/43/razrabotka-cms-magazina"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/43/razrabotka-cms-magazina"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/43/razrabotka-cms-magazina"/>
         <lastmod>2017-06-05T19:13:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/43/razrabotka-cms-magazina</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/43/razrabotka-cms-magazina"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/43/razrabotka-cms-magazina"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/43/razrabotka-cms-magazina"/>
+        <loc>http://localhost:8000/ru/portfolio/43/razrabotka-cms-magazina</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/43/razrabotka-cms-magazina"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/43/razrabotka-cms-magazina"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/43/razrabotka-cms-magazina"/>
         <lastmod>2017-06-05T19:13:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/41/mbfn-rf</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/41/mbfn-rf"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/41/mbfn-rf"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/41/mbfn-rf"/>
+        <loc>http://localhost:8000/portfolio/41/mbfn-rf</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/41/mbfn-rf"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/41/mbfn-rf"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/41/mbfn-rf"/>
         <lastmod>2017-06-04T17:36:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/41/mbfn-rf</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/41/mbfn-rf"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/41/mbfn-rf"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/41/mbfn-rf"/>
+        <loc>http://localhost:8000/en/portfolio/41/mbfn-rf</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/41/mbfn-rf"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/41/mbfn-rf"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/41/mbfn-rf"/>
         <lastmod>2017-06-04T17:36:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/41/mbfn-rf</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/41/mbfn-rf"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/41/mbfn-rf"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/41/mbfn-rf"/>
+        <loc>http://localhost:8000/ru/portfolio/41/mbfn-rf</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/41/mbfn-rf"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/41/mbfn-rf"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/41/mbfn-rf"/>
         <lastmod>2017-06-04T17:36:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/40/mms-e-produce-ru</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/40/mms-e-produce-ru"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/40/mms-e-produce-ru"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/40/mms-e-produce-ru"/>
+        <loc>http://localhost:8000/portfolio/40/mms-e-produce-ru</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/40/mms-e-produce-ru"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/40/mms-e-produce-ru"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/40/mms-e-produce-ru"/>
         <lastmod>2017-06-03T21:51:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/40/mms-e-produce-ru</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/40/mms-e-produce-ru"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/40/mms-e-produce-ru"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/40/mms-e-produce-ru"/>
+        <loc>http://localhost:8000/en/portfolio/40/mms-e-produce-ru</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/40/mms-e-produce-ru"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/40/mms-e-produce-ru"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/40/mms-e-produce-ru"/>
         <lastmod>2017-06-03T21:51:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/40/mms-e-produce-ru</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/40/mms-e-produce-ru"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/40/mms-e-produce-ru"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/40/mms-e-produce-ru"/>
+        <loc>http://localhost:8000/ru/portfolio/40/mms-e-produce-ru</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/40/mms-e-produce-ru"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/40/mms-e-produce-ru"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/40/mms-e-produce-ru"/>
         <lastmod>2017-06-03T21:51:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/39/parser-sayta-list-am</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/39/parser-sayta-list-am"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/39/parser-sayta-list-am"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/39/parser-sayta-list-am"/>
+        <loc>http://localhost:8000/portfolio/39/parser-sayta-list-am</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/39/parser-sayta-list-am"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/39/parser-sayta-list-am"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/39/parser-sayta-list-am"/>
         <lastmod>2017-06-02T23:29:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/39/parser-sayta-list-am</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/39/parser-sayta-list-am"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/39/parser-sayta-list-am"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/39/parser-sayta-list-am"/>
+        <loc>http://localhost:8000/en/portfolio/39/parser-sayta-list-am</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/39/parser-sayta-list-am"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/39/parser-sayta-list-am"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/39/parser-sayta-list-am"/>
         <lastmod>2017-06-02T23:29:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/39/parser-sayta-list-am</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/39/parser-sayta-list-am"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/39/parser-sayta-list-am"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/39/parser-sayta-list-am"/>
+        <loc>http://localhost:8000/ru/portfolio/39/parser-sayta-list-am</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/39/parser-sayta-list-am"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/39/parser-sayta-list-am"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/39/parser-sayta-list-am"/>
         <lastmod>2017-06-02T23:29:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/38/parser-sayta-skelbiu-lt</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/38/parser-sayta-skelbiu-lt"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/38/parser-sayta-skelbiu-lt"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/38/parser-sayta-skelbiu-lt"/>
+        <loc>http://localhost:8000/portfolio/38/parser-sayta-skelbiu-lt</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/38/parser-sayta-skelbiu-lt"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/38/parser-sayta-skelbiu-lt"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/38/parser-sayta-skelbiu-lt"/>
         <lastmod>2017-06-01T22:31:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/38/parser-sayta-skelbiu-lt</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/38/parser-sayta-skelbiu-lt"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/38/parser-sayta-skelbiu-lt"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/38/parser-sayta-skelbiu-lt"/>
+        <loc>http://localhost:8000/en/portfolio/38/parser-sayta-skelbiu-lt</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/38/parser-sayta-skelbiu-lt"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/38/parser-sayta-skelbiu-lt"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/38/parser-sayta-skelbiu-lt"/>
         <lastmod>2017-06-01T22:31:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/38/parser-sayta-skelbiu-lt</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/38/parser-sayta-skelbiu-lt"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/38/parser-sayta-skelbiu-lt"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/38/parser-sayta-skelbiu-lt"/>
+        <loc>http://localhost:8000/ru/portfolio/38/parser-sayta-skelbiu-lt</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/38/parser-sayta-skelbiu-lt"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/38/parser-sayta-skelbiu-lt"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/38/parser-sayta-skelbiu-lt"/>
         <lastmod>2017-06-01T22:31:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/37/parser-sayta-rekvizitai-vz-lt</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
+        <loc>http://localhost:8000/portfolio/37/parser-sayta-rekvizitai-vz-lt</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
         <lastmod>2017-05-25T00:27:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/37/parser-sayta-rekvizitai-vz-lt</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
+        <loc>http://localhost:8000/en/portfolio/37/parser-sayta-rekvizitai-vz-lt</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
         <lastmod>2017-05-25T00:27:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/37/parser-sayta-rekvizitai-vz-lt</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
+        <loc>http://localhost:8000/ru/portfolio/37/parser-sayta-rekvizitai-vz-lt</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/37/parser-sayta-rekvizitai-vz-lt"/>
         <lastmod>2017-05-25T00:27:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/35/yota-rest-api</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/35/yota-rest-api"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/35/yota-rest-api"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/35/yota-rest-api"/>
+        <loc>http://localhost:8000/portfolio/35/yota-rest-api</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/35/yota-rest-api"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/35/yota-rest-api"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/35/yota-rest-api"/>
         <lastmod>2017-05-14T19:41:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/35/yota-rest-api</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/35/yota-rest-api"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/35/yota-rest-api"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/35/yota-rest-api"/>
+        <loc>http://localhost:8000/en/portfolio/35/yota-rest-api</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/35/yota-rest-api"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/35/yota-rest-api"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/35/yota-rest-api"/>
         <lastmod>2017-05-14T19:41:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/35/yota-rest-api</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/35/yota-rest-api"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/35/yota-rest-api"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/35/yota-rest-api"/>
+        <loc>http://localhost:8000/ru/portfolio/35/yota-rest-api</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/35/yota-rest-api"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/35/yota-rest-api"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/35/yota-rest-api"/>
         <lastmod>2017-05-14T19:41:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/36/servis-licenziy</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/36/servis-licenziy"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/36/servis-licenziy"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/36/servis-licenziy"/>
+        <loc>http://localhost:8000/portfolio/36/servis-licenziy</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/36/servis-licenziy"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/36/servis-licenziy"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/36/servis-licenziy"/>
         <lastmod>2017-05-13T01:51:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/36/servis-licenziy</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/36/servis-licenziy"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/36/servis-licenziy"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/36/servis-licenziy"/>
+        <loc>http://localhost:8000/en/portfolio/36/servis-licenziy</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/36/servis-licenziy"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/36/servis-licenziy"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/36/servis-licenziy"/>
         <lastmod>2017-05-13T01:51:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/36/servis-licenziy</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/36/servis-licenziy"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/36/servis-licenziy"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/36/servis-licenziy"/>
+        <loc>http://localhost:8000/ru/portfolio/36/servis-licenziy</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/36/servis-licenziy"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/36/servis-licenziy"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/36/servis-licenziy"/>
         <lastmod>2017-05-13T01:51:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/34/jurist4you</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/34/jurist4you"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/34/jurist4you"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/34/jurist4you"/>
+        <loc>http://localhost:8000/portfolio/34/jurist4you</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/34/jurist4you"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/34/jurist4you"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/34/jurist4you"/>
         <lastmod>2016-02-01T06:02:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/34/jurist4you</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/34/jurist4you"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/34/jurist4you"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/34/jurist4you"/>
+        <loc>http://localhost:8000/en/portfolio/34/jurist4you</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/34/jurist4you"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/34/jurist4you"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/34/jurist4you"/>
         <lastmod>2016-02-01T06:02:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/34/jurist4you</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/34/jurist4you"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/34/jurist4you"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/34/jurist4you"/>
+        <loc>http://localhost:8000/ru/portfolio/34/jurist4you</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/34/jurist4you"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/34/jurist4you"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/34/jurist4you"/>
         <lastmod>2016-02-01T06:02:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/32/plagin-cross-link-dlya-wordpress</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/32/plagin-cross-link-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/32/plagin-cross-link-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/32/plagin-cross-link-dlya-wordpress"/>
+        <loc>http://localhost:8000/portfolio/32/plagin-cross-link-dlya-wordpress</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/32/plagin-cross-link-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/32/plagin-cross-link-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/32/plagin-cross-link-dlya-wordpress"/>
         <lastmod>2015-09-01T22:51:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/32/plagin-cross-link-dlya-wordpress</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/32/plagin-cross-link-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/32/plagin-cross-link-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/32/plagin-cross-link-dlya-wordpress"/>
+        <loc>http://localhost:8000/en/portfolio/32/plagin-cross-link-dlya-wordpress</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/32/plagin-cross-link-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/32/plagin-cross-link-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/32/plagin-cross-link-dlya-wordpress"/>
         <lastmod>2015-09-01T22:51:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/32/plagin-cross-link-dlya-wordpress</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/32/plagin-cross-link-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/32/plagin-cross-link-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/32/plagin-cross-link-dlya-wordpress"/>
+        <loc>http://localhost:8000/ru/portfolio/32/plagin-cross-link-dlya-wordpress</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/32/plagin-cross-link-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/32/plagin-cross-link-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/32/plagin-cross-link-dlya-wordpress"/>
         <lastmod>2015-09-01T22:51:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/31/plagin-it-tour-dlya-wordpress</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/31/plagin-it-tour-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/31/plagin-it-tour-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/31/plagin-it-tour-dlya-wordpress"/>
+        <loc>http://localhost:8000/portfolio/31/plagin-it-tour-dlya-wordpress</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/31/plagin-it-tour-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/31/plagin-it-tour-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/31/plagin-it-tour-dlya-wordpress"/>
         <lastmod>2015-08-31T23:11:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/31/plagin-it-tour-dlya-wordpress</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/31/plagin-it-tour-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/31/plagin-it-tour-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/31/plagin-it-tour-dlya-wordpress"/>
+        <loc>http://localhost:8000/en/portfolio/31/plagin-it-tour-dlya-wordpress</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/31/plagin-it-tour-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/31/plagin-it-tour-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/31/plagin-it-tour-dlya-wordpress"/>
         <lastmod>2015-08-31T23:11:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/31/plagin-it-tour-dlya-wordpress</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/31/plagin-it-tour-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/31/plagin-it-tour-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/31/plagin-it-tour-dlya-wordpress"/>
+        <loc>http://localhost:8000/ru/portfolio/31/plagin-it-tour-dlya-wordpress</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/31/plagin-it-tour-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/31/plagin-it-tour-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/31/plagin-it-tour-dlya-wordpress"/>
         <lastmod>2015-08-31T23:11:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/30/plagin-list-players-online-dlya-wordpress</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
+        <loc>http://localhost:8000/portfolio/30/plagin-list-players-online-dlya-wordpress</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
         <lastmod>2015-08-31T05:31:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/30/plagin-list-players-online-dlya-wordpress</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
+        <loc>http://localhost:8000/en/portfolio/30/plagin-list-players-online-dlya-wordpress</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
         <lastmod>2015-08-31T05:31:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/30/plagin-list-players-online-dlya-wordpress</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
+        <loc>http://localhost:8000/ru/portfolio/30/plagin-list-players-online-dlya-wordpress</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/30/plagin-list-players-online-dlya-wordpress"/>
         <lastmod>2015-08-31T05:31:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/29/corsar</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/29/corsar"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/29/corsar"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/29/corsar"/>
+        <loc>http://localhost:8000/portfolio/29/corsar</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/29/corsar"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/29/corsar"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/29/corsar"/>
         <lastmod>2015-08-29T22:43:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/29/corsar</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/29/corsar"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/29/corsar"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/29/corsar"/>
+        <loc>http://localhost:8000/en/portfolio/29/corsar</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/29/corsar"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/29/corsar"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/29/corsar"/>
         <lastmod>2015-08-29T22:43:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/29/corsar</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/29/corsar"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/29/corsar"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/29/corsar"/>
+        <loc>http://localhost:8000/ru/portfolio/29/corsar</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/29/corsar"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/29/corsar"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/29/corsar"/>
         <lastmod>2015-08-29T22:43:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/28/auri</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/28/auri"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/28/auri"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/28/auri"/>
+        <loc>http://localhost:8000/portfolio/28/auri</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/28/auri"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/28/auri"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/28/auri"/>
         <lastmod>2015-08-27T05:07:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/28/auri</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/28/auri"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/28/auri"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/28/auri"/>
+        <loc>http://localhost:8000/en/portfolio/28/auri</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/28/auri"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/28/auri"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/28/auri"/>
         <lastmod>2015-08-27T05:07:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/28/auri</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/28/auri"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/28/auri"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/28/auri"/>
+        <loc>http://localhost:8000/ru/portfolio/28/auri</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/28/auri"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/28/auri"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/28/auri"/>
         <lastmod>2015-08-27T05:07:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/27/podless</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/27/podless"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/27/podless"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/27/podless"/>
+        <loc>http://localhost:8000/portfolio/27/podless</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/27/podless"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/27/podless"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/27/podless"/>
         <lastmod>2015-08-09T00:59:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/27/podless</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/27/podless"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/27/podless"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/27/podless"/>
+        <loc>http://localhost:8000/en/portfolio/27/podless</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/27/podless"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/27/podless"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/27/podless"/>
         <lastmod>2015-08-09T00:59:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/27/podless</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/27/podless"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/27/podless"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/27/podless"/>
+        <loc>http://localhost:8000/ru/portfolio/27/podless</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/27/podless"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/27/podless"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/27/podless"/>
         <lastmod>2015-08-09T00:59:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/26/zhurba</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/26/zhurba"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/26/zhurba"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/26/zhurba"/>
+        <loc>http://localhost:8000/portfolio/26/zhurba</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/26/zhurba"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/26/zhurba"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/26/zhurba"/>
         <lastmod>2015-08-09T00:39:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/26/zhurba</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/26/zhurba"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/26/zhurba"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/26/zhurba"/>
+        <loc>http://localhost:8000/en/portfolio/26/zhurba</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/26/zhurba"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/26/zhurba"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/26/zhurba"/>
         <lastmod>2015-08-09T00:39:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/26/zhurba</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/26/zhurba"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/26/zhurba"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/26/zhurba"/>
+        <loc>http://localhost:8000/ru/portfolio/26/zhurba</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/26/zhurba"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/26/zhurba"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/26/zhurba"/>
         <lastmod>2015-08-09T00:39:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/25/yuppi</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/25/yuppi"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/25/yuppi"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/25/yuppi"/>
+        <loc>http://localhost:8000/portfolio/25/yuppi</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/25/yuppi"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/25/yuppi"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/25/yuppi"/>
         <lastmod>2015-08-09T00:27:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/25/yuppi</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/25/yuppi"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/25/yuppi"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/25/yuppi"/>
+        <loc>http://localhost:8000/en/portfolio/25/yuppi</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/25/yuppi"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/25/yuppi"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/25/yuppi"/>
         <lastmod>2015-08-09T00:27:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/25/yuppi</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/25/yuppi"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/25/yuppi"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/25/yuppi"/>
+        <loc>http://localhost:8000/ru/portfolio/25/yuppi</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/25/yuppi"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/25/yuppi"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/25/yuppi"/>
         <lastmod>2015-08-09T00:27:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/24/tesoro</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/24/tesoro"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/24/tesoro"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/24/tesoro"/>
+        <loc>http://localhost:8000/portfolio/24/tesoro</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/24/tesoro"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/24/tesoro"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/24/tesoro"/>
         <lastmod>2015-08-08T22:50:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/24/tesoro</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/24/tesoro"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/24/tesoro"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/24/tesoro"/>
+        <loc>http://localhost:8000/en/portfolio/24/tesoro</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/24/tesoro"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/24/tesoro"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/24/tesoro"/>
         <lastmod>2015-08-08T22:50:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/24/tesoro</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/24/tesoro"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/24/tesoro"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/24/tesoro"/>
+        <loc>http://localhost:8000/ru/portfolio/24/tesoro</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/24/tesoro"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/24/tesoro"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/24/tesoro"/>
         <lastmod>2015-08-08T22:50:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/21/molex-apartments</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/21/molex-apartments"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/21/molex-apartments"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/21/molex-apartments"/>
+        <loc>http://localhost:8000/portfolio/21/molex-apartments</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/21/molex-apartments"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/21/molex-apartments"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/21/molex-apartments"/>
         <lastmod>2015-08-07T15:57:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/21/molex-apartments</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/21/molex-apartments"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/21/molex-apartments"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/21/molex-apartments"/>
+        <loc>http://localhost:8000/en/portfolio/21/molex-apartments</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/21/molex-apartments"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/21/molex-apartments"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/21/molex-apartments"/>
         <lastmod>2015-08-07T15:57:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/21/molex-apartments</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/21/molex-apartments"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/21/molex-apartments"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/21/molex-apartments"/>
+        <loc>http://localhost:8000/ru/portfolio/21/molex-apartments</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/21/molex-apartments"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/21/molex-apartments"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/21/molex-apartments"/>
         <lastmod>2015-08-07T15:57:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/23/newliferealty</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/23/newliferealty"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/23/newliferealty"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/23/newliferealty"/>
+        <loc>http://localhost:8000/portfolio/23/newliferealty</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/23/newliferealty"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/23/newliferealty"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/23/newliferealty"/>
         <lastmod>2015-08-07T08:57:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/23/newliferealty</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/23/newliferealty"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/23/newliferealty"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/23/newliferealty"/>
+        <loc>http://localhost:8000/en/portfolio/23/newliferealty</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/23/newliferealty"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/23/newliferealty"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/23/newliferealty"/>
         <lastmod>2015-08-07T08:57:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/23/newliferealty</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/23/newliferealty"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/23/newliferealty"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/23/newliferealty"/>
+        <loc>http://localhost:8000/ru/portfolio/23/newliferealty</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/23/newliferealty"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/23/newliferealty"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/23/newliferealty"/>
         <lastmod>2015-08-07T08:57:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/22/optovyy-sklad</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/22/optovyy-sklad"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/22/optovyy-sklad"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/22/optovyy-sklad"/>
+        <loc>http://localhost:8000/portfolio/22/optovyy-sklad</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/22/optovyy-sklad"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/22/optovyy-sklad"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/22/optovyy-sklad"/>
         <lastmod>2015-08-07T08:29:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/22/optovyy-sklad</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/22/optovyy-sklad"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/22/optovyy-sklad"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/22/optovyy-sklad"/>
+        <loc>http://localhost:8000/en/portfolio/22/optovyy-sklad</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/22/optovyy-sklad"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/22/optovyy-sklad"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/22/optovyy-sklad"/>
         <lastmod>2015-08-07T08:29:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/22/optovyy-sklad</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/22/optovyy-sklad"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/22/optovyy-sklad"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/22/optovyy-sklad"/>
+        <loc>http://localhost:8000/ru/portfolio/22/optovyy-sklad</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/22/optovyy-sklad"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/22/optovyy-sklad"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/22/optovyy-sklad"/>
         <lastmod>2015-08-07T08:29:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/20/mega-brand-sale</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/20/mega-brand-sale"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/20/mega-brand-sale"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/20/mega-brand-sale"/>
+        <loc>http://localhost:8000/portfolio/20/mega-brand-sale</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/20/mega-brand-sale"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/20/mega-brand-sale"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/20/mega-brand-sale"/>
         <lastmod>2015-08-07T06:49:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/20/mega-brand-sale</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/20/mega-brand-sale"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/20/mega-brand-sale"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/20/mega-brand-sale"/>
+        <loc>http://localhost:8000/en/portfolio/20/mega-brand-sale</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/20/mega-brand-sale"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/20/mega-brand-sale"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/20/mega-brand-sale"/>
         <lastmod>2015-08-07T06:49:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/20/mega-brand-sale</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/20/mega-brand-sale"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/20/mega-brand-sale"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/20/mega-brand-sale"/>
+        <loc>http://localhost:8000/ru/portfolio/20/mega-brand-sale</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/20/mega-brand-sale"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/20/mega-brand-sale"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/20/mega-brand-sale"/>
         <lastmod>2015-08-07T06:49:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/19/mramor</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/19/mramor"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/19/mramor"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/19/mramor"/>
+        <loc>http://localhost:8000/portfolio/19/mramor</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/19/mramor"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/19/mramor"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/19/mramor"/>
         <lastmod>2015-08-06T08:01:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/19/mramor</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/19/mramor"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/19/mramor"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/19/mramor"/>
+        <loc>http://localhost:8000/en/portfolio/19/mramor</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/19/mramor"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/19/mramor"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/19/mramor"/>
         <lastmod>2015-08-06T08:01:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/19/mramor</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/19/mramor"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/19/mramor"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/19/mramor"/>
+        <loc>http://localhost:8000/ru/portfolio/19/mramor</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/19/mramor"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/19/mramor"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/19/mramor"/>
         <lastmod>2015-08-06T08:01:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/18/ksenita</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/18/ksenita"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/18/ksenita"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/18/ksenita"/>
+        <loc>http://localhost:8000/portfolio/18/ksenita</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/18/ksenita"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/18/ksenita"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/18/ksenita"/>
         <lastmod>2015-08-06T05:13:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/18/ksenita</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/18/ksenita"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/18/ksenita"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/18/ksenita"/>
+        <loc>http://localhost:8000/en/portfolio/18/ksenita</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/18/ksenita"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/18/ksenita"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/18/ksenita"/>
         <lastmod>2015-08-06T05:13:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/18/ksenita</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/18/ksenita"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/18/ksenita"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/18/ksenita"/>
+        <loc>http://localhost:8000/ru/portfolio/18/ksenita</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/18/ksenita"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/18/ksenita"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/18/ksenita"/>
         <lastmod>2015-08-06T05:13:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/17/kabel-ok</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/17/kabel-ok"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/17/kabel-ok"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/17/kabel-ok"/>
+        <loc>http://localhost:8000/portfolio/17/kabel-ok</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/17/kabel-ok"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/17/kabel-ok"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/17/kabel-ok"/>
         <lastmod>2015-08-05T06:48:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/17/kabel-ok</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/17/kabel-ok"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/17/kabel-ok"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/17/kabel-ok"/>
+        <loc>http://localhost:8000/en/portfolio/17/kabel-ok</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/17/kabel-ok"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/17/kabel-ok"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/17/kabel-ok"/>
         <lastmod>2015-08-05T06:48:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/17/kabel-ok</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/17/kabel-ok"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/17/kabel-ok"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/17/kabel-ok"/>
+        <loc>http://localhost:8000/ru/portfolio/17/kabel-ok</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/17/kabel-ok"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/17/kabel-ok"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/17/kabel-ok"/>
         <lastmod>2015-08-05T06:48:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/16/hittakupong</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/16/hittakupong"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/16/hittakupong"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/16/hittakupong"/>
+        <loc>http://localhost:8000/portfolio/16/hittakupong</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/16/hittakupong"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/16/hittakupong"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/16/hittakupong"/>
         <lastmod>2015-08-05T05:20:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/16/hittakupong</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/16/hittakupong"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/16/hittakupong"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/16/hittakupong"/>
+        <loc>http://localhost:8000/en/portfolio/16/hittakupong</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/16/hittakupong"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/16/hittakupong"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/16/hittakupong"/>
         <lastmod>2015-08-05T05:20:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/16/hittakupong</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/16/hittakupong"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/16/hittakupong"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/16/hittakupong"/>
+        <loc>http://localhost:8000/ru/portfolio/16/hittakupong</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/16/hittakupong"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/16/hittakupong"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/16/hittakupong"/>
         <lastmod>2015-08-05T05:20:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/15/ferst-interektiv</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/15/ferst-interektiv"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/15/ferst-interektiv"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/15/ferst-interektiv"/>
+        <loc>http://localhost:8000/portfolio/15/ferst-interektiv</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/15/ferst-interektiv"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/15/ferst-interektiv"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/15/ferst-interektiv"/>
         <lastmod>2015-07-04T08:10:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/15/ferst-interektiv</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/15/ferst-interektiv"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/15/ferst-interektiv"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/15/ferst-interektiv"/>
+        <loc>http://localhost:8000/en/portfolio/15/ferst-interektiv</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/15/ferst-interektiv"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/15/ferst-interektiv"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/15/ferst-interektiv"/>
         <lastmod>2015-07-04T08:10:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/15/ferst-interektiv</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/15/ferst-interektiv"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/15/ferst-interektiv"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/15/ferst-interektiv"/>
+        <loc>http://localhost:8000/ru/portfolio/15/ferst-interektiv</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/15/ferst-interektiv"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/15/ferst-interektiv"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/15/ferst-interektiv"/>
         <lastmod>2015-07-04T08:10:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/14/city-look</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/14/city-look"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/14/city-look"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/14/city-look"/>
+        <loc>http://localhost:8000/portfolio/14/city-look</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/14/city-look"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/14/city-look"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/14/city-look"/>
         <lastmod>2015-06-30T04:42:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/14/city-look</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/14/city-look"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/14/city-look"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/14/city-look"/>
+        <loc>http://localhost:8000/en/portfolio/14/city-look</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/14/city-look"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/14/city-look"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/14/city-look"/>
         <lastmod>2015-06-30T04:42:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/14/city-look</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/14/city-look"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/14/city-look"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/14/city-look"/>
+        <loc>http://localhost:8000/ru/portfolio/14/city-look</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/14/city-look"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/14/city-look"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/14/city-look"/>
         <lastmod>2015-06-30T04:42:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/13/brise-und-welle</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/13/brise-und-welle"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/13/brise-und-welle"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/13/brise-und-welle"/>
+        <loc>http://localhost:8000/portfolio/13/brise-und-welle</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/13/brise-und-welle"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/13/brise-und-welle"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/13/brise-und-welle"/>
         <lastmod>2015-06-29T09:04:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/13/brise-und-welle</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/13/brise-und-welle"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/13/brise-und-welle"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/13/brise-und-welle"/>
+        <loc>http://localhost:8000/en/portfolio/13/brise-und-welle</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/13/brise-und-welle"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/13/brise-und-welle"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/13/brise-und-welle"/>
         <lastmod>2015-06-29T09:04:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/13/brise-und-welle</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/13/brise-und-welle"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/13/brise-und-welle"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/13/brise-und-welle"/>
+        <loc>http://localhost:8000/ru/portfolio/13/brise-und-welle</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/13/brise-und-welle"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/13/brise-und-welle"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/13/brise-und-welle"/>
         <lastmod>2015-06-29T09:04:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/12/alyansprint</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/12/alyansprint"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/12/alyansprint"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/12/alyansprint"/>
+        <loc>http://localhost:8000/portfolio/12/alyansprint</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/12/alyansprint"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/12/alyansprint"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/12/alyansprint"/>
         <lastmod>2015-06-29T08:03:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/12/alyansprint</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/12/alyansprint"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/12/alyansprint"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/12/alyansprint"/>
+        <loc>http://localhost:8000/en/portfolio/12/alyansprint</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/12/alyansprint"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/12/alyansprint"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/12/alyansprint"/>
         <lastmod>2015-06-29T08:03:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/12/alyansprint</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/12/alyansprint"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/12/alyansprint"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/12/alyansprint"/>
+        <loc>http://localhost:8000/ru/portfolio/12/alyansprint</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/12/alyansprint"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/12/alyansprint"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/12/alyansprint"/>
         <lastmod>2015-06-29T08:03:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/11/klakis</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/11/klakis"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/11/klakis"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/11/klakis"/>
+        <loc>http://localhost:8000/portfolio/11/klakis</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/11/klakis"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/11/klakis"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/11/klakis"/>
         <lastmod>2015-06-27T07:23:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/11/klakis</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/11/klakis"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/11/klakis"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/11/klakis"/>
+        <loc>http://localhost:8000/en/portfolio/11/klakis</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/11/klakis"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/11/klakis"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/11/klakis"/>
         <lastmod>2015-06-27T07:23:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/11/klakis</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/11/klakis"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/11/klakis"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/11/klakis"/>
+        <loc>http://localhost:8000/ru/portfolio/11/klakis</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/11/klakis"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/11/klakis"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/11/klakis"/>
         <lastmod>2015-06-27T07:23:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/10/automania</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/10/automania"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/10/automania"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/10/automania"/>
+        <loc>http://localhost:8000/portfolio/10/automania</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/10/automania"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/10/automania"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/10/automania"/>
         <lastmod>2015-06-26T05:46:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/10/automania</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/10/automania"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/10/automania"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/10/automania"/>
+        <loc>http://localhost:8000/en/portfolio/10/automania</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/10/automania"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/10/automania"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/10/automania"/>
         <lastmod>2015-06-26T05:46:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/10/automania</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/10/automania"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/10/automania"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/10/automania"/>
+        <loc>http://localhost:8000/ru/portfolio/10/automania</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/10/automania"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/10/automania"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/10/automania"/>
         <lastmod>2015-06-26T05:46:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/9/autoriginal</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/9/autoriginal"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/9/autoriginal"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/9/autoriginal"/>
+        <loc>http://localhost:8000/portfolio/9/autoriginal</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/9/autoriginal"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/9/autoriginal"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/9/autoriginal"/>
         <lastmod>2015-06-23T04:52:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/9/autoriginal</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/9/autoriginal"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/9/autoriginal"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/9/autoriginal"/>
+        <loc>http://localhost:8000/en/portfolio/9/autoriginal</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/9/autoriginal"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/9/autoriginal"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/9/autoriginal"/>
         <lastmod>2015-06-23T04:52:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/9/autoriginal</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/9/autoriginal"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/9/autoriginal"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/9/autoriginal"/>
+        <loc>http://localhost:8000/ru/portfolio/9/autoriginal</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/9/autoriginal"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/9/autoriginal"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/9/autoriginal"/>
         <lastmod>2015-06-23T04:52:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/8/domdadom</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/8/domdadom"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/8/domdadom"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/8/domdadom"/>
+        <loc>http://localhost:8000/portfolio/8/domdadom</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/8/domdadom"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/8/domdadom"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/8/domdadom"/>
         <lastmod>2015-03-05T06:00:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/8/domdadom</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/8/domdadom"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/8/domdadom"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/8/domdadom"/>
+        <loc>http://localhost:8000/en/portfolio/8/domdadom</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/8/domdadom"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/8/domdadom"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/8/domdadom"/>
         <lastmod>2015-03-05T06:00:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/8/domdadom</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/8/domdadom"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/8/domdadom"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/8/domdadom"/>
+        <loc>http://localhost:8000/ru/portfolio/8/domdadom</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/8/domdadom"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/8/domdadom"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/8/domdadom"/>
         <lastmod>2015-03-05T06:00:00+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/3/vibram</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/3/vibram"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/3/vibram"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/3/vibram"/>
+        <loc>http://localhost:8000/portfolio/3/vibram</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/3/vibram"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/3/vibram"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/3/vibram"/>
         <lastmod>2014-03-11T00:44:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/3/vibram</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/3/vibram"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/3/vibram"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/3/vibram"/>
+        <loc>http://localhost:8000/en/portfolio/3/vibram</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/3/vibram"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/3/vibram"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/3/vibram"/>
         <lastmod>2014-03-11T00:44:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/3/vibram</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/3/vibram"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/3/vibram"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/3/vibram"/>
+        <loc>http://localhost:8000/ru/portfolio/3/vibram</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/3/vibram"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/3/vibram"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/3/vibram"/>
         <lastmod>2014-03-11T00:44:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/4/otchebuchka</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/4/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/4/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/4/otchebuchka"/>
+        <loc>http://localhost:8000/portfolio/4/otchebuchka</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/4/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/4/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/4/otchebuchka"/>
         <lastmod>2014-03-11T00:43:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/4/otchebuchka</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/4/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/4/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/4/otchebuchka"/>
+        <loc>http://localhost:8000/en/portfolio/4/otchebuchka</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/4/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/4/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/4/otchebuchka"/>
         <lastmod>2014-03-11T00:43:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/4/otchebuchka</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/4/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/4/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/4/otchebuchka"/>
+        <loc>http://localhost:8000/ru/portfolio/4/otchebuchka</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/4/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/4/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/4/otchebuchka"/>
         <lastmod>2014-03-11T00:43:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/5/otchebuchka</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/5/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/5/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/5/otchebuchka"/>
+        <loc>http://localhost:8000/portfolio/5/otchebuchka</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/5/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/5/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/5/otchebuchka"/>
         <lastmod>2014-03-11T00:43:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/5/otchebuchka</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/5/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/5/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/5/otchebuchka"/>
+        <loc>http://localhost:8000/en/portfolio/5/otchebuchka</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/5/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/5/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/5/otchebuchka"/>
         <lastmod>2014-03-11T00:43:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/5/otchebuchka</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/5/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/5/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/5/otchebuchka"/>
+        <loc>http://localhost:8000/ru/portfolio/5/otchebuchka</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/5/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/5/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/5/otchebuchka"/>
         <lastmod>2014-03-11T00:43:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/7/otchebuchka</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/7/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/7/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/7/otchebuchka"/>
+        <loc>http://localhost:8000/portfolio/7/otchebuchka</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/7/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/7/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/7/otchebuchka"/>
         <lastmod>2014-03-11T00:43:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/7/otchebuchka</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/7/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/7/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/7/otchebuchka"/>
+        <loc>http://localhost:8000/en/portfolio/7/otchebuchka</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/7/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/7/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/7/otchebuchka"/>
         <lastmod>2014-03-11T00:43:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/7/otchebuchka</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/7/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/7/otchebuchka"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/7/otchebuchka"/>
+        <loc>http://localhost:8000/ru/portfolio/7/otchebuchka</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/7/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/7/otchebuchka"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/7/otchebuchka"/>
         <lastmod>2014-03-11T00:43:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/2/hobby-mania</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/2/hobby-mania"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/2/hobby-mania"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/2/hobby-mania"/>
+        <loc>http://localhost:8000/portfolio/2/hobby-mania</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/2/hobby-mania"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/2/hobby-mania"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/2/hobby-mania"/>
         <lastmod>2014-03-10T22:40:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/2/hobby-mania</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/2/hobby-mania"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/2/hobby-mania"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/2/hobby-mania"/>
+        <loc>http://localhost:8000/en/portfolio/2/hobby-mania</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/2/hobby-mania"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/2/hobby-mania"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/2/hobby-mania"/>
         <lastmod>2014-03-10T22:40:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/2/hobby-mania</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/2/hobby-mania"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/2/hobby-mania"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/2/hobby-mania"/>
+        <loc>http://localhost:8000/ru/portfolio/2/hobby-mania</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/2/hobby-mania"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/2/hobby-mania"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/2/hobby-mania"/>
         <lastmod>2014-03-10T22:40:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/6/china-unlimited</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/6/china-unlimited"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/6/china-unlimited"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/6/china-unlimited"/>
+        <loc>http://localhost:8000/portfolio/6/china-unlimited</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/6/china-unlimited"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/6/china-unlimited"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/6/china-unlimited"/>
         <lastmod>2014-03-10T22:39:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/6/china-unlimited</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/6/china-unlimited"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/6/china-unlimited"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/6/china-unlimited"/>
+        <loc>http://localhost:8000/en/portfolio/6/china-unlimited</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/6/china-unlimited"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/6/china-unlimited"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/6/china-unlimited"/>
         <lastmod>2014-03-10T22:39:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/6/china-unlimited</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/6/china-unlimited"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/6/china-unlimited"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/6/china-unlimited"/>
+        <loc>http://localhost:8000/ru/portfolio/6/china-unlimited</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/6/china-unlimited"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/6/china-unlimited"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/6/china-unlimited"/>
         <lastmod>2014-03-10T22:39:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/portfolio/1/neocube-ukraina</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/1/neocube-ukraina"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/1/neocube-ukraina"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/1/neocube-ukraina"/>
+        <loc>http://localhost:8000/portfolio/1/neocube-ukraina</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/1/neocube-ukraina"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/1/neocube-ukraina"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/1/neocube-ukraina"/>
         <lastmod>2014-03-10T22:37:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/en/portfolio/1/neocube-ukraina</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/1/neocube-ukraina"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/1/neocube-ukraina"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/1/neocube-ukraina"/>
+        <loc>http://localhost:8000/en/portfolio/1/neocube-ukraina</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/1/neocube-ukraina"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/1/neocube-ukraina"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/1/neocube-ukraina"/>
         <lastmod>2014-03-10T22:37:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://toruse.github.io/ru/portfolio/1/neocube-ukraina</loc>
-        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/1/neocube-ukraina"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/1/neocube-ukraina"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/1/neocube-ukraina"/>
+        <loc>http://localhost:8000/ru/portfolio/1/neocube-ukraina</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="http://localhost:8000/portfolio/1/neocube-ukraina"/>
+        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8000/en/portfolio/1/neocube-ukraina"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8000/ru/portfolio/1/neocube-ukraina"/>
         <lastmod>2014-03-10T22:37:00+04:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
