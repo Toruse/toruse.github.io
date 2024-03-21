@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/rekvizitai_vz_lt.webp 
     width: 500
     height: 464
+next: /ru/portfolio/38/parser-sayta-skelbiu-lt
+prev: /ru/portfolio/35/yota-rest-api
 ---
 
 **Парсер** для выборки данных о компаниях предоставляющие строительные и ремонтные услуги.

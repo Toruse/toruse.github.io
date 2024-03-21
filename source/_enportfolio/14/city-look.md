@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/citylook.webp 
     width: 500
     height: 284
+next: /en/portfolio/15/ferst-interektiv
+prev: /en/portfolio/13/brise-und-welle
 ---
 
 **City Look** - online store of clothing, shoes and accessories.

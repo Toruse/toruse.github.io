@@ -11,6 +11,7 @@ image:
     src: /assets/img/work/saitnc.webp 
     width: 500
     height: 425
+next: /en/portfolio/6/china-unlimited
 ---
 
 **NEOCUBE Ukraine** - online store selling Neocube puzzles and Handgum chewing gum.

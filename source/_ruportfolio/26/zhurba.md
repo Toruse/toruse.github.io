@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/zhurba.webp 
     width: 500
     height: 284
+next: /ru/portfolio/27/podless
+prev: /ru/portfolio/25/yuppi
 ---
 
 **Журба** - сайт магазина ритуальных услуг.

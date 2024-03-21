@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/kompetenzcenter.webp 
     width: 500
     height: 278
+next: /ru/portfolio/54/ebuildcrm
+prev: /ru/portfolio/52/babyfein
 ---
 
 Плагин для записи на консультацию в центр компетенции.

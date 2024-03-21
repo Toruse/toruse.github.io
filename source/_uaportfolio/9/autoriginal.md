@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/autoriginal.webp 
     width: 500
     height: 337
+next: /portfolio/10/automania
+prev: /portfolio/8/domdadom
 ---
 
 **Autoriginal** - інтернет-магазин автозапчастин.

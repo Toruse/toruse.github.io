@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/ittour.webp 
     width: 500
     height: 284
+next: /ru/portfolio/32/plagin-cross-link-dlya-wordpress
+prev: /ru/portfolio/30/plagin-list-players-online-dlya-wordpress
 ---
 
 **Плагин IT-Tour** - позволяет выполнить поиск туров с сервиса IT-tour.

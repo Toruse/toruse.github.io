@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/autoriginal.webp 
     width: 500
     height: 337
+next: /en/portfolio/10/automania
+prev: /en/portfolio/8/domdadom
 ---
 
 **Autoriginal** - online auto parts store.

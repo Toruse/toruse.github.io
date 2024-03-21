@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/mbfn_ru.webp 
     width: 500
     height: 399
+next: /en/portfolio/43/razrabotka-cms-magazina
+prev: /en/portfolio/40/mms-e-produce-ru
 ---
 
 **MBFN** - International Real Estate Business Forum 2017, real estate exhibition.

@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/babyfein.webp 
     width: 500
     height: 210
+next: /en/portfolio/53/kompetenzcenter
+prev: /en/portfolio/51/infinity-lashes
 ---
 
 **Babyfein** - service providing information on the composition of food products for pregnant women.

@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/rgames.webp 
     width: 500
     height: 350
+next: /en/portfolio/42/sayt-konkursa-fiabci
+prev: /en/portfolio/43/razrabotka-cms-magazina
 ---
 
 **RGames app** - native graphical application for desktop operating systems.

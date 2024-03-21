@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/syo.webp 
     width: 500
     height: 328
+next: /ru/portfolio/50/zachet
+prev: /ru/portfolio/49/creating-google-chrome-extensions
 ---
 
 **Syo** - фреймворк с открытым кодом, предназначенный для разработки веб приложений на основе архитектурной модели MVC.

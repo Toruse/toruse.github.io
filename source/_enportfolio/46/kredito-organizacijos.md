@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/kreditoorganizacijos.webp 
     width: 500
     height: 284
+next: /en/portfolio/47/time-machine
+prev: /en/portfolio/45/iloveasia
 ---
 
 Business card website for a credit institution.

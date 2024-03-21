@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/luckyfishing.webp 
     width: 500
     height: 284
+next: /en/portfolio/56/atompark-member-area
+prev: /en/portfolio/54/ebuildcrm
 ---
 
 **LuckyFishing** - aggregator site for recreation centers, reservoirs, fishing shops.

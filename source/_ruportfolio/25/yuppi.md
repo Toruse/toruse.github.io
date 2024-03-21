@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/yuppi.webp 
     width: 500
     height: 281
+next: /ru/portfolio/26/zhurba
+prev: /ru/portfolio/24/tesoro
 ---
 
 **Yuppi** - интернет-магазин брендовой обуви из Польши и США.

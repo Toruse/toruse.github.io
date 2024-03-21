@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/infinity_lashes.webp 
     width: 500
     height: 283
+next: /en/portfolio/52/babyfein
+prev: /en/portfolio/50/zachet
 ---
 
 **Infinity Lashes** - online store for a studio for professional eyelash extension.

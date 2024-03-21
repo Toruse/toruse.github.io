@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/infinity_lashes.webp 
     width: 500
     height: 283
+next: /portfolio/52/babyfein
+prev: /portfolio/50/zachet
 ---
 
 **Infinity Lashes** - інтернет магазин для студії з професійного нарощування вій.

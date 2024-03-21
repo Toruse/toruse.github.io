@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/rgames.webp 
     width: 500
     height: 350
+next: /portfolio/42/sayt-konkursa-fiabci
+prev: /portfolio/43/razrabotka-cms-magazina
 ---
 
 **Додаток RGames** - нативний графічний додаток для настільних операційних систем.

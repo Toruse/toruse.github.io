@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/yuppi.webp 
     width: 500
     height: 281
+next: /en/portfolio/26/zhurba
+prev: /en/portfolio/24/tesoro
 ---
 
 **Yuppi** - online store of branded shoes from Poland and the USA.

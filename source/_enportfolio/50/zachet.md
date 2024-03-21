@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/zachet.webp 
     width: 500
     height: 284
+next: /en/portfolio/51/infinity-lashes
+prev: /en/portfolio/33/syo-framework
 ---
 
 **Zachet!** - service that provides assistance in performing any type of student work.

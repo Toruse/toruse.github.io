@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/hittakupong.webp 
     width: 500
     height: 284
+next: /en/portfolio/17/kabel-ok
+prev: /en/portfolio/15/ferst-interektiv
 ---
 
 **Hittakupong** - internet service for selling discount coupons.

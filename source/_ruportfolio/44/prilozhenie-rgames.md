@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/rgames.webp 
     width: 500
     height: 350
+next: /ru/portfolio/42/sayt-konkursa-fiabci
+prev: /ru/portfolio/43/razrabotka-cms-magazina
 ---
 
 **Приложение RGames** - нативное графическое приложения для настольных операционных систем.

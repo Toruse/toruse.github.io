@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/saitot.webp 
     width: 500
     height: 345
+next: /ru/portfolio/3/vibram
+prev: /ru/portfolio/5/otchebuchka
 ---
 
 **Otchebuchka** - литературный интернет портал для начинающих и профессиональных писателей.

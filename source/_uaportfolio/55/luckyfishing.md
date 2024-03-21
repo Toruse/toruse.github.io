@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/luckyfishing.webp 
     width: 500
     height: 284
+next: /portfolio/56/atompark-member-area
+prev: /portfolio/54/ebuildcrm
 ---
 
 **LuckyFishing** - сайт-агрегатор для баз відпочинку, водойм, рибальських магазинів.

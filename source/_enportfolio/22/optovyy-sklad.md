@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/optskl.webp 
     width: 500
     height: 284
+next: /en/portfolio/23/newliferealty
+prev: /en/portfolio/20/mega-brand-sale
 ---
 
 **Wholesale warehouse** - website for a wholesale warehouse of building materials and insulation systems.

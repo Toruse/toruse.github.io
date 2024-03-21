@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/wordpress-plugin.webp 
     width: 500
     height: 357
+next: /en/portfolio/34/jurist4you
+prev: /en/portfolio/31/plagin-it-tour-dlya-wordpress
 ---
 
 **Cross-Link** - plugin for internal linking of articles.

@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/list_am.webp 
     width: 500
     height: 363
+next: /ru/portfolio/40/mms-e-produce-ru
+prev: /ru/portfolio/38/parser-sayta-skelbiu-lt
 ---
 
 **Парсер** для выборки телефонов пользователей предоставляющие строительные и ремонтные услуги.

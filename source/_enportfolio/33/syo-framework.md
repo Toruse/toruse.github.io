@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/syo.webp 
     width: 500
     height: 328
+next: /en/portfolio/50/zachet
+prev: /en/portfolio/49/creating-google-chrome-extensions
 ---
 
 **Syo** - open source framework designed for developing web applications based on the MVC architectural model.

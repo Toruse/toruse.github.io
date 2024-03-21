@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/tess.webp 
     width: 500
     height: 284
+next: /en/portfolio/25/yuppi
+prev: /en/portfolio/21/molex-apartments
 ---
 
 **Tesoro** - website for a wholesale warehouse of building materials.

@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/kreditoorganizacijos.webp 
     width: 500
     height: 284
+next: /portfolio/47/time-machine
+prev: /portfolio/45/iloveasia
 ---
 
 Сайт візитівка для кредитної організації.

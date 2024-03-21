@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/verstkavk.webp 
     width: 500
     height: 537
+next: /ru/portfolio/8/domdadom
+prev: /ru/portfolio/4/otchebuchka
 ---
 
 **Vibram** - интернет магазин по продаже обуви Vibram Five Fingers.

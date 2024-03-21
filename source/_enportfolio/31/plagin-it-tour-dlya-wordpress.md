@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/ittour.webp 
     width: 500
     height: 284
+next: /en/portfolio/32/plagin-cross-link-dlya-wordpress
+prev: /en/portfolio/30/plagin-list-players-online-dlya-wordpress
 ---
 
 **IT-Tour plugin** - allows you to search for tours from the IT-tour service.

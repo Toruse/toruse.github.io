@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/mbfn_ru.webp 
     width: 500
     height: 399
+next: /portfolio/43/razrabotka-cms-magazina
+prev: /portfolio/40/mms-e-produce-ru
 ---
 
 **МБФН** - Міжнародний Бізнес Форум Нерухомості 2017 року, виставка нерухомості.

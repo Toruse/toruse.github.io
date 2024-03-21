@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/citylook.webp 
     width: 500
     height: 284
+next: /ru/portfolio/15/ferst-interektiv
+prev: /ru/portfolio/13/brise-und-welle
 ---
 
 **City Look** - интернет-магазин одежды, обуви и аксессуаров.

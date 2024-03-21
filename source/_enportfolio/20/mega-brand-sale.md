@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/megabrandsale.webp 
     width: 500
     height: 284
+next: /en/portfolio/22/optovyy-sklad
+prev: /en/portfolio/19/mramor
 ---
 
 **Mega Brand Sale** - online store of branded clothing and shoes.

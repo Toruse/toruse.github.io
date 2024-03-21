@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/saithm.webp 
     width: 500
     height: 418
+next: /en/portfolio/7/otchebuchka
+prev: /en/portfolio/6/china-unlimited
 ---
 
 **Hobby-Mania** - online store selling toys.

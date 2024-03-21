@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/mms_e-produce_ru.webp 
     width: 500
     height: 283
+next: /ru/portfolio/41/mbfn-rf
+prev: /ru/portfolio/39/parser-sayta-list-am
 ---
 
 **Mms.e-produce.ru** - сайт по розыгрышу новогодних подарков.

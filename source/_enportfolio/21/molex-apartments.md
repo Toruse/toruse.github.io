@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/molexapart.webp 
     width: 500
     height: 284
+next: /en/portfolio/24/tesoro
+prev: /en/portfolio/23/newliferealty
 ---
 
 **Molex apartments** - apartment rental website.

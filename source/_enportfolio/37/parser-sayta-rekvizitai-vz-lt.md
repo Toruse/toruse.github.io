@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/rekvizitai_vz_lt.webp 
     width: 500
     height: 464
+next: /en/portfolio/38/parser-sayta-skelbiu-lt
+prev: /en/portfolio/35/yota-rest-api
 ---
 
 **Parser** to sample data on companies providing construction and repair services.

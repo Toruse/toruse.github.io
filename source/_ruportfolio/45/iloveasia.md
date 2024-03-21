@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/iloveasia_travel.webp 
     width: 500
     height: 488
+next: /ru/portfolio/46/kredito-organizacijos
+prev: /ru/portfolio/42/sayt-konkursa-fiabci
 ---
 
 **ILoveAsia** - проект объединяющий экспертов по Азии, которые предлагают активные путешествия.

@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/shop_cms.webp 
     width: 500
     height: 423
+next: /ru/portfolio/44/prilozhenie-rgames
+prev: /ru/portfolio/41/mbfn-rf
 ---
 
 **CMS Магазина** - веб-приложение для электронной коммерции.

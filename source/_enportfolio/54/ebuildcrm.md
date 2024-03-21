@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/ebuildcrm.webp 
     width: 500
     height: 366
+next: /en/portfolio/55/luckyfishing
+prev: /en/portfolio/53/kompetenzcenter
 ---
 
 **eBuildCRM** - system for managing orders of a construction company and planning their implementation.

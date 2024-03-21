@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/time-machine.webp 
     width: 500
     height: 377
+next: /en/portfolio/48/utb
+prev: /en/portfolio/46/kredito-organizacijos
 ---
 
 **Time Machine** - organization personnel management system.

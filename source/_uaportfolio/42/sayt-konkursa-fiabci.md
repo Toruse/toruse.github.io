@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/konkursfiabsi.webp 
     width: 500
     height: 277
+next: /portfolio/45/iloveasia
+prev: /portfolio/44/prilozhenie-rgames
 ---
 
 **Конкурс FIABCI** - один із найпрестижніших конкурсів у галузі нерухомості.

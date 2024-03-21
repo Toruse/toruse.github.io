@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/skelbiu_lt.webp 
     width: 500
     height: 449
+next: /portfolio/39/parser-sayta-list-am
+prev: /portfolio/37/parser-sayta-rekvizitai-vz-lt
 ---
 
 **Парсер** для вибірки телефонів, e-mail компаній, що надають будівельні та ремонтні послуги.

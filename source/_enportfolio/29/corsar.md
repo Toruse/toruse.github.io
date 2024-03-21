@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/corsar.webp 
     width: 500
     height: 284
+next: /en/portfolio/30/plagin-list-players-online-dlya-wordpress
+prev: /en/portfolio/28/auri
 ---
 
 **Corsar** - online store of goods for tourism and active recreation.

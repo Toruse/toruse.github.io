@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/verstkaoch.webp 
     width: 500
     height: 357
+next: /portfolio/5/otchebuchka
+prev: /portfolio/2/hobby-mania
 ---
 
 Верстка головної сторінки для проекту Otchebuchka.

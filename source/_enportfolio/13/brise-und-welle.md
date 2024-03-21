@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/brise.webp 
     width: 500
     height: 284
+next: /en/portfolio/14/city-look
+prev: /en/portfolio/12/alyansprint
 ---
 
 **Brise und Welle** - cosmetology studio website.

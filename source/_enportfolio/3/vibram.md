@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/verstkavk.webp 
     width: 500
     height: 537
+next: /en/portfolio/8/domdadom
+prev: /en/portfolio/4/otchebuchka
 ---
 
 **Vibram** - online store selling Vibram Five Fingers shoes.

@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/konkursfiabsi.webp 
     width: 500
     height: 277
+next: /en/portfolio/45/iloveasia
+prev: /en/portfolio/44/prilozhenie-rgames
 ---
 
 **FIABCI Competition** - one of the most prestigious competitions in the field of real estate.

@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/auri.webp 
     width: 500
     height: 283
+next: /ru/portfolio/29/corsar
+prev: /ru/portfolio/27/podless
 ---
 
 **Auri** - интернет-портал виртуальных вещей.

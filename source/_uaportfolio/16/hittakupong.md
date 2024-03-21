@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/hittakupong.webp 
     width: 500
     height: 284
+next: /portfolio/17/kabel-ok
+prev: /portfolio/15/ferst-interektiv
 ---
 
 **Hittakupong** - інтернет сервіс з продажу купонів на знижку.

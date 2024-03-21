@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/marble.webp 
     width: 500
     height: 284
+next: /en/portfolio/20/mega-brand-sale
+prev: /en/portfolio/18/ksenita
 ---
 
 **Marble** - marble warehouse website in Kyiv.

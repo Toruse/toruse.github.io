@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/kabel-ok.webp 
     width: 500
     height: 429
+next: /portfolio/18/ksenita
+prev: /portfolio/16/hittakupong
 ---
 
 **Kabel-OK** - сайт виробника кабельних каналів та інших комплектуючих для верстатобудування та промислових галузей.

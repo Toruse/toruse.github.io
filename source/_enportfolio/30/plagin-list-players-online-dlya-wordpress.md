@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/inf.webp 
     width: 500
     height: 284
+next: /en/portfolio/31/plagin-it-tour-dlya-wordpress
+prev: /en/portfolio/29/corsar
 ---
 
 **List Players Online** - plugin for displaying online players to the site.

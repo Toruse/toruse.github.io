@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/apma.webp 
     width: 500
     height: 301
+next: /ru/portfolio/57/epochta
+prev: /ru/portfolio/55/luckyfishing
 ---
 
 **AtomPark** - компания по разработке и продвижению программного обеспечения, сервисов для email и смс маркетинга.

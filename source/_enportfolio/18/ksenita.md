@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/ksenita_revolife.webp 
     width: 500
     height: 255
+next: /en/portfolio/19/mramor
+prev: /en/portfolio/17/kabel-ok
 ---
 
 **Ksenita** - makeup artist portfolio website.

@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/verstkaof.webp 
     width: 500
     height: 357
+next: /en/portfolio/4/otchebuchka
+prev: /en/portfolio/7/otchebuchka
 ---
 
 Photo album layout for the Otchebuchka project.

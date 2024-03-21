@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/klakis.webp 
     width: 500
     height: 306
+next: /ru/portfolio/12/alyansprint
+prev: /ru/portfolio/10/automania
 ---
 
 **Klakis** - интернет-магазин по продаже игрушек сделанные своими руками.

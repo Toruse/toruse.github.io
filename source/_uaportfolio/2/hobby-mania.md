@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/saithm.webp 
     width: 500
     height: 418
+next: /portfolio/7/otchebuchka
+prev: /portfolio/6/china-unlimited
 ---
 
 **Hobby-Mania** - інтернет магазин з продажу іграшок.

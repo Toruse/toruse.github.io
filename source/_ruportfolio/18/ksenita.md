@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/ksenita_revolife.webp 
     width: 500
     height: 255
+next: /ru/portfolio/19/mramor
+prev: /ru/portfolio/17/kabel-ok
 ---
 
 **Ксенита** - сайт портфолио визажиста.

@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/fi.webp 
     width: 500
     height: 284
+next: /portfolio/16/hittakupong
+prev: /portfolio/14/city-look
 ---
 
 **Ферст Інтеректив** - компанія з інтерактивної реклами.

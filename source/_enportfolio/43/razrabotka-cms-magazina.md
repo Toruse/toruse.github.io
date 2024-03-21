@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/shop_cms.webp 
     width: 500
     height: 423
+next: /en/portfolio/44/prilozhenie-rgames
+prev: /en/portfolio/41/mbfn-rf
 ---
 
 **Store CMS** - e-commerce web application.

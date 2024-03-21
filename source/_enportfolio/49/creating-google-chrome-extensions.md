@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/creating_google_chrome_extensions.webp 
     width: 330
     height: 500
+next: /en/portfolio/33/syo-framework
+prev: /en/portfolio/48/utb
 ---
 
 **Creating Google Chrome Extensions** - book translation.

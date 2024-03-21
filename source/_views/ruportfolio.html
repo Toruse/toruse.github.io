@@ -73,12 +73,12 @@
             <div class="row mx-0 mb-4 d-flex justify-content-between">
                 {% if page.next %}
                     <div class="px-3">
-                        <a href="{{ site.url }}{{ page.next }}" class="btn rounded-pill btn-light btn-outline-primary" role="button" aria-pressed="true">Следующая</a>
+                        <a href="{{ site.url }}{{ page.next }}" rel="next" class="btn rounded-pill btn-light btn-outline-primary" role="button" aria-pressed="true">Следующая</a>
                     </div>
                 {% endif %}
                 {% if page.prev %}
                     <div class="px-3">
-                        <a href="{{ site.url }}{{ page.prev }}" class="btn rounded-pill btn-light btn-outline-primary" role="button" aria-pressed="true">Предыдущая</a>
+                        <a href="{{ site.url }}{{ page.prev }}" rel="prev" class="btn rounded-pill btn-light btn-outline-primary" role="button" aria-pressed="true">Предыдущая</a>
                     </div>
                 {% endif %}
             </div>

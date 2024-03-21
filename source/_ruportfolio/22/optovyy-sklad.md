@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/optskl.webp 
     width: 500
     height: 284
+next: /ru/portfolio/23/newliferealty
+prev: /ru/portfolio/20/mega-brand-sale
 ---
 
 **Оптовый склад** - сайт оптового склада строительных материалов и систем утепления зданий.

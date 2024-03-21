@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/zachet.webp 
     width: 500
     height: 284
+next: /portfolio/51/infinity-lashes
+prev: /portfolio/33/syo-framework
 ---
 
 **Зачет!** - сервіс, що надає допомогу у виконанні будь-яких видів студентських робіт.

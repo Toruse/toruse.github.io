@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/automania.webp 
     width: 500
     height: 454
+next: /en/portfolio/11/klakis
+prev: /en/portfolio/9/autoriginal
 ---
 
 **AutoMania** - online store for selling spare parts.

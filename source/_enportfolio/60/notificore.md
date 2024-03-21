@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/notificore.webp 
     width: 500
     height: 287
+next:
+prev: /en/portfolio/59/massmailsoftware
 ---
 
 **Notificore.com** - communication marketing platform for small and medium businesses.

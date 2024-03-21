@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/Yii_Yota_Rest_Api.webp 
     width: 500
     height: 375
+next: /en/portfolio/37/parser-sayta-rekvizitai-vz-lt
+prev: /en/portfolio/36/servis-licenziy
 ---
 
 **Yota REST API** - service for ordering a tariff plan from a mobile operator.

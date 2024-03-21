@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/infinity_lashes.webp 
     width: 500
     height: 283
+next: /ru/portfolio/52/babyfein
+prev: /ru/portfolio/50/zachet
 ---
 
 **Infinity Lashes** - интернет магазин для студии по профессиональному наращиванию ресниц.

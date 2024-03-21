@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/atompark.webp 
     width: 500
     height: 467
+next: /ru/portfolio/59/massmailsoftware
+prev: /ru/portfolio/57/epochta
 ---
 
 **Atompark.com** - сервис по продвижению программного обеспечения и сервисов для email и смс маркетинга.

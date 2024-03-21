@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/salenlrealty.webp 
     width: 500
     height: 284
+next: /en/portfolio/21/molex-apartments
+prev: /en/portfolio/22/optovyy-sklad
 ---
 
 **NewLifeRealty** - real estate sales website.

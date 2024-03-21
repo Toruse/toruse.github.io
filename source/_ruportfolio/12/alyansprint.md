@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/aprn.webp 
     width: 500
     height: 281
+next: /ru/portfolio/13/brise-und-welle
+prev: /ru/portfolio/11/klakis
 ---
 
 **АльянсПринт** - сайт о картонно-навивных и пластиковых тубусов, сувенирных и подарочных упаковок в виде тубуса.

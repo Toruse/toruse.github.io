@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/fi.webp 
     width: 500
     height: 284
+next: /ru/portfolio/16/hittakupong
+prev: /ru/portfolio/14/city-look
 ---
 
 **Ферст Интеректив** - компания по интерактивной рекламы.

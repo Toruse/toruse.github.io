@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/megabrandsale.webp 
     width: 500
     height: 284
+next: /portfolio/22/optovyy-sklad
+prev: /portfolio/19/mramor
 ---
 
 **Mega Brand Sale** - інтернет-магазин брендового одягу та взуття.

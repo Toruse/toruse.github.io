@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/marble.webp 
     width: 500
     height: 284
+next: /portfolio/20/mega-brand-sale
+prev: /portfolio/18/ksenita
 ---
 
 **Мармур** - сайт склада мармуру у Києві.

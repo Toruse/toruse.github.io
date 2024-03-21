@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/podless.webp 
     width: 500
     height: 284
+next: /portfolio/28/auri
+prev: /portfolio/26/zhurba
 ---
 
 **Podless** - сайт тренінгу з ефективної комунікації.

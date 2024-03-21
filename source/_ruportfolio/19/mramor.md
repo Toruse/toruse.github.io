@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/marble.webp 
     width: 500
     height: 284
+next: /ru/portfolio/20/mega-brand-sale
+prev: /ru/portfolio/18/ksenita
 ---
 
 **Мрамор** - сайт склада мрамора в Киеве.

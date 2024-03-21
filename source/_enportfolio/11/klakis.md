@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/klakis.webp 
     width: 500
     height: 306
+next: /en/portfolio/12/alyansprint
+prev: /en/portfolio/10/automania
 ---
 
 **Klakis** - online store selling handmade toys.

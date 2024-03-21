@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/china.webp 
     width: 500
     height: 333
+next: /en/portfolio/2/hobby-mania
+prev: /en/portfolio/1/neocube-ukraina
 ---
 
 **China-Unlimited** - website business card of a company delivering goods from China.

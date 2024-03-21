@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/jurist4you.webp 
     width: 500
     height: 284
+next: /portfolio/36/servis-licenziy
+prev: /portfolio/32/plagin-cross-link-dlya-wordpress
 ---
 
 **Jurist4You** - сайт з надання юридичних та посередницьких послуг нерезидентам Литви та ЄС, жителям Росії,

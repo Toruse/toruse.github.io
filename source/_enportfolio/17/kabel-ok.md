@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/kabel-ok.webp 
     width: 500
     height: 429
+next: /en/portfolio/18/ksenita
+prev: /en/portfolio/16/hittakupong
 ---
 
 **Kabel-OK** - website of the manufacturer of cable channels and other components for machine tools and industrial industries.

@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/verstkaof.webp 
     width: 500
     height: 357
+next: /portfolio/4/otchebuchka
+prev: /portfolio/7/otchebuchka
 ---
 
 Верстка фотоальбому для проекту Otchebuchka.

@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/notificore.webp 
     width: 500
     height: 287
+next: 
+prev: /ru/portfolio/59/massmailsoftware
 ---
 
 **Notificore.com** - коммуникационная маркетинговая платформа для малого и среднего бизнеса.

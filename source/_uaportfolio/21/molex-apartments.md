@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/molexapart.webp 
     width: 500
     height: 284
+next: /portfolio/24/tesoro
+prev: /portfolio/23/newliferealty
 ---
 
 **Molex apartments** - сайт з оренди апартаментів.

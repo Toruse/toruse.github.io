@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/zhurba.webp 
     width: 500
     height: 284
+next: /en/portfolio/27/podless
+prev: /en/portfolio/25/yuppi
 ---
 
 **Zhurba** - funeral service store website.

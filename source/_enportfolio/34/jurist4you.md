@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/jurist4you.webp 
     width: 500
     height: 284
+next: /en/portfolio/36/servis-licenziy
+prev: /en/portfolio/32/plagin-cross-link-dlya-wordpress
 ---
 
 **Jurist4You** - website for providing legal and mediation services to non-residents of Lithuania and the EU, residents of Russia,

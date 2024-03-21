@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/epochta.webp 
     width: 500
     height: 458
+next: /portfolio/58/atompark
+prev: /portfolio/56/atompark-member-area
 ---
 
 **ePochta.ru** - сервіс з просування програмного забезпечення та сервісів для email та смс маркетингу.

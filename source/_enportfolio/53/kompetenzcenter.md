@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/kompetenzcenter.webp 
     width: 500
     height: 278
+next: /en/portfolio/54/ebuildcrm
+prev: /en/portfolio/52/babyfein
 ---
 
 Plugin for registering for a consultation at the competence center.

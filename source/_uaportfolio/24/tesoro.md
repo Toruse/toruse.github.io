@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/tess.webp 
     width: 500
     height: 284
+next: /portfolio/25/yuppi
+prev: /portfolio/21/molex-apartments
 ---
 
 **Тесоро** - сайт оптового складу будівельних матеріалів.

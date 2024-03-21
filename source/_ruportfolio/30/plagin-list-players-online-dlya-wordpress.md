@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/inf.webp 
     width: 500
     height: 284
+next: /ru/portfolio/31/plagin-it-tour-dlya-wordpress
+prev: /ru/portfolio/29/corsar
 ---
 
 **List Players Online** - плагин для вывода online игроков на сайт.

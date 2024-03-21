@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/domdadom.webp 
     width: 500
     height: 498
+next: /en/portfolio/9/autoriginal
+prev: /en/portfolio/3/vibram
 ---
 
 **DomDaDom** - online store for repair, design and sale of furniture.

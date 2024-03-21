@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/domdadom.webp 
     width: 500
     height: 498
+next: /ru/portfolio/9/autoriginal
+prev: /ru/portfolio/3/vibram
 ---
 
 **DomDaDom** - интернет-магазин по ремонту, дизайну и продаже мебели.

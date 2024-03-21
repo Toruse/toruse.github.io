@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/massmailsoftware.webp 
     width: 500
     height: 388
+next: /ru/portfolio/60/notificore
+prev: /ru/portfolio/58/atompark
 ---
 
 **Massmailsoftware.com** - сервис по продвижению программного обеспечения и сервисов для email и смс маркетинга.

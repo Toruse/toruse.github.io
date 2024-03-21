@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/ebuildcrm.webp 
     width: 500
     height: 366
+next: /portfolio/55/luckyfishing
+prev: /portfolio/53/kompetenzcenter
 ---
 
 **eBuildCRM** - система для управління замовленнями будівельної компанії, та планування їх виконання.

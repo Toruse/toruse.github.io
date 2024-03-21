@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/Node_js.webp 
     width: 500
     height: 306
+next: /portfolio/35/yota-rest-api
+prev: /portfolio/34/jurist4you
 ---
 
 **Сервіс ліцензій** - REST API-сервіс для роботи з ліцензіями користувачів.

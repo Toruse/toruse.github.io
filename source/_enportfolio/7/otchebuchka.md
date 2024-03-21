@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/verstkaoch.webp 
     width: 500
     height: 357
+next: /en/portfolio/5/otchebuchka
+prev: /en/portfolio/2/hobby-mania
 ---
 
 Layout of the main page for the Otchebuchka project.

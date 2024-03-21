@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/automania.webp 
     width: 500
     height: 454
+next: /portfolio/11/klakis
+prev: /portfolio/9/autoriginal
 ---
 
 **AutoMania** - інтернет-магазин з продажу запчастин.

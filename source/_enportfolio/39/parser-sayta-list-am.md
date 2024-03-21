@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/list_am.webp 
     width: 500
     height: 363
+next: /en/portfolio/40/mms-e-produce-ru
+prev: /en/portfolio/38/parser-sayta-skelbiu-lt
 ---
 
 **Parser** for a sample of phone numbers of users providing construction and repair services.

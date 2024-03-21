@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/wordpress-plugin.webp 
     width: 500
     height: 357
+next: /portfolio/34/jurist4you
+prev: /portfolio/31/plagin-it-tour-dlya-wordpress
 ---
 
 **Cross-Link** - плагін для внутрішньої перелінкування статей.

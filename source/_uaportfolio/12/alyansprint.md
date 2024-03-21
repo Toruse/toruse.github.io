@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/aprn.webp 
     width: 500
     height: 281
+next: /portfolio/13/brise-und-welle
+prev: /portfolio/11/klakis
 ---
 
 **АльянсПрінт** - сайт про картонно-навивні та пластикові тубуси, сувенірні та подарункові упаковки у вигляді тубуса.

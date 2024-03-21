@@ -11,6 +11,8 @@ image:
     src: /assets/img/work/babyfein.webp 
     width: 500
     height: 210
+next: /portfolio/53/kompetenzcenter
+prev: /portfolio/51/infinity-lashes
 ---
 
 **Babyfein** - сервіс, що надає інформацію про склад продуктів харчування для вагітних жінок.
