@@ -3,9 +3,50 @@
     <title><![CDATA[Portfolio]]></title>
     <link href="https://toruse.github.io/atom.xml" rel="self"/>
     <link href="https://toruse.github.io/"/>
-    <updated>2024-03-22T09:49:44+03:00</updated>
+    <updated>2024-03-22T12:11:21+03:00</updated>
     <id>https://toruse.github.io/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Game Development with Ren’Py]]></title>
+            <link href="https://toruse.github.io/portfolio/62/book-game-development-renpy"/>
+            <updated>2024-03-22T10:19:00+03:00</updated>
+            <id>https://toruse.github.io/portfolio/62/book-game-development-renpy</id>
+            <content type="html"><![CDATA[<p><strong>Game Development with Ren’Py</strong> - переклад книги.</p>
+
+<hr />
+
+<p>Реалізовано</p>
+
+<ul>
+<li>Книга перекладена з англійської на російську мову.</li>
+</ul>
+
+<p>Виконана робота</p>
+
+<ul>
+<li>Виконано переклад.</li>
+<li>Зроблено редагування книги.</li>
+<li>Підготовлені ілюстрації.</li>
+<li>Переписано шосту главу з урахуванням нових технологій.</li>
+<li>Оновлено код у прикладах для нових версій ігрових двигунів.</li>
+<li>Виконано реліз книги.</li>
+</ul>
+
+<p>Використовувалися технології / інструменти</p>
+
+<ul>
+<li>VuePress 2, Ren'Py, TyranoBuilder, Twine, Google Chrome, Markdown, GitHub, Python, Node.js, Apache Cordova, 
+Android SDK, Xcode, Photoshop.</li>
+</ul>
+
+<p>Посилання на ресурси</p>
+
+<ul>
+<li><em>GitHub</em>: <a href="https://github.com/Toruse/book-game-development-renpy">https://github.com/Toruse/book-game-development-renpy</a></li>
+<li><em>Зміст книги</em>: <a href="https://toruse.github.io/book-game-development-renpy/">https://toruse.github.io/book-game-development-renpy/</a></li>
+</ul>
+]]></content>
+        </entry>
             <entry>
             <title type="html"><![CDATA[Portfolio]]></title>
             <link href="https://toruse.github.io/portfolio/61/portfolio"/>
@@ -264,43 +305,6 @@ Node.js, Yarn, Google Analytics, Photoshop</li>
 
 <ul>
 <li><em>GitHub</em>: <a href="https://github.com/Toruse/calendar-consultations">https://github.com/Toruse/calendar-consultations</a></li>
-</ul>
-]]></content>
-        </entry>
-            <entry>
-            <title type="html"><![CDATA[Babyfein]]></title>
-            <link href="https://toruse.github.io/portfolio/52/babyfein"/>
-            <updated>2019-12-02T18:28:00+03:00</updated>
-            <id>https://toruse.github.io/portfolio/52/babyfein</id>
-            <content type="html"><![CDATA[<p><strong>Babyfein</strong> - сервіс, що надає інформацію про склад продуктів харчування для вагітних жінок.</p>
-
-<hr />
-
-<p>Місце роботи</p>
-
-<ul>
-<li>Компанія <em>Belka-z</em></li>
-</ul>
-
-<p>Реалізовано</p>
-
-<ul>
-<li>Реалізовано API для отримання інформації про продукт.</li>
-<li>Створено адмін панель для керування продуктами.</li>
-</ul>
-
-<p>Виконана робота</p>
-
-<ul>
-<li>Спроектовано базу даних.</li>
-<li>Розроблено API, яке дозволяє авторизованим користувачам отримати інформацію про продукт, додати новий EAN-номер та синхронізувати дані з базою.</li>
-<li>Створено адмін панель для керування отриманими новими EAN-номерами, продуктами та їх властивостями (виробник, інгредієнти, характеристики).</li>
-</ul>
-
-<p>Використовувалися технології / інструменти</p>
-
-<ul>
-<li>PHP, Laravel, MySql, phpMyAdmin, JavaScript, jQuery, Facebook API, Google API, PhpStorm, Git, GitHub</li>
 </ul>
 ]]></content>
         </entry>

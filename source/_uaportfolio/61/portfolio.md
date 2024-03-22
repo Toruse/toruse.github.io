@@ -11,7 +11,7 @@ image:
     src: /assets/img/work/portfolio.webp 
     width: 500
     height: 361
-next: 
+next: /portfolio/62/book-game-development-renpy
 prev: /portfolio/60/notificore
 ---
 
@@ -43,7 +43,6 @@ prev: /portfolio/60/notificore
 * Інтегрована мікророзмітка Schema.org.
 * Оптимізовані зображення та конвертовані в WebP.
 * Інтегрована Google Analytics.
-
 
 Використовувалися технології / інструменти
 

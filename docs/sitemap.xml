@@ -28,6 +28,33 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://toruse.github.io/portfolio/62/book-game-development-renpy</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/62/book-game-development-renpy"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/62/book-game-development-renpy"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/62/book-game-development-renpy"/>
+        <lastmod>2024-03-22T10:19:00+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://toruse.github.io/en/portfolio/62/book-game-development-renpy</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/62/book-game-development-renpy"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/62/book-game-development-renpy"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/62/book-game-development-renpy"/>
+        <lastmod>2024-03-22T10:19:00+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://toruse.github.io/ru/portfolio/62/book-game-development-renpy</loc>
+        <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/62/book-game-development-renpy"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/62/book-game-development-renpy"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://toruse.github.io/ru/portfolio/62/book-game-development-renpy"/>
+        <lastmod>2024-03-22T10:19:00+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>https://toruse.github.io/portfolio/61/portfolio</loc>
         <xhtml:link rel="alternate" hreflang="ua" href="https://toruse.github.io/portfolio/61/portfolio"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://toruse.github.io/en/portfolio/61/portfolio"/>

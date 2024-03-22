@@ -11,7 +11,7 @@ image:
     src: /assets/img/work/portfolio.webp 
     width: 500
     height: 361
-next: 
+next: /ru/portfolio/62/book-game-development-renpy
 prev: /ru/portfolio/60/notificore
 ---
 
