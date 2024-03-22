@@ -21,7 +21,7 @@ prev: /ru/portfolio/53/kompetenzcenter
 
 Место работы
 
-* Компания _Belka-z
+* Компания _Belka-z_
 
 Реализовано
 

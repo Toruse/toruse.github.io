@@ -11,7 +11,7 @@ image:
     src: /assets/img/work/notificore.webp 
     width: 500
     height: 287
-next:
+next: /portfolio/61/portfolio
 prev: /portfolio/59/massmailsoftware
 ---
 

@@ -3,9 +3,61 @@
     <title><![CDATA[Portfolio]]></title>
     <link href="https://toruse.github.io/atom.xml" rel="self"/>
     <link href="https://toruse.github.io/"/>
-    <updated>2024-03-22T02:03:08+03:00</updated>
+    <updated>2024-03-22T09:49:44+03:00</updated>
     <id>https://toruse.github.io/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Portfolio]]></title>
+            <link href="https://toruse.github.io/portfolio/61/portfolio"/>
+            <updated>2024-03-22T01:44:00+03:00</updated>
+            <id>https://toruse.github.io/portfolio/61/portfolio</id>
+            <content type="html"><![CDATA[<p><strong>Портфоліо</strong> - список виконаних робіт, проектів та професійних досягнень.</p>
+
+<hr />
+
+<p>Реалізовано</p>
+
+<ul>
+<li>Дизайн.</li>
+<li>Заповнення сайту роботами.</li>
+<li>Оптимізацію сайту для пошукових систем.</li>
+<li>Фільтри по компаніях та технологіях</li>
+<li>Мультимовність.</li>
+</ul>
+
+<p>Виконана робота</p>
+
+<ul>
+<li>Спроектовано структуру сайту.</li>
+<li>Піднято проект на Sculpin.</li>
+<li>Виконана верстка.</li>
+<li>Зроблені шаблони для центральної сторінки та сторінки з роботою.</li>
+<li>Розроблено фільтри на Vanilla JS.</li>
+<li>Виконано оптимізацію CSS та JavaScript.</li>
+<li>Перевірений на помилки HTML.</li>
+<li>Виконано наповнення сайту роботами з використанням розмітки Markdown.</li>
+<li>Додана мультимовність.</li>
+<li>Виконано переклад робіт.</li>
+<li>Сайт оптимізований на основі PageSpeed.</li>
+<li>Інтегрована мікророзмітка Schema.org.</li>
+<li>Оптимізовані зображення та конвертовані в WebP.</li>
+<li>Інтегрована Google Analytics.</li>
+</ul>
+
+<p>Використовувалися технології / інструменти</p>
+
+<ul>
+<li>PHP, Sculpin, Twig, JavaScript, HTML, CSS, SCSS, Bootstrap, Markdown, PageSpeed, Schema.org, PhpStorm, Git, GitHub,
+Node.js, Yarn, Google Analytics, Photoshop</li>
+</ul>
+
+<p>Посилання на ресурси</p>
+
+<ul>
+<li><em>GitHub</em>: <a href="https://github.com/Toruse/toruse.github.io">https://github.com/Toruse/toruse.github.io</a></li>
+</ul>
+]]></content>
+        </entry>
             <entry>
             <title type="html"><![CDATA[notificore.com]]></title>
             <link href="https://toruse.github.io/portfolio/60/notificore"/>
@@ -135,7 +187,7 @@
 <p>Місце роботи</p>
 
 <ul>
-<li>Компанія _Belka-z</li>
+<li>Компанія <em>Belka-z</em></li>
 </ul>
 
 <p>Реалізовано</p>
@@ -249,56 +301,6 @@
 
 <ul>
 <li>PHP, Laravel, MySql, phpMyAdmin, JavaScript, jQuery, Facebook API, Google API, PhpStorm, Git, GitHub</li>
-</ul>
-]]></content>
-        </entry>
-            <entry>
-            <title type="html"><![CDATA[Infinity Lashes]]></title>
-            <link href="https://toruse.github.io/portfolio/51/infinity-lashes"/>
-            <updated>2019-12-01T02:03:00+03:00</updated>
-            <id>https://toruse.github.io/portfolio/51/infinity-lashes</id>
-            <content type="html"><![CDATA[<p><strong>Infinity Lashes</strong> - інтернет магазин для студії з професійного нарощування вій.</p>
-
-<hr />
-
-<p>Місце роботи</p>
-
-<ul>
-<li>Компанія <em>Belka-z</em></li>
-</ul>
-
-<p>Реалізовано</p>
-
-<ul>
-<li>Створено каталог товару.</li>
-<li>Розроблено сторінку товару.</li>
-<li>Зроблено розділ "Блог".</li>
-<li>Зроблено розділ "Академія".</li>
-<li>Створено сторінку "Знайти студію".</li>
-<li>Зроблено сторінку "Tainer/Distributor".</li>
-</ul>
-
-<p>Виконана робота</p>
-
-<ul>
-<li>Проектування бази даних для товару та варіації товарів, каталогу, блогу, академії.</li>
-<li>Створено каталог товару з пошуком, фільтрами та сортуванням.</li>
-<li>Створено сторінку товару. Розроблено функціонал для виведення товару з урахуванням його варіацій та властивостей.</li>
-<li>Доданий в адмін панель інтерфейс для роботи з каталогом товару, товарами та властивостями товару.</li>
-<li>Створено групи товарів, що змінюються і не змінюються. Відповідно перероблено кошик для роботи з цими товарами.</li>
-<li>Додана платіжна система Sofort.</li>
-<li>Створено розділ блогу з виведенням його на сайті та редагування через адмін панель.</li>
-<li>Додані фотоальбоми та можливість їх додати до текстового редактора через shortcode.</li>
-<li>Зроблено розділ "Академії" та блоковий конструктор для створення сторінок. Розроблено блоки текст, зображення, список, галерея, прайс.</li>
-<li>Розроблено сторінку "Знайти студію" з пошуком, який вказує місце розташування студії на карті.</li>
-<li>Зроблено сторінку "Tainer/Distributor".</li>
-<li>Розроблені віджети "Вам також може сподобатися", "Ми рекомендуємо", "Бестселери", "Останні статті".</li>
-</ul>
-
-<p>Використовувалися технології / інструменти</p>
-
-<ul>
-<li>PHP, Yii 2, MySql, phpMyAdmin, JavaScript, jQuery, HTML, CSS, Sofort API, Google MAP API, PhpStorm, Git, GitHub.</li>
 </ul>
 ]]></content>
         </entry>
