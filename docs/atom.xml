@@ -3,13 +3,41 @@
     <title><![CDATA[Portfolio]]></title>
     <link href="https://toruse.github.io/atom.xml" rel="self"/>
     <link href="https://toruse.github.io/"/>
-    <updated>2024-03-22T12:18:28+03:00</updated>
+    <updated>
+Deprecated: DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in D:\OpenServer600\home\portfolio.loc\public\vendor\twig\twig\src\Extension\CoreExtension.php on line 522
+2025-03-03T19:57:03+02:00</updated>
     <id>https://toruse.github.io/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
+            <title type="html"><![CDATA[QRCode Almate Shop]]></title>
+            <link href="https://toruse.github.io/portfolio/63/qrcode-almateshop"/>
+            <updated>2025-03-03T15:01:00+02:00</updated>
+            <id>https://toruse.github.io/portfolio/63/qrcode-almateshop</id>
+            <content type="html"><![CDATA[<p><strong>QRCode Almate Shop</strong> - сервіс з продажу стендів та карток з QR-кодом із вбудованим NFC чіпом, які дозволяють
+швидко виконати перехід на сторінку у соціальній мережі.</p>
+
+<hr />
+
+<p>Реалізовано</p>
+
+<ul>
+<li>Реалізовано особистий кабінет.</li>
+<li>Зроблено сервіс для редиректу посилань.</li>
+<li>Створено адмін панель.</li>
+<li>Реалізована покрокова активація та налаштування картки.</li>
+</ul>
+
+<p>Використовувалися технології / інструменти</p>
+
+<ul>
+<li>PHP, Laravel, MySql, phpMyAdmin, JavaScript, PhpStorm, Git, Bitbucket, CSS, Tailwind CSS.</li>
+</ul>
+]]></content>
+        </entry>
+            <entry>
             <title type="html"><![CDATA[Game Development with Ren’Py]]></title>
             <link href="https://toruse.github.io/portfolio/62/book-game-development-renpy"/>
-            <updated>2024-03-22T10:19:00+03:00</updated>
+            <updated>2024-03-22T10:19:00+02:00</updated>
             <id>https://toruse.github.io/portfolio/62/book-game-development-renpy</id>
             <content type="html"><![CDATA[<p><strong>Game Development with Ren’Py</strong> - переклад книги.</p>
 
@@ -50,7 +78,7 @@ Android SDK, Xcode, Photoshop.</li>
             <entry>
             <title type="html"><![CDATA[Portfolio]]></title>
             <link href="https://toruse.github.io/portfolio/61/portfolio"/>
-            <updated>2024-03-22T01:44:00+03:00</updated>
+            <updated>2024-03-22T01:44:00+02:00</updated>
             <id>https://toruse.github.io/portfolio/61/portfolio</id>
             <content type="html"><![CDATA[<p><strong>Портфоліо</strong> - список виконаних робіт, проектів та професійних досягнень.</p>
 
@@ -102,7 +130,7 @@ Node.js, Yarn, Google Analytics, Photoshop</li>
             <entry>
             <title type="html"><![CDATA[notificore.com]]></title>
             <link href="https://toruse.github.io/portfolio/60/notificore"/>
-            <updated>2021-08-19T22:10:00+03:00</updated>
+            <updated>2021-08-19T22:10:00+02:00</updated>
             <id>https://toruse.github.io/portfolio/60/notificore</id>
             <content type="html"><![CDATA[<p><strong>Notificore.com</strong> - комунікаційна маркетингова платформа для малого та середнього бізнесу.</p>
 
@@ -118,7 +146,7 @@ Node.js, Yarn, Google Analytics, Photoshop</li>
             <entry>
             <title type="html"><![CDATA[massmailsoftware.com]]></title>
             <link href="https://toruse.github.io/portfolio/59/massmailsoftware"/>
-            <updated>2021-05-28T21:32:00+03:00</updated>
+            <updated>2021-05-28T21:32:00+02:00</updated>
             <id>https://toruse.github.io/portfolio/59/massmailsoftware</id>
             <content type="html"><![CDATA[<p><strong>Massmailsoftware.com</strong> - сервіс з просування програмного забезпечення та сервісів для email та смс маркетингу.</p>
 
@@ -134,7 +162,7 @@ Node.js, Yarn, Google Analytics, Photoshop</li>
             <entry>
             <title type="html"><![CDATA[atompark.com]]></title>
             <link href="https://toruse.github.io/portfolio/58/atompark"/>
-            <updated>2021-05-28T21:24:00+03:00</updated>
+            <updated>2021-05-28T21:24:00+02:00</updated>
             <id>https://toruse.github.io/portfolio/58/atompark</id>
             <content type="html"><![CDATA[<p><strong>Atompark.com</strong> - сервіс з просування програмного забезпечення та сервісів для email та смс маркетингу.</p>
 
@@ -150,7 +178,7 @@ Node.js, Yarn, Google Analytics, Photoshop</li>
             <entry>
             <title type="html"><![CDATA[epochta.ru]]></title>
             <link href="https://toruse.github.io/portfolio/57/epochta"/>
-            <updated>2021-05-27T23:45:00+03:00</updated>
+            <updated>2021-05-27T23:45:00+02:00</updated>
             <id>https://toruse.github.io/portfolio/57/epochta</id>
             <content type="html"><![CDATA[<p><strong>ePochta.ru</strong> - сервіс з просування програмного забезпечення та сервісів для email та смс маркетингу.</p>
 
@@ -166,7 +194,7 @@ Node.js, Yarn, Google Analytics, Photoshop</li>
             <entry>
             <title type="html"><![CDATA[AtomPark Member Area]]></title>
             <link href="https://toruse.github.io/portfolio/56/atompark-member-area"/>
-            <updated>2021-05-27T23:45:00+03:00</updated>
+            <updated>2021-05-27T23:45:00+02:00</updated>
             <id>https://toruse.github.io/portfolio/56/atompark-member-area</id>
             <content type="html"><![CDATA[<p><strong>AtomPark</strong> - компанія з розробки та просування програмного забезпечення, сервісів для email та смс маркетингу.</p>
 
@@ -182,7 +210,7 @@ Node.js, Yarn, Google Analytics, Photoshop</li>
             <entry>
             <title type="html"><![CDATA[LuckyFishing]]></title>
             <link href="https://toruse.github.io/portfolio/55/luckyfishing"/>
-            <updated>2019-12-03T02:53:00+03:00</updated>
+            <updated>2019-12-03T02:53:00+02:00</updated>
             <id>https://toruse.github.io/portfolio/55/luckyfishing</id>
             <content type="html"><![CDATA[<p><strong>LuckyFishing</strong> - сайт-агрегатор для баз відпочинку, водойм, рибальських магазинів.</p>
 
@@ -219,7 +247,7 @@ Node.js, Yarn, Google Analytics, Photoshop</li>
             <entry>
             <title type="html"><![CDATA[eBuildCRM]]></title>
             <link href="https://toruse.github.io/portfolio/54/ebuildcrm"/>
-            <updated>2019-12-02T23:28:00+03:00</updated>
+            <updated>2019-12-02T23:28:00+02:00</updated>
             <id>https://toruse.github.io/portfolio/54/ebuildcrm</id>
             <content type="html"><![CDATA[<p><strong>eBuildCRM</strong> - система для управління замовленнями будівельної компанії, та планування їх виконання.</p>
 
@@ -261,50 +289,6 @@ Node.js, Yarn, Google Analytics, Photoshop</li>
 
 <ul>
 <li><em>GitHub</em>: <a href="https://github.com/Toruse/ebuild-crm">https://github.com/Toruse/ebuild-crm</a></li>
-</ul>
-]]></content>
-        </entry>
-            <entry>
-            <title type="html"><![CDATA[Kompetenzcenter]]></title>
-            <link href="https://toruse.github.io/portfolio/53/kompetenzcenter"/>
-            <updated>2019-12-02T21:07:00+03:00</updated>
-            <id>https://toruse.github.io/portfolio/53/kompetenzcenter</id>
-            <content type="html"><![CDATA[<p>Плагін для запису на консультацію до центру компетенції.</p>
-
-<hr />
-
-<p>Місце роботи</p>
-
-<ul>
-<li>Компанія <em>Belka-z</em></li>
-</ul>
-
-<p>Реалізовано</p>
-
-<ul>
-<li>Розроблено плагін для запису на консультацію.</li>
-<li>Технічна підтримка сайту.</li>
-</ul>
-
-<p>Виконана робота</p>
-
-<ul>
-<li>Створено форму для вказівки даних та вибору вільного часу для консультації.</li>
-<li>Додано новий тип запису для обліку записаних на прийом та вказівки результату консультації.</li>
-<li>Реалізовано блокування днів та часу зайнятих консультацією.</li>
-<li>Створено розділ налаштувань для плагіна, в якому можна вказати типи консультацій, поля для заповнення, час прийому, дні та час закриті для прийому.</li>
-</ul>
-
-<p>Використовувалися технології / інструменти</p>
-
-<ul>
-<li>PHP, WordPress, MySql, JavaScript, jQuery, HTML, PhpStorm, Git, Bitbucket</li>
-</ul>
-
-<p>Посилання на ресурси</p>
-
-<ul>
-<li><em>GitHub</em>: <a href="https://github.com/Toruse/calendar-consultations">https://github.com/Toruse/calendar-consultations</a></li>
 </ul>
 ]]></content>
         </entry>

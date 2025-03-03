@@ -11,7 +11,7 @@ image:
     src: /assets/img/work/book_game_development_renpy.webp 
     width: 330
     height: 500
-next: 
+next: /portfolio/63/qrcode-almateshop
 prev: /portfolio/61/portfolio
 ---
 
