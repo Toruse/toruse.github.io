@@ -2,9 +2,9 @@
 layout: portfolio
 title: Kredito Organizacijos
 tag_title: Kredito Organizacijos
-categories:
-    - Фріланс
-tags: [WordPress, Google Analytics]
+#categories:
+#    - Фріланс
+#tags: [WordPress, Google Analytics]
 date: 25.11.2019 23:57
 sort: 46
 image: 
@@ -13,6 +13,7 @@ image:
     height: 284
 next: /portfolio/47/time-machine
 prev: /portfolio/45/iloveasia
+disable: true
 ---
 
 Сайт візитівка для кредитної організації.

@@ -2,9 +2,9 @@
 layout: portfolio
 title: Zalik!
 tag_title: Залік!
-categories:
-    - Belka-z
-tags: [PHP, Laravel, Voyager, MySql, PhpStorm]
+#categories:
+#    - Belka
+#tags: [PHP, Laravel, Voyager, MySql, PhpStorm]
 date: 01.12.2019 01:39
 sort: 50
 image: 
@@ -13,6 +13,7 @@ image:
     height: 284
 next: /portfolio/51/infinity-lashes
 prev: /portfolio/33/syo-framework
+disable: true
 ---
 
 **Зачет!** - сервіс, що надає допомогу у виконанні будь-яких видів студентських робіт.
@@ -21,7 +22,7 @@ prev: /portfolio/33/syo-framework
 
 Місце роботи
 
-* Компанія _Belka-z_
+* Компанія _Belka_
 
 Виконана робота
 

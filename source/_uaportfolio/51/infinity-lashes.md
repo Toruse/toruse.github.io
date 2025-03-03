@@ -3,7 +3,7 @@ layout: portfolio
 title: Infinity Lashes
 tag_title: Infinity Lashes
 categories:
-    - Belka-z
+    - Belka
 tags: [PHP, Yii 2, MySql, phpMyAdmin, JavaScript, jQuery, HTML, CSS, Sofort API, Google MAP API, PhpStorm, Git, GitHub]
 date: 01.12.2019 02:03
 sort: 51
@@ -21,7 +21,7 @@ prev: /portfolio/50/zachet
 
 Місце роботи
 
-* Компанія _Belka-z_
+* Компанія _Belka_
 
 Реалізовано
 

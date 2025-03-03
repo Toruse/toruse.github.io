@@ -2,9 +2,9 @@
 layout: portfolio
 title: Kabel-OK
 tag_title: Kabel-OK
-categories:
-    - Revolife
-tags: [PHP, HTML, CSS, jQuery, Smarty, Git, NetBeans]
+#categories:
+#    - Revolife
+#tags: [PHP, HTML, CSS, jQuery, Smarty, Git, NetBeans]
 date: 05.08.2015 06:48
 sort: 17
 image: 
@@ -13,6 +13,7 @@ image:
     height: 429
 next: /portfolio/18/ksenita
 prev: /portfolio/16/hittakupong
+disable: true
 ---
 
 **Kabel-OK** - сайт виробника кабельних каналів та інших комплектуючих для верстатобудування та промислових галузей.

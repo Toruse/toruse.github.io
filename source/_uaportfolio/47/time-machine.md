@@ -3,7 +3,7 @@ layout: portfolio
 title: Time Machine
 tag_title: Time Machine
 categories:
-    - Belka-z
+    - Belka
 tags: [PHP, Yii 2, MySQL, phpMyAdmin, JavaScript, jQuery, D3.js, HTML, CSS, OpenServer, PhpStorm, Bitbucket]
 date: 27.11.2019 21:04
 sort: 47
@@ -21,7 +21,7 @@ prev: /portfolio/46/kredito-organizacijos
 
 Місце роботи
 
-* Компанія _Belka-z_
+* Компанія _Belka_
 
 Реалізований функціонал
 

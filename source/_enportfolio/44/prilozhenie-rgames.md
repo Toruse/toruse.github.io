@@ -3,7 +3,7 @@ layout: enportfolio
 title: RGames app
 tag_title: RGames app
 categories:
-    - Belka-z
+    - Belka
 tags: [Electron, Node.js, PHP, JavaScript, jQuery, HTML, CSS, PhpStorm]
 date: 23.11.2019 00:27
 sort: 44
@@ -21,7 +21,7 @@ prev: /en/portfolio/43/razrabotka-cms-magazina
 
 Place of work
 
-* Company _Belka-z_
+* Company _Belka_
 
 Implemented
 

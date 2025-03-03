@@ -3,7 +3,7 @@ layout: enportfolio
 title: Yota REST API
 tag_title: Yota REST API
 categories:
-    - Belka-z
+    - Belka
 tags: [PHP, Yii 1.1, HTML, PHPMailer, SMS API, OpenServer, PhpStorm, Git, Bitbucket]
 date: 14.05.2017 19:41
 sort: 35
@@ -21,7 +21,7 @@ prev: /en/portfolio/36/servis-licenziy
 
 Place of work
 
-* Company _Belka-z_
+* Company _Belka_
 
 Implemented
 

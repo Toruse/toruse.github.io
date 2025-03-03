@@ -5,7 +5,7 @@
     <link href="https://toruse.github.io/"/>
     <updated>
 Deprecated: DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in D:\OpenServer600\home\portfolio.loc\public\vendor\twig\twig\src\Extension\CoreExtension.php on line 522
-2025-03-03T19:57:03+02:00</updated>
+2025-03-03T23:01:33+02:00</updated>
     <id>https://toruse.github.io/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
@@ -219,7 +219,7 @@ Node.js, Yarn, Google Analytics, Photoshop</li>
 <p>Місце роботи</p>
 
 <ul>
-<li>Компанія <em>Belka-z</em></li>
+<li>Компанія <em>Belka</em></li>
 </ul>
 
 <p>Реалізовано</p>
@@ -256,7 +256,7 @@ Node.js, Yarn, Google Analytics, Photoshop</li>
 <p>Місце роботи</p>
 
 <ul>
-<li>Компанія <em>Belka-z</em></li>
+<li>Компанія <em>Belka</em></li>
 </ul>
 
 <p>Реалізовано</p>

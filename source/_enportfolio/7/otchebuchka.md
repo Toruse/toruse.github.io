@@ -2,9 +2,9 @@
 layout: enportfolio
 title: Otchebuchka
 tag_title: Otchebuchka
-categories:
-    - Freelancing
-tags: [HTML, CSS, JavaScript, jQuery, Flash, Photoshop]
+#categories:
+#    - Freelancing
+#tags: [HTML, CSS, JavaScript, jQuery, Flash, Photoshop]
 date: 11.03.2014 00:43
 sort: 7
 image: 
@@ -13,6 +13,7 @@ image:
     height: 357
 next: /en/portfolio/5/otchebuchka
 prev: /en/portfolio/2/hobby-mania
+disable: true
 ---
 
 Layout of the main page for the Otchebuchka project.

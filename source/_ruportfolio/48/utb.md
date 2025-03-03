@@ -3,7 +3,7 @@ layout: ruportfolio
 title: UTB
 tag_title: UTB
 categories:
-    - Belka-z
+    - Belka
 tags: [PHP, Yii 2, MySQL, JavaScript, AngularJS 1.6, OpenServer, PhpStorm, GitHub]
 date: 29.11.2019 18:44
 sort: 48
@@ -21,7 +21,7 @@ prev: /ru/portfolio/47/time-machine
 
 Место работы
 
-* Компания _Belka-z_
+* Компания _Belka_
 
 Реализованный функционал
 

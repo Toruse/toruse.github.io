@@ -2,9 +2,9 @@
 layout: ruportfolio
 title: Auri
 tag_title: Auri
-categories:
-    - Фриланс
-tags: [HTML, CSS, JavaScript, jQuery, CKEeditor, Photoshop]
+#categories:
+#    - Фриланс
+#tags: [HTML, CSS, JavaScript, jQuery, CKEeditor, Photoshop]
 date: 27.08.2015 05:07
 sort: 28
 image: 
@@ -13,6 +13,7 @@ image:
     height: 283
 next: /ru/portfolio/29/corsar
 prev: /ru/portfolio/27/podless
+disable: true
 ---
 
 **Auri** - интернет-портал виртуальных вещей.

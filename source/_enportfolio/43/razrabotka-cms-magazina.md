@@ -3,7 +3,7 @@ layout: enportfolio
 title: Store CMS Development
 tag_title: Store CMS Development
 categories:
-    - Belka-z
+    - Belka
 tags: [Yii 2, phpQuery, PHP, VK API, jQuery, JavaScript, HTML, CSS, 1С Enterprise, OpenServer, PhpStorm, Git, Bitbucket]
 date: 05.06.2017 19:13
 sort: 43
@@ -21,7 +21,7 @@ prev: /en/portfolio/41/mbfn-rf
 
 Place of work
 
-* Company _Belka-z_
+* Company _Belka_
 
 Implemented
 

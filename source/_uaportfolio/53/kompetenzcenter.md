@@ -3,7 +3,7 @@ layout: portfolio
 title: Kompetenzcenter
 tag_title: Kompetenzcenter
 categories:
-    - Belka-z
+    - Belka
 tags: [PHP, WordPress, MySql, JavaScript, jQuery, HTML, PhpStorm, Git, Bitbucket]
 date: 02.12.2019 21:07
 sort: 53
@@ -21,7 +21,7 @@ prev: /portfolio/52/babyfein
 
 Місце роботи
 
-* Компанія _Belka-z_
+* Компанія _Belka_
 
 Реалізовано
 

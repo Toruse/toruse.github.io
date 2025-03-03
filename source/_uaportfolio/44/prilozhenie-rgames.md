@@ -3,7 +3,7 @@ layout: portfolio
 title: Dodatok RGames
 tag_title: Додаток RGames
 categories:
-    - Belka-z
+    - Belka
 tags: [Electron, Node.js, PHP, JavaScript, jQuery, HTML, CSS, PhpStorm]
 date: 23.11.2019 00:27
 sort: 44
@@ -21,7 +21,7 @@ prev: /portfolio/43/razrabotka-cms-magazina
 
 Місце роботи
 
-* Компанія _Belka-z_
+* Компанія _Belka_
 
 Реалізований функціонал
 

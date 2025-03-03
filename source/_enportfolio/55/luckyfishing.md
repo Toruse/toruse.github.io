@@ -3,7 +3,7 @@ layout: enportfolio
 title: LuckyFishing
 tag_title: LuckyFishing
 categories:
-    - Belka-z
+    - Belka
 tags: [PHP, Laravel, MySql, phpMyAdmin, JavaScript, jQuery, PhpStorm, Git, Bitbucket]
 date: 03.12.2019 02:53
 sort: 55
@@ -21,7 +21,7 @@ prev: /en/portfolio/54/ebuildcrm
 
 Place of work
 
-* Company _Belka-z_
+* Company _Belka_
 
 Implemented
 

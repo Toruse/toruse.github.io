@@ -2,9 +2,9 @@
 layout: portfolio
 title: Auri
 tag_title: Auri
-categories:
-    - Фріланс
-tags: [HTML, CSS, JavaScript, jQuery, CKEeditor, Photoshop]
+#categories:
+#    - Фріланс
+#tags: [HTML, CSS, JavaScript, jQuery, CKEeditor, Photoshop]
 date: 27.08.2015 05:07
 sort: 28
 image: 
@@ -13,6 +13,7 @@ image:
     height: 283
 next: /portfolio/29/corsar
 prev: /portfolio/27/podless
+disable: true
 ---
 
 **Auri** - інтернет-портал віртуальних речей.

@@ -3,7 +3,7 @@ layout: portfolio
 title: eBuildCRM
 tag_title: eBuildCRM
 categories:
-    - Belka-z
+    - Belka
 tags: [PHP, Laravel, MySql, phpMyAdmin, JavaScript, jQuery, PhpStorm, Git, GitHub]
 date: 02.12.2019 23:28
 sort: 54
@@ -21,7 +21,7 @@ prev: /portfolio/53/kompetenzcenter
 
 Місце роботи
 
-* Компанія _Belka-z_
+* Компанія _Belka_
 
 Реалізовано
 

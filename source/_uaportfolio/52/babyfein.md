@@ -3,7 +3,7 @@ layout: portfolio
 title: Babyfein
 tag_title: Babyfein
 categories:
-    - Belka-z
+    - Belka
 tags: [PHP, Laravel, MySql, phpMyAdmin, JavaScript, jQuery, Facebook API, Google API, PhpStorm, Git, GitHub]
 date: 02.12.2019 18:28
 sort: 52
@@ -21,7 +21,7 @@ prev: /portfolio/51/infinity-lashes
 
 Місце роботи
 
-* Компанія _Belka-z_
+* Компанія _Belka_
 
 Реалізовано
 

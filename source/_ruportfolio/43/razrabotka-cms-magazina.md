@@ -3,7 +3,7 @@ layout: ruportfolio
 title: Razrabotka CMS Magazina
 tag_title: Разработка CMS Магазина
 categories:
-    - Belka-z
+    - Belka
 tags: [Yii 2, phpQuery, PHP, VK API, jQuery, JavaScript, HTML, CSS, 1С Предприятие, OpenServer, PhpStorm, Git, Bitbucket]
 date: 05.06.2017 19:13
 sort: 43
@@ -21,7 +21,7 @@ prev: /ru/portfolio/41/mbfn-rf
 
 Место работы
 
-* Компания _Belka-z_
+* Компания _Belka_
 
 Реализованный функционал
 

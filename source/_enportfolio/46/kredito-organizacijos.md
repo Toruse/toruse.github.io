@@ -2,9 +2,9 @@
 layout: enportfolio
 title: Kredito Organizacijos
 tag_title: Kredito Organizacijos
-categories:
-    - Freelancing
-tags: [WordPress, Google Analytics]
+#categories:
+#    - Freelancing
+#tags: [WordPress, Google Analytics]
 date: 25.11.2019 23:57
 sort: 46
 image: 
@@ -13,6 +13,7 @@ image:
     height: 284
 next: /en/portfolio/47/time-machine
 prev: /en/portfolio/45/iloveasia
+disable: true
 ---
 
 Business card website for a credit institution.

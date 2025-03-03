@@ -2,9 +2,9 @@
 layout: enportfolio
 title: Zachet!
 tag_title: Zachet!
-categories:
-    - Belka-z
-tags: [PHP, Laravel, Voyager, MySql, PhpStorm]
+#categories:
+#    - Belka
+#tags: [PHP, Laravel, Voyager, MySql, PhpStorm]
 date: 01.12.2019 01:39
 sort: 50
 image: 
@@ -13,6 +13,7 @@ image:
     height: 284
 next: /en/portfolio/51/infinity-lashes
 prev: /en/portfolio/33/syo-framework
+disable: true
 ---
 
 **Zachet!** - service that provides assistance in performing any type of student work.
@@ -21,7 +22,7 @@ prev: /en/portfolio/33/syo-framework
 
 Place of work
 
-* Company _Belka-z_
+* Company _Belka_
 
 Work done
 

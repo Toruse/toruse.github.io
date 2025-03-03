@@ -3,7 +3,7 @@ layout: portfolio
 title: ILoveAsia
 tag_title: ILoveAsia
 categories:
-    - Belka-z
+    - Belka
 tags: [PHP, Yii 2, MySql, PhpStorm]
 date: 25.11.2019 21:13
 sort: 45
@@ -21,7 +21,7 @@ prev: /portfolio/42/sayt-konkursa-fiabci
 
 Місце роботи
 
-* Компанія _Belka-z_
+* Компанія _Belka_
 
 Реалізовано
 

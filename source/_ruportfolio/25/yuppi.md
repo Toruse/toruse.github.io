@@ -2,9 +2,9 @@
 layout: ruportfolio
 title: Yuppi
 tag_title: Yuppi
-categories:
-    - Revolife
-tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
+#categories:
+#    - Revolife
+#tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
 date: 09.08.2015 00:27
 sort: 25
 image: 
@@ -13,6 +13,7 @@ image:
     height: 281
 next: /ru/portfolio/26/zhurba
 prev: /ru/portfolio/24/tesoro
+disable: true
 ---
 
 **Yuppi** - интернет-магазин брендовой обуви из Польши и США.

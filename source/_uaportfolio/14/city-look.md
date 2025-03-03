@@ -2,9 +2,9 @@
 layout: portfolio
 title: City Look
 tag_title: City Look
-categories:
-    - Revolife
-tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
+#categories:
+#    - Revolife
+#tags: [PHP, HTML, CSS, JavaScript, jQuery, MySQL, Smarty, Git, NetBeans]
 date: 30.06.2015 04:42
 sort: 14
 image: 
@@ -13,6 +13,7 @@ image:
     height: 284
 next: /portfolio/15/ferst-interektiv
 prev: /portfolio/13/brise-und-welle
+disable: true
 ---
 
 **City Look** - інтернет-магазин одягу, взуття та аксесуарів.

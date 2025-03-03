@@ -2,9 +2,9 @@
 layout: portfolio
 title: Otchebuchka
 tag_title: Otchebuchka
-categories:
-    - Фріланс
-tags: [HTML, CSS, JavaScript, jQuery, Flash, Photoshop]
+#categories:
+#    - Фріланс
+#tags: [HTML, CSS, JavaScript, jQuery, Flash, Photoshop]
 date: 11.03.2014 00:43
 sort: 7
 image: 
@@ -13,6 +13,7 @@ image:
     height: 357
 next: /portfolio/5/otchebuchka
 prev: /portfolio/2/hobby-mania
+disable: true
 ---
 
 Верстка головної сторінки для проекту Otchebuchka.

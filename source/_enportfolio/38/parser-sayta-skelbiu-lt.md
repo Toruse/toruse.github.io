@@ -2,9 +2,9 @@
 layout: enportfolio
 title: Skelbiu.lt Website Parser
 tag_title: Skelbiu.lt website parser
-categories:
-    - Freelancing
-tags: [PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm]
+#categories:
+#    - Freelancing
+#tags: [PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm]
 date: 01.06.2017 22:31
 sort: 38
 image: 
@@ -13,6 +13,7 @@ image:
     height: 449
 next: /en/portfolio/39/parser-sayta-list-am
 prev: /en/portfolio/37/parser-sayta-rekvizitai-vz-lt
+disable: true
 ---
 
 **Parser** for a sampling of phone numbers and e-mails of companies providing construction and repair services.

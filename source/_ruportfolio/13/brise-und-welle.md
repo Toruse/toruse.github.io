@@ -2,9 +2,9 @@
 layout: ruportfolio
 title: Brise und Welle
 tag_title: Brise und Welle
-categories:
-    - Revolife
-tags: [PHP, HTML, Smarty, Git, NetBeans]
+#categories:
+#    - Revolife
+#tags: [PHP, HTML, Smarty, Git, NetBeans]
 date: 29.06.2015 09:04
 sort: 13
 image: 
@@ -13,6 +13,7 @@ image:
     height: 284
 next: /ru/portfolio/14/city-look
 prev: /ru/portfolio/12/alyansprint
+disable: true
 ---
 
 **Brise und Welle** - сайт косметологической студии.

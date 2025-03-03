@@ -2,9 +2,9 @@
 layout: ruportfolio
 title: Zachet!
 tag_title: Зачет!
-categories:
-    - Belka-z
-tags: [PHP, Laravel, Voyager, MySql, PhpStorm]
+#categories:
+#    - Belka
+#tags: [PHP, Laravel, Voyager, MySql, PhpStorm]
 date: 01.12.2019 01:39
 sort: 50
 image: 
@@ -13,6 +13,7 @@ image:
     height: 284
 next: /ru/portfolio/51/infinity-lashes
 prev: /ru/portfolio/33/syo-framework
+disable: true
 ---
 
 **Зачет!** - сервис предоставляющий помощь в выполнении любых видов студенческих работ.
@@ -21,7 +22,7 @@ prev: /ru/portfolio/33/syo-framework
 
 Место работы
 
-* Компания _Belka-z_
+* Компания _Belka_
 
 Проделанная работа
 

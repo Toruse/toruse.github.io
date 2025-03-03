@@ -2,9 +2,9 @@
 layout: portfolio
 title: Mms.e-produce.ru
 tag_title: Mms.e-produce.ru
-categories:
-    - Belka-z
-tags: [JavaScript, API Яндекс.Карт, PHP, Yii 1.1, PhpStorm]
+#categories:
+#    - Belka
+#tags: [JavaScript, API Яндекс.Карт, PHP, Yii 1.1, PhpStorm]
 date: 03.06.2017 21:51
 sort: 40
 image: 
@@ -13,6 +13,7 @@ image:
     height: 283
 next: /portfolio/41/mbfn-rf
 prev: /portfolio/39/parser-sayta-list-am
+disable: true
 ---
 
 **Mms.e-produce.ru** - сайт з розіграшу новорічних подарунків.
@@ -21,7 +22,7 @@ prev: /portfolio/39/parser-sayta-list-am
 
 Місце роботи
 
-* Компанія _Belka-z_
+* Компанія _Belka_
 
 Реалізований функціонал
 

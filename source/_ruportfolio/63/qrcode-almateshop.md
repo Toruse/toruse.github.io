@@ -4,7 +4,7 @@ title: QRCode Almate Shop
 tag_title: QRCode Almate Shop
 categories:
     - Almate Shop
-tags: [PHP, Laravel, MySql, phpMyAdmin, JavaScript, PhpStorm, Git, Bitbucket, CSS, Tailwind CSS]
+tags: [PHP, Laravel, MySql, phpMyAdmin, JavaScript, Google API, PhpStorm, Git, Bitbucket, CSS, Tailwind CSS]
 date: 03.03.2025 15:01
 sort: 63
 image: 

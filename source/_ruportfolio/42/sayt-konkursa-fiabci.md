@@ -2,9 +2,9 @@
 layout: ruportfolio
 title: Sayt konkursa FIABCI
 tag_title: Сайт конкурса FIABCI
-categories:
-    - Belka-z
-tags: [PHP, Yii 2, HTML, JavaScript, jQuery, Fancybox, PhpStorm, OpenServer]
+#categories:
+#    - Belka
+#tags: [PHP, Yii 2, HTML, JavaScript, jQuery, Fancybox, PhpStorm, OpenServer]
 date: 24.11.2019 16:07
 sort: 42
 image: 
@@ -13,6 +13,7 @@ image:
     height: 277
 next: /ru/portfolio/45/iloveasia
 prev: /ru/portfolio/44/prilozhenie-rgames
+disable: true
 ---
 
 **Конкурс FIABCI** - один из самых престижных конкурсов в области недвижимости.
@@ -21,7 +22,7 @@ prev: /ru/portfolio/44/prilozhenie-rgames
 
 Место работы
 
-* Компания _Belka-z_
+* Компания _Belka_
 
 Реализовано
 

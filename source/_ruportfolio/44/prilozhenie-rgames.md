@@ -3,7 +3,7 @@ layout: ruportfolio
 title: Prilozhenie RGames
 tag_title: Приложение RGames
 categories:
-    - Belka-z
+    - Belka
 tags: [Electron, Node.js, PHP, JavaScript, jQuery, HTML, CSS, PhpStorm]
 date: 23.11.2019 00:27
 sort: 44
@@ -21,7 +21,7 @@ prev: /ru/portfolio/43/razrabotka-cms-magazina
 
 Место работы
 
-* Компания _Belka-z_
+* Компания _Belka_
 
 Реализованный функционал
 

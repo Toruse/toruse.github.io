@@ -2,9 +2,9 @@
 layout: enportfolio
 title: Mbfn.rf
 tag_title: Mbfn.rf
-categories:
-    - Belka-z
-tags: [Joomla 2.5, ChronoForms, HTML, JavaScript, CSS, PHP, PhpStorm, OpenServer]
+#categories:
+#    - Belka
+#tags: [Joomla 2.5, ChronoForms, HTML, JavaScript, CSS, PHP, PhpStorm, OpenServer]
 date: 04.06.2017 17:36
 sort: 41
 image: 
@@ -13,6 +13,7 @@ image:
     height: 399
 next: /en/portfolio/43/razrabotka-cms-magazina
 prev: /en/portfolio/40/mms-e-produce-ru
+disable: true
 ---
 
 **MBFN** - International Real Estate Business Forum 2017, real estate exhibition.
@@ -21,7 +22,7 @@ prev: /en/portfolio/40/mms-e-produce-ru
 
 Place of work
 
-* Company _Belka-z_
+* Company _Belka_
 
 Implemented
 

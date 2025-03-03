@@ -2,9 +2,9 @@
 layout: ruportfolio
 title: Mbfn.rf
 tag_title: Мбфн.рф
-categories:
-    - Belka-z
-tags: [Joomla 2.5, ChronoForms, HTML, JavaScript, CSS, PHP, PhpStorm, OpenServer]
+#categories:
+#    - Belka
+#tags: [Joomla 2.5, ChronoForms, HTML, JavaScript, CSS, PHP, PhpStorm, OpenServer]
 date: 04.06.2017 17:36
 sort: 41
 image: 
@@ -13,6 +13,7 @@ image:
     height: 399
 next: /ru/portfolio/43/razrabotka-cms-magazina
 prev: /ru/portfolio/40/mms-e-produce-ru
+disable: true
 ---
 
 **МБФН** - Международный Бизнес Форум Недвижимости 2017 года, выставка недвижимости.
@@ -21,7 +22,7 @@ prev: /ru/portfolio/40/mms-e-produce-ru
 
 Место работы
 
-* Компания _Belka-z_
+* Компания _Belka_
 
 Реализовано
 

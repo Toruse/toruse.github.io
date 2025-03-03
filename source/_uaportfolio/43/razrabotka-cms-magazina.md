@@ -3,7 +3,7 @@ layout: portfolio
 title: Rozrobka CMS Magazinu
 tag_title: Розробка CMS Магазину
 categories:
-    - Belka-z
+    - Belka
 tags: [Yii 2, phpQuery, PHP, VK API, jQuery, JavaScript, HTML, CSS, 1С Предприятие, OpenServer, PhpStorm, Git, Bitbucket]
 date: 05.06.2017 19:13
 sort: 43
@@ -21,7 +21,7 @@ prev: /portfolio/41/mbfn-rf
 
 Місце роботи
 
-* Компанія _Belka-z_
+* Компанія _Belka_
 
 Реалізований функціонал
 

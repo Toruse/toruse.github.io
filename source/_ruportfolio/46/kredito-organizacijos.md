@@ -2,9 +2,9 @@
 layout: ruportfolio
 title: Kredito Organizacijos
 tag_title: Kredito Organizacijos
-categories:
-    - Фриланс
-tags: [WordPress, Google Analytics]
+#categories:
+#    - Фриланс
+#tags: [WordPress, Google Analytics]
 date: 25.11.2019 23:57
 sort: 46
 image: 
@@ -13,6 +13,7 @@ image:
     height: 284
 next: /ru/portfolio/47/time-machine
 prev: /ru/portfolio/45/iloveasia
+disable: true
 ---
 
 Сайт визитка для кредитной организации.

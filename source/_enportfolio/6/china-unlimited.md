@@ -2,9 +2,9 @@
 layout: enportfolio
 title: China-Unlimited
 tag_title: China-Unlimited
-categories:
-    - China-Unlimited
-tags: [PHP, SMS API, HTML, CSS, JavaScript, jQuery]
+#categories:
+#    - China-Unlimited
+#tags: [PHP, SMS API, HTML, CSS, JavaScript, jQuery]
 date: 10.03.2014 22:39
 sort: 6
 image: 
@@ -13,6 +13,7 @@ image:
     height: 333
 next: /en/portfolio/2/hobby-mania
 prev: /en/portfolio/1/neocube-ukraina
+disable: true
 ---
 
 **China-Unlimited** - website business card of a company delivering goods from China.

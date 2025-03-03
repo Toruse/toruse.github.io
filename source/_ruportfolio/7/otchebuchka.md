@@ -2,9 +2,9 @@
 layout: ruportfolio
 title: Otchebuchka
 tag_title: Otchebuchka
-categories:
-    - Фриланс
-tags: [HTML, CSS, JavaScript, jQuery, Flash, Photoshop]
+#categories:
+#    - Фриланс
+#tags: [HTML, CSS, JavaScript, jQuery, Flash, Photoshop]
 date: 11.03.2014 00:43
 sort: 7
 image: 
@@ -13,6 +13,7 @@ image:
     height: 357
 next: /ru/portfolio/5/otchebuchka
 prev: /ru/portfolio/2/hobby-mania
+disable: true
 ---
 
 Верстка главной страницы для проекта Otchebuchka.

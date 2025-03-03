@@ -2,9 +2,9 @@
 layout: enportfolio
 title: FIABCI competition website
 tag_title: FIABCI competition website
-categories:
-    - Belka-z
-tags: [PHP, Yii 2, HTML, JavaScript, jQuery, Fancybox, PhpStorm, OpenServer]
+#categories:
+#    - Belka
+#tags: [PHP, Yii 2, HTML, JavaScript, jQuery, Fancybox, PhpStorm, OpenServer]
 date: 24.11.2019 16:07
 sort: 42
 image: 
@@ -13,6 +13,7 @@ image:
     height: 277
 next: /en/portfolio/45/iloveasia
 prev: /en/portfolio/44/prilozhenie-rgames
+disable: true
 ---
 
 **FIABCI Competition** - one of the most prestigious competitions in the field of real estate.
@@ -21,7 +22,7 @@ prev: /en/portfolio/44/prilozhenie-rgames
 
 Place of work
 
-* Company _Belka-z_
+* Company _Belka_
 
 Implemented
 

@@ -2,9 +2,9 @@
 layout: portfolio
 title: Corsar
 tag_title: Corsar
-categories:
-    - Revolife
-tags: [PHP, phpQuery, MySQL, Git, NetBeans]
+#categories:
+#    - Revolife
+#tags: [PHP, phpQuery, MySQL, Git, NetBeans]
 date: 29.08.2015 22:43
 sort: 29
 image: 
@@ -13,6 +13,7 @@ image:
     height: 284
 next: /portfolio/30/plagin-list-players-online-dlya-wordpress
 prev: /portfolio/28/auri
+disable: true
 ---
 
 **Corsar** - інтернет-магазин товарів для туризму та активного відпочинку.

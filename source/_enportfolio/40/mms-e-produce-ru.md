@@ -2,9 +2,9 @@
 layout: enportfolio
 title: Mms.e-produce.ru
 tag_title: Mms.e-produce.ru
-categories:
-    - Belka-z
-tags: [JavaScript, API Yandex.Maps, PHP, Yii 1.1, PhpStorm]
+#categories:
+#    - Belka
+#tags: [JavaScript, API Yandex.Maps, PHP, Yii 1.1, PhpStorm]
 date: 03.06.2017 21:51
 sort: 40
 image: 
@@ -13,6 +13,7 @@ image:
     height: 283
 next: /en/portfolio/41/mbfn-rf
 prev: /en/portfolio/39/parser-sayta-list-am
+disable: true
 ---
 
 **Mms.e-produce.ru** - New Year's gift giveaway site.
@@ -21,7 +22,7 @@ prev: /en/portfolio/39/parser-sayta-list-am
 
 Place of work
 
-* Company _Belka-z_
+* Company _Belka_
 
 Implemented
 

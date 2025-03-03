@@ -2,9 +2,9 @@
 layout: portfolio
 title: Parser sajtu Skelbiu.lt
 tag_title: Парсер сайту Skelbiu.lt
-categories:
-    - Фріланс
-tags: [PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm]
+#categories:
+#    - Фріланс
+#tags: [PHP, phpQuery, PHPExcel, MySql, OpenServer, PhpStorm]
 date: 01.06.2017 22:31
 sort: 38
 image: 
@@ -13,6 +13,7 @@ image:
     height: 449
 next: /portfolio/39/parser-sayta-list-am
 prev: /portfolio/37/parser-sayta-rekvizitai-vz-lt
+disable: true
 ---
 
 **Парсер** для вибірки телефонів, e-mail компаній, що надають будівельні та ремонтні послуги.
